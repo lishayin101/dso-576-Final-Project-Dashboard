@@ -1,0 +1,21 @@
+table,check,expected,observed,passed,detail
+market_size,unique geography-category-year keys,pass,pass,True,Generated synthetic demonstration data.
+market_size,demo region set is complete,pass,pass,True,Generated synthetic demonstration data.
+market_size,year range is 2011 through 2025,pass,pass,True,Generated synthetic demonstration data.
+market_size,category components match totals,pass,pass,True,Generated synthetic demonstration data.
+market_size,volumes are nonnegative,pass,pass,True,Generated synthetic demonstration data.
+company_share,unique company-share keys,pass,pass,True,Generated synthetic demonstration data.
+company_share,all generated shares are nonnegative,pass,pass,True,Generated synthetic demonstration data.
+company_share,total rows equal 100 percent,pass,pass,True,Generated synthetic demonstration data.
+company_share,company rows sum to 100 percent,pass,pass,True,Generated synthetic demonstration data.
+company_share,only demo regions are present,pass,pass,True,Generated synthetic demonstration data.
+ingredient,unique geography-ingredient-year keys,pass,pass,True,Generated synthetic demonstration data.
+ingredient,year range is 2020 through 2025,pass,pass,True,Generated synthetic demonstration data.
+ingredient,generated tonnes are nonnegative,pass,pass,True,Generated synthetic demonstration data.
+ingredient,world is sum of demo regions,pass,pass,True,Generated synthetic demonstration data.
+dimensions,all map rows have region assignments,pass,pass,True,Generated synthetic demonstration data.
+dimensions,ingredient groups have labels,pass,pass,True,Generated synthetic demonstration data.
+demo_data,no source observations included,pass,pass,True,Generated synthetic demonstration data.
+demo_data,all generated values are synthetic,pass,pass,True,Generated synthetic demonstration data.
+demo_data,required CSV schemas are present,pass,pass,True,Generated synthetic demonstration data.
+demo_data,optional CSV schemas are present,pass,pass,True,Generated synthetic demonstration data.

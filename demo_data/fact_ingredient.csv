@@ -1,0 +1,961 @@
+geography,geo_level,ingredient,sweetener_type,sweetener_group,year,tonnes,tonnes_status,pct_breakdown,pct_breakdown_status
+North America,region,Demo Ingredient 01,traditional,traditional,2020,226006.793,synthetic,1.88339,synthetic
+North America,region,Demo Ingredient 02,traditional,traditional,2020,60176.858,synthetic,0.50147,synthetic
+North America,region,Demo Ingredient 03,traditional,traditional,2020,222808.652,synthetic,1.85674,synthetic
+North America,region,Demo Ingredient 04,traditional,traditional,2020,104982.978,synthetic,0.87486,synthetic
+North America,region,Demo Ingredient 05,traditional,traditional,2020,186024.718,synthetic,1.55021,synthetic
+North America,region,Demo Ingredient 06,non-traditional,natural_alternative,2020,193736.445,synthetic,1.61447,synthetic
+North America,region,Demo Ingredient 07,non-traditional,natural_alternative,2020,40726.954,synthetic,0.33939,synthetic
+North America,region,Demo Ingredient 08,non-traditional,natural_alternative,2020,108442.26,synthetic,0.90369,synthetic
+North America,region,Demo Ingredient 09,non-traditional,natural_alternative,2020,107094.341,synthetic,0.89245,synthetic
+North America,region,Demo Ingredient 10,non-traditional,artificial_alternative,2020,104617.76,synthetic,0.87181,synthetic
+North America,region,Demo Ingredient 11,non-traditional,artificial_alternative,2020,34334.205,synthetic,0.28612,synthetic
+North America,region,Demo Ingredient 12,non-traditional,artificial_alternative,2020,45185.578,synthetic,0.37655,synthetic
+North America,region,Demo Ingredient 13,non-traditional,artificial_alternative,2020,165862.456,synthetic,1.38219,synthetic
+North America,region,Demo Ingredient 14,non-traditional,other,2020,19342.621,synthetic,0.16119,synthetic
+North America,region,Demo Ingredient 15,non-traditional,other,2020,45726.283,synthetic,0.38105,synthetic
+North America,region,Demo Ingredient 16,non-traditional,other,2020,56337.954,synthetic,0.46948,synthetic
+North America,region,Demo Ingredient 17,non-traditional,other,2020,28593.142,synthetic,0.23828,synthetic
+North America,region,Demo Ingredient 18,non-traditional,fruit_based,2020,1137348.404,synthetic,9.4779,synthetic
+North America,region,Demo Ingredient 19,non-traditional,fruit_based,2020,707335.91,synthetic,5.89447,synthetic
+North America,region,Demo Ingredient 20,non-traditional,fruit_based,2020,1405315.686,synthetic,11.71096,synthetic
+North America,region,Demo Ingredient 01,traditional,traditional,2021,52306.313,synthetic,0.42115,synthetic
+North America,region,Demo Ingredient 02,traditional,traditional,2021,130258.577,synthetic,1.04878,synthetic
+North America,region,Demo Ingredient 03,traditional,traditional,2021,510625.947,synthetic,4.11132,synthetic
+North America,region,Demo Ingredient 04,traditional,traditional,2021,53033.516,synthetic,0.427,synthetic
+North America,region,Demo Ingredient 05,traditional,traditional,2021,81775.648,synthetic,0.65842,synthetic
+North America,region,Demo Ingredient 06,non-traditional,natural_alternative,2021,45979.215,synthetic,0.3702,synthetic
+North America,region,Demo Ingredient 07,non-traditional,natural_alternative,2021,55297.624,synthetic,0.44523,synthetic
+North America,region,Demo Ingredient 08,non-traditional,natural_alternative,2021,85373.789,synthetic,0.68739,synthetic
+North America,region,Demo Ingredient 09,non-traditional,natural_alternative,2021,279099.371,synthetic,2.24718,synthetic
+North America,region,Demo Ingredient 10,non-traditional,artificial_alternative,2021,80832.694,synthetic,0.65083,synthetic
+North America,region,Demo Ingredient 11,non-traditional,artificial_alternative,2021,136055.97,synthetic,1.09546,synthetic
+North America,region,Demo Ingredient 12,non-traditional,artificial_alternative,2021,81207.911,synthetic,0.65385,synthetic
+North America,region,Demo Ingredient 13,non-traditional,artificial_alternative,2021,64153.424,synthetic,0.51653,synthetic
+North America,region,Demo Ingredient 14,non-traditional,other,2021,30816.417,synthetic,0.24812,synthetic
+North America,region,Demo Ingredient 15,non-traditional,other,2021,22190.03,synthetic,0.17866,synthetic
+North America,region,Demo Ingredient 16,non-traditional,other,2021,68011.08,synthetic,0.54759,synthetic
+North America,region,Demo Ingredient 17,non-traditional,other,2021,34232.473,synthetic,0.27562,synthetic
+North America,region,Demo Ingredient 18,non-traditional,fruit_based,2021,679732.793,synthetic,5.47289,synthetic
+North America,region,Demo Ingredient 19,non-traditional,fruit_based,2021,2115171.534,synthetic,17.03037,synthetic
+North America,region,Demo Ingredient 20,non-traditional,fruit_based,2021,568845.673,synthetic,4.58008,synthetic
+North America,region,Demo Ingredient 01,traditional,traditional,2022,38477.041,synthetic,0.29932,synthetic
+North America,region,Demo Ingredient 02,traditional,traditional,2022,372222.33,synthetic,2.89561,synthetic
+North America,region,Demo Ingredient 03,traditional,traditional,2022,152203.193,synthetic,1.18403,synthetic
+North America,region,Demo Ingredient 04,traditional,traditional,2022,179163.669,synthetic,1.39376,synthetic
+North America,region,Demo Ingredient 05,traditional,traditional,2022,114913.767,synthetic,0.89394,synthetic
+North America,region,Demo Ingredient 06,non-traditional,natural_alternative,2022,96741.548,synthetic,0.75258,synthetic
+North America,region,Demo Ingredient 07,non-traditional,natural_alternative,2022,193294.346,synthetic,1.50369,synthetic
+North America,region,Demo Ingredient 08,non-traditional,natural_alternative,2022,158637.987,synthetic,1.23409,synthetic
+North America,region,Demo Ingredient 09,non-traditional,natural_alternative,2022,33377.369,synthetic,0.25965,synthetic
+North America,region,Demo Ingredient 10,non-traditional,artificial_alternative,2022,59181.319,synthetic,0.46039,synthetic
+North America,region,Demo Ingredient 11,non-traditional,artificial_alternative,2022,103913.299,synthetic,0.80837,synthetic
+North America,region,Demo Ingredient 12,non-traditional,artificial_alternative,2022,69974.802,synthetic,0.54435,synthetic
+North America,region,Demo Ingredient 13,non-traditional,artificial_alternative,2022,141859.331,synthetic,1.10356,synthetic
+North America,region,Demo Ingredient 14,non-traditional,other,2022,17900.335,synthetic,0.13925,synthetic
+North America,region,Demo Ingredient 15,non-traditional,other,2022,49900.942,synthetic,0.38819,synthetic
+North America,region,Demo Ingredient 16,non-traditional,other,2022,16442.65,synthetic,0.12791,synthetic
+North America,region,Demo Ingredient 17,non-traditional,other,2022,76439.823,synthetic,0.59464,synthetic
+North America,region,Demo Ingredient 18,non-traditional,fruit_based,2022,2167621.917,synthetic,16.86249,synthetic
+North America,region,Demo Ingredient 19,non-traditional,fruit_based,2022,572109.042,synthetic,4.45058,synthetic
+North America,region,Demo Ingredient 20,non-traditional,fruit_based,2022,741750.292,synthetic,5.77027,synthetic
+North America,region,Demo Ingredient 01,traditional,traditional,2023,251441.161,synthetic,1.88988,synthetic
+North America,region,Demo Ingredient 02,traditional,traditional,2023,257811.936,synthetic,1.93776,synthetic
+North America,region,Demo Ingredient 03,traditional,traditional,2023,77139.191,synthetic,0.57979,synthetic
+North America,region,Demo Ingredient 04,traditional,traditional,2023,81422.179,synthetic,0.61198,synthetic
+North America,region,Demo Ingredient 05,traditional,traditional,2023,219159.833,synthetic,1.64725,synthetic
+North America,region,Demo Ingredient 06,non-traditional,natural_alternative,2023,85482.574,synthetic,0.6425,synthetic
+North America,region,Demo Ingredient 07,non-traditional,natural_alternative,2023,49010.88,synthetic,0.36838,synthetic
+North America,region,Demo Ingredient 08,non-traditional,natural_alternative,2023,279449.568,synthetic,2.1004,synthetic
+North America,region,Demo Ingredient 09,non-traditional,natural_alternative,2023,84980.022,synthetic,0.63873,synthetic
+North America,region,Demo Ingredient 10,non-traditional,artificial_alternative,2023,39807.273,synthetic,0.2992,synthetic
+North America,region,Demo Ingredient 11,non-traditional,artificial_alternative,2023,171640.959,synthetic,1.29009,synthetic
+North America,region,Demo Ingredient 12,non-traditional,artificial_alternative,2023,33568.566,synthetic,0.25231,synthetic
+North America,region,Demo Ingredient 13,non-traditional,artificial_alternative,2023,143034.459,synthetic,1.07507,synthetic
+North America,region,Demo Ingredient 14,non-traditional,other,2023,36014.678,synthetic,0.27069,synthetic
+North America,region,Demo Ingredient 15,non-traditional,other,2023,14937.921,synthetic,0.11228,synthetic
+North America,region,Demo Ingredient 16,non-traditional,other,2023,38878.193,synthetic,0.29222,synthetic
+North America,region,Demo Ingredient 17,non-traditional,other,2023,76476.889,synthetic,0.57481,synthetic
+North America,region,Demo Ingredient 18,non-traditional,fruit_based,2023,2294385.392,synthetic,17.24503,synthetic
+North America,region,Demo Ingredient 19,non-traditional,fruit_based,2023,516934.268,synthetic,3.88538,synthetic
+North America,region,Demo Ingredient 20,non-traditional,fruit_based,2023,792013.434,synthetic,5.95292,synthetic
+North America,region,Demo Ingredient 01,traditional,traditional,2024,187953.858,synthetic,1.36492,synthetic
+North America,region,Demo Ingredient 02,traditional,traditional,2024,345428.013,synthetic,2.5085,synthetic
+North America,region,Demo Ingredient 03,traditional,traditional,2024,155713.398,synthetic,1.13079,synthetic
+North America,region,Demo Ingredient 04,traditional,traditional,2024,142040.362,synthetic,1.0315,synthetic
+North America,region,Demo Ingredient 05,traditional,traditional,2024,86882.77,synthetic,0.63094,synthetic
+North America,region,Demo Ingredient 06,non-traditional,natural_alternative,2024,135192.209,synthetic,0.98177,synthetic
+North America,region,Demo Ingredient 07,non-traditional,natural_alternative,2024,117105.817,synthetic,0.85042,synthetic
+North America,region,Demo Ingredient 08,non-traditional,natural_alternative,2024,114048.157,synthetic,0.82822,synthetic
+North America,region,Demo Ingredient 09,non-traditional,natural_alternative,2024,150039.167,synthetic,1.08959,synthetic
+North America,region,Demo Ingredient 10,non-traditional,artificial_alternative,2024,235141.423,synthetic,1.7076,synthetic
+North America,region,Demo Ingredient 11,non-traditional,artificial_alternative,2024,117122.69,synthetic,0.85055,synthetic
+North America,region,Demo Ingredient 12,non-traditional,artificial_alternative,2024,34605.506,synthetic,0.25131,synthetic
+North America,region,Demo Ingredient 13,non-traditional,artificial_alternative,2024,14763.431,synthetic,0.10721,synthetic
+North America,region,Demo Ingredient 14,non-traditional,other,2024,71435.966,synthetic,0.51877,synthetic
+North America,region,Demo Ingredient 15,non-traditional,other,2024,20173.146,synthetic,0.1465,synthetic
+North America,region,Demo Ingredient 16,non-traditional,other,2024,66427.883,synthetic,0.4824,synthetic
+North America,region,Demo Ingredient 17,non-traditional,other,2024,14091.456,synthetic,0.10233,synthetic
+North America,region,Demo Ingredient 18,non-traditional,fruit_based,2024,626203.223,synthetic,4.5475,synthetic
+North America,region,Demo Ingredient 19,non-traditional,fruit_based,2024,2004037.733,synthetic,14.55336,synthetic
+North America,region,Demo Ingredient 20,non-traditional,fruit_based,2024,1099208.797,synthetic,7.98247,synthetic
+North America,region,Demo Ingredient 01,traditional,traditional,2025,336848.911,synthetic,2.36348,synthetic
+North America,region,Demo Ingredient 02,traditional,traditional,2025,69469.037,synthetic,0.48743,synthetic
+North America,region,Demo Ingredient 03,traditional,traditional,2025,331394.658,synthetic,2.32521,synthetic
+North America,region,Demo Ingredient 04,traditional,traditional,2025,170857.096,synthetic,1.19881,synthetic
+North America,region,Demo Ingredient 05,traditional,traditional,2025,41579.343,synthetic,0.29174,synthetic
+North America,region,Demo Ingredient 06,non-traditional,natural_alternative,2025,25328.702,synthetic,0.17772,synthetic
+North America,region,Demo Ingredient 07,non-traditional,natural_alternative,2025,324066.244,synthetic,2.27379,synthetic
+North America,region,Demo Ingredient 08,non-traditional,natural_alternative,2025,61020.253,synthetic,0.42815,synthetic
+North America,region,Demo Ingredient 09,non-traditional,natural_alternative,2025,124043.638,synthetic,0.87035,synthetic
+North America,region,Demo Ingredient 10,non-traditional,artificial_alternative,2025,62364.623,synthetic,0.43758,synthetic
+North America,region,Demo Ingredient 11,non-traditional,artificial_alternative,2025,51027.9,synthetic,0.35803,synthetic
+North America,region,Demo Ingredient 12,non-traditional,artificial_alternative,2025,84916.09,synthetic,0.59581,synthetic
+North America,region,Demo Ingredient 13,non-traditional,artificial_alternative,2025,217381.594,synthetic,1.52525,synthetic
+North America,region,Demo Ingredient 14,non-traditional,other,2025,28281.194,synthetic,0.19843,synthetic
+North America,region,Demo Ingredient 15,non-traditional,other,2025,18621.934,synthetic,0.13066,synthetic
+North America,region,Demo Ingredient 16,non-traditional,other,2025,62590.163,synthetic,0.43916,synthetic
+North America,region,Demo Ingredient 17,non-traditional,other,2025,68659.654,synthetic,0.48175,synthetic
+North America,region,Demo Ingredient 18,non-traditional,fruit_based,2025,1302177.495,synthetic,9.13665,synthetic
+North America,region,Demo Ingredient 19,non-traditional,fruit_based,2025,1746222.285,synthetic,12.25227,synthetic
+North America,region,Demo Ingredient 20,non-traditional,fruit_based,2025,811580.714,synthetic,5.69441,synthetic
+Latin America,region,Demo Ingredient 01,traditional,traditional,2020,52607.874,synthetic,1.096,synthetic
+Latin America,region,Demo Ingredient 02,traditional,traditional,2020,80271.807,synthetic,1.67233,synthetic
+Latin America,region,Demo Ingredient 03,traditional,traditional,2020,74924.258,synthetic,1.56092,synthetic
+Latin America,region,Demo Ingredient 04,traditional,traditional,2020,60675.534,synthetic,1.26407,synthetic
+Latin America,region,Demo Ingredient 05,traditional,traditional,2020,51520.528,synthetic,1.07334,synthetic
+Latin America,region,Demo Ingredient 06,non-traditional,natural_alternative,2020,78330.624,synthetic,1.63189,synthetic
+Latin America,region,Demo Ingredient 07,non-traditional,natural_alternative,2020,41705.855,synthetic,0.86887,synthetic
+Latin America,region,Demo Ingredient 08,non-traditional,natural_alternative,2020,12221.069,synthetic,0.25461,synthetic
+Latin America,region,Demo Ingredient 09,non-traditional,natural_alternative,2020,47742.452,synthetic,0.99463,synthetic
+Latin America,region,Demo Ingredient 10,non-traditional,artificial_alternative,2020,34694.075,synthetic,0.72279,synthetic
+Latin America,region,Demo Ingredient 11,non-traditional,artificial_alternative,2020,5777.61,synthetic,0.12037,synthetic
+Latin America,region,Demo Ingredient 12,non-traditional,artificial_alternative,2020,70181.574,synthetic,1.46212,synthetic
+Latin America,region,Demo Ingredient 13,non-traditional,artificial_alternative,2020,29346.74,synthetic,0.61139,synthetic
+Latin America,region,Demo Ingredient 14,non-traditional,other,2020,2381.698,synthetic,0.04962,synthetic
+Latin America,region,Demo Ingredient 15,non-traditional,other,2020,4754.03,synthetic,0.09904,synthetic
+Latin America,region,Demo Ingredient 16,non-traditional,other,2020,27274.909,synthetic,0.56823,synthetic
+Latin America,region,Demo Ingredient 17,non-traditional,other,2020,25589.362,synthetic,0.53311,synthetic
+Latin America,region,Demo Ingredient 18,non-traditional,fruit_based,2020,356539.249,synthetic,7.4279,synthetic
+Latin America,region,Demo Ingredient 19,non-traditional,fruit_based,2020,332553.381,synthetic,6.9282,synthetic
+Latin America,region,Demo Ingredient 20,non-traditional,fruit_based,2020,610907.37,synthetic,12.72724,synthetic
+Latin America,region,Demo Ingredient 01,traditional,traditional,2021,21876.269,synthetic,0.44034,synthetic
+Latin America,region,Demo Ingredient 02,traditional,traditional,2021,152384.284,synthetic,3.06732,synthetic
+Latin America,region,Demo Ingredient 03,traditional,traditional,2021,17150.14,synthetic,0.34521,synthetic
+Latin America,region,Demo Ingredient 04,traditional,traditional,2021,42179.834,synthetic,0.84903,synthetic
+Latin America,region,Demo Ingredient 05,traditional,traditional,2021,97609.473,synthetic,1.96476,synthetic
+Latin America,region,Demo Ingredient 06,non-traditional,natural_alternative,2021,94457.713,synthetic,1.90132,synthetic
+Latin America,region,Demo Ingredient 07,non-traditional,natural_alternative,2021,1887.786,synthetic,0.038,synthetic
+Latin America,region,Demo Ingredient 08,non-traditional,natural_alternative,2021,73227.109,synthetic,1.47398,synthetic
+Latin America,region,Demo Ingredient 09,non-traditional,natural_alternative,2021,16727.392,synthetic,0.3367,synthetic
+Latin America,region,Demo Ingredient 10,non-traditional,artificial_alternative,2021,63576.735,synthetic,1.27972,synthetic
+Latin America,region,Demo Ingredient 11,non-traditional,artificial_alternative,2021,5859.388,synthetic,0.11794,synthetic
+Latin America,region,Demo Ingredient 12,non-traditional,artificial_alternative,2021,17785.858,synthetic,0.35801,synthetic
+Latin America,region,Demo Ingredient 13,non-traditional,artificial_alternative,2021,57678.019,synthetic,1.16099,synthetic
+Latin America,region,Demo Ingredient 14,non-traditional,other,2021,7807.076,synthetic,0.15715,synthetic
+Latin America,region,Demo Ingredient 15,non-traditional,other,2021,20514.105,synthetic,0.41292,synthetic
+Latin America,region,Demo Ingredient 16,non-traditional,other,2021,15094.108,synthetic,0.30383,synthetic
+Latin America,region,Demo Ingredient 17,non-traditional,other,2021,18684.711,synthetic,0.3761,synthetic
+Latin America,region,Demo Ingredient 18,non-traditional,fruit_based,2021,813495.686,synthetic,16.37471,synthetic
+Latin America,region,Demo Ingredient 19,non-traditional,fruit_based,2021,243984.992,synthetic,4.91113,synthetic
+Latin America,region,Demo Ingredient 20,non-traditional,fruit_based,2021,288019.322,synthetic,5.79749,synthetic
+Latin America,region,Demo Ingredient 01,traditional,traditional,2022,39647.48,synthetic,0.77107,synthetic
+Latin America,region,Demo Ingredient 02,traditional,traditional,2022,94404.018,synthetic,1.83598,synthetic
+Latin America,region,Demo Ingredient 03,traditional,traditional,2022,62415.294,synthetic,1.21386,synthetic
+Latin America,region,Demo Ingredient 04,traditional,traditional,2022,34629.045,synthetic,0.67347,synthetic
+Latin America,region,Demo Ingredient 05,traditional,traditional,2022,111696.163,synthetic,2.17228,synthetic
+Latin America,region,Demo Ingredient 06,non-traditional,natural_alternative,2022,21328.295,synthetic,0.4148,synthetic
+Latin America,region,Demo Ingredient 07,non-traditional,natural_alternative,2022,63352.608,synthetic,1.23209,synthetic
+Latin America,region,Demo Ingredient 08,non-traditional,natural_alternative,2022,48131.741,synthetic,0.93607,synthetic
+Latin America,region,Demo Ingredient 09,non-traditional,natural_alternative,2022,60007.856,synthetic,1.16704,synthetic
+Latin America,region,Demo Ingredient 10,non-traditional,artificial_alternative,2022,35389.563,synthetic,0.68826,synthetic
+Latin America,region,Demo Ingredient 11,non-traditional,artificial_alternative,2022,34256.57,synthetic,0.66623,synthetic
+Latin America,region,Demo Ingredient 12,non-traditional,artificial_alternative,2022,20529.602,synthetic,0.39926,synthetic
+Latin America,region,Demo Ingredient 13,non-traditional,artificial_alternative,2022,59795.765,synthetic,1.16292,synthetic
+Latin America,region,Demo Ingredient 14,non-traditional,other,2022,27149.066,synthetic,0.528,synthetic
+Latin America,region,Demo Ingredient 15,non-traditional,other,2022,8313.273,synthetic,0.16168,synthetic
+Latin America,region,Demo Ingredient 16,non-traditional,other,2022,23582.692,synthetic,0.45864,synthetic
+Latin America,region,Demo Ingredient 17,non-traditional,other,2022,5228.468,synthetic,0.10168,synthetic
+Latin America,region,Demo Ingredient 18,non-traditional,fruit_based,2022,118330.237,synthetic,2.3013,synthetic
+Latin America,region,Demo Ingredient 19,non-traditional,fruit_based,2022,1015956.517,synthetic,19.75846,synthetic
+Latin America,region,Demo Ingredient 20,non-traditional,fruit_based,2022,258305.746,synthetic,5.02357,synthetic
+Latin America,region,Demo Ingredient 01,traditional,traditional,2023,22501.392,synthetic,0.42281,synthetic
+Latin America,region,Demo Ingredient 02,traditional,traditional,2023,131867.481,synthetic,2.47785,synthetic
+Latin America,region,Demo Ingredient 03,traditional,traditional,2023,53636.581,synthetic,1.00786,synthetic
+Latin America,region,Demo Ingredient 04,traditional,traditional,2023,88316.825,synthetic,1.65951,synthetic
+Latin America,region,Demo Ingredient 05,traditional,traditional,2023,58467.441,synthetic,1.09863,synthetic
+Latin America,region,Demo Ingredient 06,non-traditional,natural_alternative,2023,24574.425,synthetic,0.46177,synthetic
+Latin America,region,Demo Ingredient 07,non-traditional,natural_alternative,2023,29449.713,synthetic,0.55337,synthetic
+Latin America,region,Demo Ingredient 08,non-traditional,natural_alternative,2023,72260.518,synthetic,1.35781,synthetic
+Latin America,region,Demo Ingredient 09,non-traditional,natural_alternative,2023,73284.561,synthetic,1.37705,synthetic
+Latin America,region,Demo Ingredient 10,non-traditional,artificial_alternative,2023,126298.101,synthetic,2.3732,synthetic
+Latin America,region,Demo Ingredient 11,non-traditional,artificial_alternative,2023,6098.557,synthetic,0.11459,synthetic
+Latin America,region,Demo Ingredient 12,non-traditional,artificial_alternative,2023,7996.803,synthetic,0.15026,synthetic
+Latin America,region,Demo Ingredient 13,non-traditional,artificial_alternative,2023,14827.041,synthetic,0.27861,synthetic
+Latin America,region,Demo Ingredient 14,non-traditional,other,2023,33081.263,synthetic,0.62161,synthetic
+Latin America,region,Demo Ingredient 15,non-traditional,other,2023,3635.319,synthetic,0.06831,synthetic
+Latin America,region,Demo Ingredient 16,non-traditional,other,2023,4712.449,synthetic,0.08855,synthetic
+Latin America,region,Demo Ingredient 17,non-traditional,other,2023,25094.041,synthetic,0.47153,synthetic
+Latin America,region,Demo Ingredient 18,non-traditional,fruit_based,2023,598765.709,synthetic,11.25109,synthetic
+Latin America,region,Demo Ingredient 19,non-traditional,fruit_based,2023,413309.425,synthetic,7.76628,synthetic
+Latin America,region,Demo Ingredient 20,non-traditional,fruit_based,2023,429258.104,synthetic,8.06596,synthetic
+Latin America,region,Demo Ingredient 01,traditional,traditional,2024,134365.152,synthetic,2.43941,synthetic
+Latin America,region,Demo Ingredient 02,traditional,traditional,2024,62041.721,synthetic,1.12637,synthetic
+Latin America,region,Demo Ingredient 03,traditional,traditional,2024,74613.453,synthetic,1.35461,synthetic
+Latin America,region,Demo Ingredient 04,traditional,traditional,2024,7079.745,synthetic,0.12853,synthetic
+Latin America,region,Demo Ingredient 05,traditional,traditional,2024,89107.289,synthetic,1.61775,synthetic
+Latin America,region,Demo Ingredient 06,non-traditional,natural_alternative,2024,73224.866,synthetic,1.3294,synthetic
+Latin America,region,Demo Ingredient 07,non-traditional,natural_alternative,2024,5496.298,synthetic,0.09979,synthetic
+Latin America,region,Demo Ingredient 08,non-traditional,natural_alternative,2024,90496.918,synthetic,1.64298,synthetic
+Latin America,region,Demo Ingredient 09,non-traditional,natural_alternative,2024,37336.057,synthetic,0.67784,synthetic
+Latin America,region,Demo Ingredient 10,non-traditional,artificial_alternative,2024,65509.184,synthetic,1.18932,synthetic
+Latin America,region,Demo Ingredient 11,non-traditional,artificial_alternative,2024,62136.88,synthetic,1.1281,synthetic
+Latin America,region,Demo Ingredient 12,non-traditional,artificial_alternative,2024,28110.728,synthetic,0.51035,synthetic
+Latin America,region,Demo Ingredient 13,non-traditional,artificial_alternative,2024,4896.428,synthetic,0.08889,synthetic
+Latin America,region,Demo Ingredient 14,non-traditional,other,2024,4200.209,synthetic,0.07625,synthetic
+Latin America,region,Demo Ingredient 15,non-traditional,other,2024,1476.539,synthetic,0.02681,synthetic
+Latin America,region,Demo Ingredient 16,non-traditional,other,2024,16354.87,synthetic,0.29692,synthetic
+Latin America,region,Demo Ingredient 17,non-traditional,other,2024,46819.762,synthetic,0.85001,synthetic
+Latin America,region,Demo Ingredient 18,non-traditional,fruit_based,2024,675658.917,synthetic,12.26662,synthetic
+Latin America,region,Demo Ingredient 19,non-traditional,fruit_based,2024,455748.568,synthetic,8.27414,synthetic
+Latin America,region,Demo Ingredient 20,non-traditional,fruit_based,2024,360372.415,synthetic,6.54258,synthetic
+Latin America,region,Demo Ingredient 01,traditional,traditional,2025,26789.823,synthetic,0.46992,synthetic
+Latin America,region,Demo Ingredient 02,traditional,traditional,2025,145442.028,synthetic,2.55121,synthetic
+Latin America,region,Demo Ingredient 03,traditional,traditional,2025,70738.619,synthetic,1.24083,synthetic
+Latin America,region,Demo Ingredient 04,traditional,traditional,2025,63985.164,synthetic,1.12237,synthetic
+Latin America,region,Demo Ingredient 05,traditional,traditional,2025,73103.984,synthetic,1.28232,synthetic
+Latin America,region,Demo Ingredient 06,non-traditional,natural_alternative,2025,80572.765,synthetic,1.41334,synthetic
+Latin America,region,Demo Ingredient 07,non-traditional,natural_alternative,2025,8928.158,synthetic,0.15661,synthetic
+Latin America,region,Demo Ingredient 08,non-traditional,natural_alternative,2025,46364.72,synthetic,0.81329,synthetic
+Latin America,region,Demo Ingredient 09,non-traditional,natural_alternative,2025,77917.892,synthetic,1.36677,synthetic
+Latin America,region,Demo Ingredient 10,non-traditional,artificial_alternative,2025,12317.537,synthetic,0.21606,synthetic
+Latin America,region,Demo Ingredient 11,non-traditional,artificial_alternative,2025,44769.206,synthetic,0.7853,synthetic
+Latin America,region,Demo Ingredient 12,non-traditional,artificial_alternative,2025,94581.742,synthetic,1.65907,synthetic
+Latin America,region,Demo Ingredient 13,non-traditional,artificial_alternative,2025,14607.598,synthetic,0.25623,synthetic
+Latin America,region,Demo Ingredient 14,non-traditional,other,2025,8896.52,synthetic,0.15605,synthetic
+Latin America,region,Demo Ingredient 15,non-traditional,other,2025,17989.496,synthetic,0.31556,synthetic
+Latin America,region,Demo Ingredient 16,non-traditional,other,2025,32202.787,synthetic,0.56487,synthetic
+Latin America,region,Demo Ingredient 17,non-traditional,other,2025,12172.376,synthetic,0.21352,synthetic
+Latin America,region,Demo Ingredient 18,non-traditional,fruit_based,2025,225124.277,synthetic,3.94893,synthetic
+Latin America,region,Demo Ingredient 19,non-traditional,fruit_based,2025,768957.081,synthetic,13.48836,synthetic
+Latin America,region,Demo Ingredient 20,non-traditional,fruit_based,2025,549910.839,synthetic,9.64605,synthetic
+Western Europe,region,Demo Ingredient 01,traditional,traditional,2020,92283.63,synthetic,2.56343,synthetic
+Western Europe,region,Demo Ingredient 02,traditional,traditional,2020,44230.037,synthetic,1.22861,synthetic
+Western Europe,region,Demo Ingredient 03,traditional,traditional,2020,26359.555,synthetic,0.73221,synthetic
+Western Europe,region,Demo Ingredient 04,traditional,traditional,2020,39559.907,synthetic,1.09889,synthetic
+Western Europe,region,Demo Ingredient 05,traditional,traditional,2020,37566.871,synthetic,1.04352,synthetic
+Western Europe,region,Demo Ingredient 06,non-traditional,natural_alternative,2020,29999.291,synthetic,0.83331,synthetic
+Western Europe,region,Demo Ingredient 07,non-traditional,natural_alternative,2020,60510.5,synthetic,1.68085,synthetic
+Western Europe,region,Demo Ingredient 08,non-traditional,natural_alternative,2020,23772.814,synthetic,0.66036,synthetic
+Western Europe,region,Demo Ingredient 09,non-traditional,natural_alternative,2020,20717.395,synthetic,0.57548,synthetic
+Western Europe,region,Demo Ingredient 10,non-traditional,artificial_alternative,2020,32784.596,synthetic,0.91068,synthetic
+Western Europe,region,Demo Ingredient 11,non-traditional,artificial_alternative,2020,33565.775,synthetic,0.93238,synthetic
+Western Europe,region,Demo Ingredient 12,non-traditional,artificial_alternative,2020,13660.181,synthetic,0.37945,synthetic
+Western Europe,region,Demo Ingredient 13,non-traditional,artificial_alternative,2020,24989.448,synthetic,0.69415,synthetic
+Western Europe,region,Demo Ingredient 14,non-traditional,other,2020,12852.948,synthetic,0.35703,synthetic
+Western Europe,region,Demo Ingredient 15,non-traditional,other,2020,13662.123,synthetic,0.3795,synthetic
+Western Europe,region,Demo Ingredient 16,non-traditional,other,2020,10998.351,synthetic,0.30551,synthetic
+Western Europe,region,Demo Ingredient 17,non-traditional,other,2020,7486.579,synthetic,0.20796,synthetic
+Western Europe,region,Demo Ingredient 18,non-traditional,fruit_based,2020,347181.888,synthetic,9.64394,synthetic
+Western Europe,region,Demo Ingredient 19,non-traditional,fruit_based,2020,224399.573,synthetic,6.23332,synthetic
+Western Europe,region,Demo Ingredient 20,non-traditional,fruit_based,2020,403418.539,synthetic,11.20607,synthetic
+Western Europe,region,Demo Ingredient 01,traditional,traditional,2021,61915.965,synthetic,1.66173,synthetic
+Western Europe,region,Demo Ingredient 02,traditional,traditional,2021,21082.692,synthetic,0.56583,synthetic
+Western Europe,region,Demo Ingredient 03,traditional,traditional,2021,26619.34,synthetic,0.71442,synthetic
+Western Europe,region,Demo Ingredient 04,traditional,traditional,2021,54012.374,synthetic,1.44961,synthetic
+Western Europe,region,Demo Ingredient 05,traditional,traditional,2021,84769.629,synthetic,2.27508,synthetic
+Western Europe,region,Demo Ingredient 06,non-traditional,natural_alternative,2021,24854.179,synthetic,0.66705,synthetic
+Western Europe,region,Demo Ingredient 07,non-traditional,natural_alternative,2021,27423.471,synthetic,0.736,synthetic
+Western Europe,region,Demo Ingredient 08,non-traditional,natural_alternative,2021,33717.53,synthetic,0.90493,synthetic
+Western Europe,region,Demo Ingredient 09,non-traditional,natural_alternative,2021,53729.82,synthetic,1.44202,synthetic
+Western Europe,region,Demo Ingredient 10,non-traditional,artificial_alternative,2021,27137.45,synthetic,0.72833,synthetic
+Western Europe,region,Demo Ingredient 11,non-traditional,artificial_alternative,2021,32692.065,synthetic,0.8774,synthetic
+Western Europe,region,Demo Ingredient 12,non-traditional,artificial_alternative,2021,24550.04,synthetic,0.65888,synthetic
+Western Europe,region,Demo Ingredient 13,non-traditional,artificial_alternative,2021,24295.444,synthetic,0.65205,synthetic
+Western Europe,region,Demo Ingredient 14,non-traditional,other,2021,34007.151,synthetic,0.9127,synthetic
+Western Europe,region,Demo Ingredient 15,non-traditional,other,2021,3275.292,synthetic,0.0879,synthetic
+Western Europe,region,Demo Ingredient 16,non-traditional,other,2021,1024.445,synthetic,0.02749,synthetic
+Western Europe,region,Demo Ingredient 17,non-traditional,other,2021,8268.112,synthetic,0.2219,synthetic
+Western Europe,region,Demo Ingredient 18,non-traditional,fruit_based,2021,594536.729,synthetic,15.95643,synthetic
+Western Europe,region,Demo Ingredient 19,non-traditional,fruit_based,2021,292955.512,synthetic,7.86247,synthetic
+Western Europe,region,Demo Ingredient 20,non-traditional,fruit_based,2021,121632.759,synthetic,3.26443,synthetic
+Western Europe,region,Demo Ingredient 01,traditional,traditional,2022,46588.532,synthetic,1.20808,synthetic
+Western Europe,region,Demo Ingredient 02,traditional,traditional,2022,84221.246,synthetic,2.18393,synthetic
+Western Europe,region,Demo Ingredient 03,traditional,traditional,2022,72508.275,synthetic,1.8802,synthetic
+Western Europe,region,Demo Ingredient 04,traditional,traditional,2022,32218.563,synthetic,0.83545,synthetic
+Western Europe,region,Demo Ingredient 05,traditional,traditional,2022,21557.383,synthetic,0.559,synthetic
+Western Europe,region,Demo Ingredient 06,non-traditional,natural_alternative,2022,47291.187,synthetic,1.2263,synthetic
+Western Europe,region,Demo Ingredient 07,non-traditional,natural_alternative,2022,27719.908,synthetic,0.7188,synthetic
+Western Europe,region,Demo Ingredient 08,non-traditional,natural_alternative,2022,58361.887,synthetic,1.51337,synthetic
+Western Europe,region,Demo Ingredient 09,non-traditional,natural_alternative,2022,11242.392,synthetic,0.29152,synthetic
+Western Europe,region,Demo Ingredient 10,non-traditional,artificial_alternative,2022,24603.756,synthetic,0.638,synthetic
+Western Europe,region,Demo Ingredient 11,non-traditional,artificial_alternative,2022,34091.498,synthetic,0.88402,synthetic
+Western Europe,region,Demo Ingredient 12,non-traditional,artificial_alternative,2022,52407.188,synthetic,1.35896,synthetic
+Western Europe,region,Demo Ingredient 13,non-traditional,artificial_alternative,2022,1376.184,synthetic,0.03569,synthetic
+Western Europe,region,Demo Ingredient 14,non-traditional,other,2022,15045.79,synthetic,0.39015,synthetic
+Western Europe,region,Demo Ingredient 15,non-traditional,other,2022,20811.217,synthetic,0.53965,synthetic
+Western Europe,region,Demo Ingredient 16,non-traditional,other,2022,6317.136,synthetic,0.16381,synthetic
+Western Europe,region,Demo Ingredient 17,non-traditional,other,2022,6030.982,synthetic,0.15639,synthetic
+Western Europe,region,Demo Ingredient 18,non-traditional,fruit_based,2022,504284.565,synthetic,13.07653,synthetic
+Western Europe,region,Demo Ingredient 19,non-traditional,fruit_based,2022,271759.942,synthetic,7.04697,synthetic
+Western Europe,region,Demo Ingredient 20,non-traditional,fruit_based,2022,268399.868,synthetic,6.95984,synthetic
+Western Europe,region,Demo Ingredient 01,traditional,traditional,2023,39849.463,synthetic,0.99839,synthetic
+Western Europe,region,Demo Ingredient 02,traditional,traditional,2023,69552.347,synthetic,1.74256,synthetic
+Western Europe,region,Demo Ingredient 03,traditional,traditional,2023,26058.916,synthetic,0.65288,synthetic
+Western Europe,region,Demo Ingredient 04,traditional,traditional,2023,97822.255,synthetic,2.45084,synthetic
+Western Europe,region,Demo Ingredient 05,traditional,traditional,2023,32809.309,synthetic,0.822,synthetic
+Western Europe,region,Demo Ingredient 06,non-traditional,natural_alternative,2023,35989.81,synthetic,0.90169,synthetic
+Western Europe,region,Demo Ingredient 07,non-traditional,natural_alternative,2023,57984.379,synthetic,1.45274,synthetic
+Western Europe,region,Demo Ingredient 08,non-traditional,natural_alternative,2023,14172.912,synthetic,0.35509,synthetic
+Western Europe,region,Demo Ingredient 09,non-traditional,natural_alternative,2023,41529.811,synthetic,1.04049,synthetic
+Western Europe,region,Demo Ingredient 10,non-traditional,artificial_alternative,2023,7907.32,synthetic,0.19811,synthetic
+Western Europe,region,Demo Ingredient 11,non-traditional,artificial_alternative,2023,28992.914,synthetic,0.72639,synthetic
+Western Europe,region,Demo Ingredient 12,non-traditional,artificial_alternative,2023,40356.987,synthetic,1.0111,synthetic
+Western Europe,region,Demo Ingredient 13,non-traditional,artificial_alternative,2023,39158.155,synthetic,0.98107,synthetic
+Western Europe,region,Demo Ingredient 14,non-traditional,other,2023,15979.26,synthetic,0.40034,synthetic
+Western Europe,region,Demo Ingredient 15,non-traditional,other,2023,2120.08,synthetic,0.05312,synthetic
+Western Europe,region,Demo Ingredient 16,non-traditional,other,2023,14801.234,synthetic,0.37083,synthetic
+Western Europe,region,Demo Ingredient 17,non-traditional,other,2023,16991.73,synthetic,0.42571,synthetic
+Western Europe,region,Demo Ingredient 18,non-traditional,fruit_based,2023,394763.253,synthetic,9.89038,synthetic
+Western Europe,region,Demo Ingredient 19,non-traditional,fruit_based,2023,524682.154,synthetic,13.14537,synthetic
+Western Europe,region,Demo Ingredient 20,non-traditional,fruit_based,2023,161554.52,synthetic,4.04758,synthetic
+Western Europe,region,Demo Ingredient 01,traditional,traditional,2024,44814.652,synthetic,1.08482,synthetic
+Western Europe,region,Demo Ingredient 02,traditional,traditional,2024,43766.917,synthetic,1.05945,synthetic
+Western Europe,region,Demo Ingredient 03,traditional,traditional,2024,54011.94,synthetic,1.30745,synthetic
+Western Europe,region,Demo Ingredient 04,traditional,traditional,2024,68744.993,synthetic,1.66409,synthetic
+Western Europe,region,Demo Ingredient 05,traditional,traditional,2024,64067.018,synthetic,1.55085,synthetic
+Western Europe,region,Demo Ingredient 06,non-traditional,natural_alternative,2024,36292.648,synthetic,0.87853,synthetic
+Western Europe,region,Demo Ingredient 07,non-traditional,natural_alternative,2024,39309.464,synthetic,0.95155,synthetic
+Western Europe,region,Demo Ingredient 08,non-traditional,natural_alternative,2024,46572.945,synthetic,1.12738,synthetic
+Western Europe,region,Demo Ingredient 09,non-traditional,natural_alternative,2024,32740.548,synthetic,0.79254,synthetic
+Western Europe,region,Demo Ingredient 10,non-traditional,artificial_alternative,2024,11901.061,synthetic,0.28809,synthetic
+Western Europe,region,Demo Ingredient 11,non-traditional,artificial_alternative,2024,33630.878,synthetic,0.81409,synthetic
+Western Europe,region,Demo Ingredient 12,non-traditional,artificial_alternative,2024,34508.206,synthetic,0.83533,synthetic
+Western Europe,region,Demo Ingredient 13,non-traditional,artificial_alternative,2024,40449.77,synthetic,0.97916,synthetic
+Western Europe,region,Demo Ingredient 14,non-traditional,other,2024,6696.088,synthetic,0.16209,synthetic
+Western Europe,region,Demo Ingredient 15,non-traditional,other,2024,9874.244,synthetic,0.23902,synthetic
+Western Europe,region,Demo Ingredient 16,non-traditional,other,2024,15611.147,synthetic,0.37789,synthetic
+Western Europe,region,Demo Ingredient 17,non-traditional,other,2024,19457.056,synthetic,0.47099,synthetic
+Western Europe,region,Demo Ingredient 18,non-traditional,fruit_based,2024,266563.869,synthetic,6.45264,synthetic
+Western Europe,region,Demo Ingredient 19,non-traditional,fruit_based,2024,450961.545,synthetic,10.9163,synthetic
+Western Europe,region,Demo Ingredient 20,non-traditional,fruit_based,2024,401309.512,synthetic,9.71439,synthetic
+Western Europe,region,Demo Ingredient 01,traditional,traditional,2025,68320.224,synthetic,1.59788,synthetic
+Western Europe,region,Demo Ingredient 02,traditional,traditional,2025,53507.538,synthetic,1.25144,synthetic
+Western Europe,region,Demo Ingredient 03,traditional,traditional,2025,20048.812,synthetic,0.4689,synthetic
+Western Europe,region,Demo Ingredient 04,traditional,traditional,2025,78796.918,synthetic,1.84291,synthetic
+Western Europe,region,Demo Ingredient 05,traditional,traditional,2025,64371.222,synthetic,1.50552,synthetic
+Western Europe,region,Demo Ingredient 06,non-traditional,natural_alternative,2025,45436.792,synthetic,1.06268,synthetic
+Western Europe,region,Demo Ingredient 07,non-traditional,natural_alternative,2025,29539.262,synthetic,0.69087,synthetic
+Western Europe,region,Demo Ingredient 08,non-traditional,natural_alternative,2025,37956.499,synthetic,0.88773,synthetic
+Western Europe,region,Demo Ingredient 09,non-traditional,natural_alternative,2025,47405.098,synthetic,1.10872,synthetic
+Western Europe,region,Demo Ingredient 10,non-traditional,artificial_alternative,2025,31798.281,synthetic,0.7437,synthetic
+Western Europe,region,Demo Ingredient 11,non-traditional,artificial_alternative,2025,10700.946,synthetic,0.25028,synthetic
+Western Europe,region,Demo Ingredient 12,non-traditional,artificial_alternative,2025,39349.119,synthetic,0.9203,synthetic
+Western Europe,region,Demo Ingredient 13,non-traditional,artificial_alternative,2025,42858.716,synthetic,1.00239,synthetic
+Western Europe,region,Demo Ingredient 14,non-traditional,other,2025,6353.225,synthetic,0.14859,synthetic
+Western Europe,region,Demo Ingredient 15,non-traditional,other,2025,1403.831,synthetic,0.03283,synthetic
+Western Europe,region,Demo Ingredient 16,non-traditional,other,2025,5695.952,synthetic,0.13322,synthetic
+Western Europe,region,Demo Ingredient 17,non-traditional,other,2025,39992.876,synthetic,0.93536,synthetic
+Western Europe,region,Demo Ingredient 18,non-traditional,fruit_based,2025,369642.57,synthetic,8.64525,synthetic
+Western Europe,region,Demo Ingredient 19,non-traditional,fruit_based,2025,168176.63,synthetic,3.93334,synthetic
+Western Europe,region,Demo Ingredient 20,non-traditional,fruit_based,2025,620174.948,synthetic,14.50474,synthetic
+Eastern Europe,region,Demo Ingredient 01,traditional,traditional,2020,19457.493,synthetic,1.01341,synthetic
+Eastern Europe,region,Demo Ingredient 02,traditional,traditional,2020,40878.635,synthetic,2.1291,synthetic
+Eastern Europe,region,Demo Ingredient 03,traditional,traditional,2020,20255.279,synthetic,1.05496,synthetic
+Eastern Europe,region,Demo Ingredient 04,traditional,traditional,2020,30595.745,synthetic,1.59353,synthetic
+Eastern Europe,region,Demo Ingredient 05,traditional,traditional,2020,16812.848,synthetic,0.87567,synthetic
+Eastern Europe,region,Demo Ingredient 06,non-traditional,natural_alternative,2020,17912.346,synthetic,0.93293,synthetic
+Eastern Europe,region,Demo Ingredient 07,non-traditional,natural_alternative,2020,26351.449,synthetic,1.37247,synthetic
+Eastern Europe,region,Demo Ingredient 08,non-traditional,natural_alternative,2020,23525.953,synthetic,1.22531,synthetic
+Eastern Europe,region,Demo Ingredient 09,non-traditional,natural_alternative,2020,4210.251,synthetic,0.21928,synthetic
+Eastern Europe,region,Demo Ingredient 10,non-traditional,artificial_alternative,2020,7087.511,synthetic,0.36914,synthetic
+Eastern Europe,region,Demo Ingredient 11,non-traditional,artificial_alternative,2020,14000.148,synthetic,0.72917,synthetic
+Eastern Europe,region,Demo Ingredient 12,non-traditional,artificial_alternative,2020,28446.599,synthetic,1.48159,synthetic
+Eastern Europe,region,Demo Ingredient 13,non-traditional,artificial_alternative,2020,6465.742,synthetic,0.33676,synthetic
+Eastern Europe,region,Demo Ingredient 14,non-traditional,other,2020,4840.777,synthetic,0.25212,synthetic
+Eastern Europe,region,Demo Ingredient 15,non-traditional,other,2020,3939.415,synthetic,0.20518,synthetic
+Eastern Europe,region,Demo Ingredient 16,non-traditional,other,2020,11427.051,synthetic,0.59516,synthetic
+Eastern Europe,region,Demo Ingredient 17,non-traditional,other,2020,3792.757,synthetic,0.19754,synthetic
+Eastern Europe,region,Demo Ingredient 18,non-traditional,fruit_based,2020,188908.196,synthetic,9.83897,synthetic
+Eastern Europe,region,Demo Ingredient 19,non-traditional,fruit_based,2020,21622.724,synthetic,1.12618,synthetic
+Eastern Europe,region,Demo Ingredient 20,non-traditional,fruit_based,2020,309469.08,synthetic,16.11818,synthetic
+Eastern Europe,region,Demo Ingredient 01,traditional,traditional,2021,19530.921,synthetic,0.98284,synthetic
+Eastern Europe,region,Demo Ingredient 02,traditional,traditional,2021,20241.8,synthetic,1.01861,synthetic
+Eastern Europe,region,Demo Ingredient 03,traditional,traditional,2021,68745.852,synthetic,3.45943,synthetic
+Eastern Europe,region,Demo Ingredient 04,traditional,traditional,2021,17440.777,synthetic,0.87766,synthetic
+Eastern Europe,region,Demo Ingredient 05,traditional,traditional,2021,6520.65,synthetic,0.32813,synthetic
+Eastern Europe,region,Demo Ingredient 06,non-traditional,natural_alternative,2021,8609.207,synthetic,0.43323,synthetic
+Eastern Europe,region,Demo Ingredient 07,non-traditional,natural_alternative,2021,17409.078,synthetic,0.87606,synthetic
+Eastern Europe,region,Demo Ingredient 08,non-traditional,natural_alternative,2021,24152.822,synthetic,1.21542,synthetic
+Eastern Europe,region,Demo Ingredient 09,non-traditional,natural_alternative,2021,24348.893,synthetic,1.22529,synthetic
+Eastern Europe,region,Demo Ingredient 10,non-traditional,artificial_alternative,2021,14124.302,synthetic,0.71076,synthetic
+Eastern Europe,region,Demo Ingredient 11,non-traditional,artificial_alternative,2021,18771.095,synthetic,0.9446,synthetic
+Eastern Europe,region,Demo Ingredient 12,non-traditional,artificial_alternative,2021,17687.317,synthetic,0.89006,synthetic
+Eastern Europe,region,Demo Ingredient 13,non-traditional,artificial_alternative,2021,7377.286,synthetic,0.37124,synthetic
+Eastern Europe,region,Demo Ingredient 14,non-traditional,other,2021,1862.42,synthetic,0.09372,synthetic
+Eastern Europe,region,Demo Ingredient 15,non-traditional,other,2021,6778.206,synthetic,0.34109,synthetic
+Eastern Europe,region,Demo Ingredient 16,non-traditional,other,2021,12268.474,synthetic,0.61737,synthetic
+Eastern Europe,region,Demo Ingredient 17,non-traditional,other,2021,3930.9,synthetic,0.19781,synthetic
+Eastern Europe,region,Demo Ingredient 18,non-traditional,fruit_based,2021,73401.824,synthetic,3.69373,synthetic
+Eastern Europe,region,Demo Ingredient 19,non-traditional,fruit_based,2021,337667.83,synthetic,16.99214,synthetic
+Eastern Europe,region,Demo Ingredient 20,non-traditional,fruit_based,2021,127130.346,synthetic,6.39746,synthetic
+Eastern Europe,region,Demo Ingredient 01,traditional,traditional,2022,23731.272,synthetic,1.15382,synthetic
+Eastern Europe,region,Demo Ingredient 02,traditional,traditional,2022,53638.322,synthetic,2.60791,synthetic
+Eastern Europe,region,Demo Ingredient 03,traditional,traditional,2022,18563.202,synthetic,0.90255,synthetic
+Eastern Europe,region,Demo Ingredient 04,traditional,traditional,2022,14491.295,synthetic,0.70457,synthetic
+Eastern Europe,region,Demo Ingredient 05,traditional,traditional,2022,26692.709,synthetic,1.29781,synthetic
+Eastern Europe,region,Demo Ingredient 06,non-traditional,natural_alternative,2022,15104.692,synthetic,0.7344,synthetic
+Eastern Europe,region,Demo Ingredient 07,non-traditional,natural_alternative,2022,30421.686,synthetic,1.47911,synthetic
+Eastern Europe,region,Demo Ingredient 08,non-traditional,natural_alternative,2022,14386.067,synthetic,0.69946,synthetic
+Eastern Europe,region,Demo Ingredient 09,non-traditional,natural_alternative,2022,17215.754,synthetic,0.83704,synthetic
+Eastern Europe,region,Demo Ingredient 10,non-traditional,artificial_alternative,2022,32531.904,synthetic,1.58171,synthetic
+Eastern Europe,region,Demo Ingredient 11,non-traditional,artificial_alternative,2022,6441.773,synthetic,0.3132,synthetic
+Eastern Europe,region,Demo Ingredient 12,non-traditional,artificial_alternative,2022,20213.92,synthetic,0.98281,synthetic
+Eastern Europe,region,Demo Ingredient 13,non-traditional,artificial_alternative,2022,801.003,synthetic,0.03895,synthetic
+Eastern Europe,region,Demo Ingredient 14,non-traditional,other,2022,6798.05,synthetic,0.33052,synthetic
+Eastern Europe,region,Demo Ingredient 15,non-traditional,other,2022,4261.59,synthetic,0.2072,synthetic
+Eastern Europe,region,Demo Ingredient 16,non-traditional,other,2022,8380.895,synthetic,0.40748,synthetic
+Eastern Europe,region,Demo Ingredient 17,non-traditional,other,2022,6268.865,synthetic,0.30479,synthetic
+Eastern Europe,region,Demo Ingredient 18,non-traditional,fruit_based,2022,107826.847,synthetic,5.24258,synthetic
+Eastern Europe,region,Demo Ingredient 19,non-traditional,fruit_based,2022,343888.274,synthetic,16.71997,synthetic
+Eastern Europe,region,Demo Ingredient 20,non-traditional,fruit_based,2022,105321.879,synthetic,5.12079,synthetic
+Eastern Europe,region,Demo Ingredient 01,traditional,traditional,2023,20087.121,synthetic,0.94362,synthetic
+Eastern Europe,region,Demo Ingredient 02,traditional,traditional,2023,61528.578,synthetic,2.89038,synthetic
+Eastern Europe,region,Demo Ingredient 03,traditional,traditional,2023,27746.347,synthetic,1.30342,synthetic
+Eastern Europe,region,Demo Ingredient 04,traditional,traditional,2023,23304.529,synthetic,1.09476,synthetic
+Eastern Europe,region,Demo Ingredient 05,traditional,traditional,2023,9249.312,synthetic,0.4345,synthetic
+Eastern Europe,region,Demo Ingredient 06,non-traditional,natural_alternative,2023,15883.203,synthetic,0.74613,synthetic
+Eastern Europe,region,Demo Ingredient 07,non-traditional,natural_alternative,2023,31806.176,synthetic,1.49413,synthetic
+Eastern Europe,region,Demo Ingredient 08,non-traditional,natural_alternative,2023,8561.698,synthetic,0.4022,synthetic
+Eastern Europe,region,Demo Ingredient 09,non-traditional,natural_alternative,2023,23576.61,synthetic,1.10754,synthetic
+Eastern Europe,region,Demo Ingredient 10,non-traditional,artificial_alternative,2023,6947.422,synthetic,0.32636,synthetic
+Eastern Europe,region,Demo Ingredient 11,non-traditional,artificial_alternative,2023,2885.032,synthetic,0.13553,synthetic
+Eastern Europe,region,Demo Ingredient 12,non-traditional,artificial_alternative,2023,21739.345,synthetic,1.02123,synthetic
+Eastern Europe,region,Demo Ingredient 13,non-traditional,artificial_alternative,2023,30516.402,synthetic,1.43354,synthetic
+Eastern Europe,region,Demo Ingredient 14,non-traditional,other,2023,269.79,synthetic,0.01267,synthetic
+Eastern Europe,region,Demo Ingredient 15,non-traditional,other,2023,17479.865,synthetic,0.82114,synthetic
+Eastern Europe,region,Demo Ingredient 16,non-traditional,other,2023,4699.461,synthetic,0.22076,synthetic
+Eastern Europe,region,Demo Ingredient 17,non-traditional,other,2023,4160.113,synthetic,0.19543,synthetic
+Eastern Europe,region,Demo Ingredient 18,non-traditional,fruit_based,2023,229735.197,synthetic,10.79208,synthetic
+Eastern Europe,region,Demo Ingredient 19,non-traditional,fruit_based,2023,230023.638,synthetic,10.80563,synthetic
+Eastern Europe,region,Demo Ingredient 20,non-traditional,fruit_based,2023,116774.459,synthetic,5.48562,synthetic
+Eastern Europe,region,Demo Ingredient 01,traditional,traditional,2024,39051.119,synthetic,1.77244,synthetic
+Eastern Europe,region,Demo Ingredient 02,traditional,traditional,2024,9778.332,synthetic,0.44382,synthetic
+Eastern Europe,region,Demo Ingredient 03,traditional,traditional,2024,57233.729,synthetic,2.5977,synthetic
+Eastern Europe,region,Demo Ingredient 04,traditional,traditional,2024,26909.862,synthetic,1.22137,synthetic
+Eastern Europe,region,Demo Ingredient 05,traditional,traditional,2024,13909.903,synthetic,0.63134,synthetic
+Eastern Europe,region,Demo Ingredient 06,non-traditional,natural_alternative,2024,4237.061,synthetic,0.19231,synthetic
+Eastern Europe,region,Demo Ingredient 07,non-traditional,natural_alternative,2024,44198.236,synthetic,2.00605,synthetic
+Eastern Europe,region,Demo Ingredient 08,non-traditional,natural_alternative,2024,28338.934,synthetic,1.28624,synthetic
+Eastern Europe,region,Demo Ingredient 09,non-traditional,natural_alternative,2024,5847.424,synthetic,0.2654,synthetic
+Eastern Europe,region,Demo Ingredient 10,non-traditional,artificial_alternative,2024,20984.348,synthetic,0.95243,synthetic
+Eastern Europe,region,Demo Ingredient 11,non-traditional,artificial_alternative,2024,6642.274,synthetic,0.30148,synthetic
+Eastern Europe,region,Demo Ingredient 12,non-traditional,artificial_alternative,2024,19705.962,synthetic,0.89441,synthetic
+Eastern Europe,region,Demo Ingredient 13,non-traditional,artificial_alternative,2024,16928.703,synthetic,0.76835,synthetic
+Eastern Europe,region,Demo Ingredient 14,non-traditional,other,2024,4346.503,synthetic,0.19728,synthetic
+Eastern Europe,region,Demo Ingredient 15,non-traditional,other,2024,1080.061,synthetic,0.04902,synthetic
+Eastern Europe,region,Demo Ingredient 16,non-traditional,other,2024,14397.244,synthetic,0.65346,synthetic
+Eastern Europe,region,Demo Ingredient 17,non-traditional,other,2024,7716.744,synthetic,0.35024,synthetic
+Eastern Europe,region,Demo Ingredient 18,non-traditional,fruit_based,2024,297430.979,synthetic,13.49968,synthetic
+Eastern Europe,region,Demo Ingredient 19,non-traditional,fruit_based,2024,60641.51,synthetic,2.75237,synthetic
+Eastern Europe,region,Demo Ingredient 20,non-traditional,fruit_based,2024,238639.471,synthetic,10.83128,synthetic
+Eastern Europe,region,Demo Ingredient 01,traditional,traditional,2025,50548.885,synthetic,2.21671,synthetic
+Eastern Europe,region,Demo Ingredient 02,traditional,traditional,2025,31025.931,synthetic,1.36057,synthetic
+Eastern Europe,region,Demo Ingredient 03,traditional,traditional,2025,9037.352,synthetic,0.39631,synthetic
+Eastern Europe,region,Demo Ingredient 04,traditional,traditional,2025,50907.506,synthetic,2.23244,synthetic
+Eastern Europe,region,Demo Ingredient 05,traditional,traditional,2025,10504.173,synthetic,0.46064,synthetic
+Eastern Europe,region,Demo Ingredient 06,non-traditional,natural_alternative,2025,27468.703,synthetic,1.20458,synthetic
+Eastern Europe,region,Demo Ingredient 07,non-traditional,natural_alternative,2025,12175.471,synthetic,0.53393,synthetic
+Eastern Europe,region,Demo Ingredient 08,non-traditional,natural_alternative,2025,37235.967,synthetic,1.6329,synthetic
+Eastern Europe,region,Demo Ingredient 09,non-traditional,natural_alternative,2025,8633.274,synthetic,0.37859,synthetic
+Eastern Europe,region,Demo Ingredient 10,non-traditional,artificial_alternative,2025,18383.725,synthetic,0.80618,synthetic
+Eastern Europe,region,Demo Ingredient 11,non-traditional,artificial_alternative,2025,1905.308,synthetic,0.08355,synthetic
+Eastern Europe,region,Demo Ingredient 12,non-traditional,artificial_alternative,2025,22711.605,synthetic,0.99597,synthetic
+Eastern Europe,region,Demo Ingredient 13,non-traditional,artificial_alternative,2025,23509.795,synthetic,1.03097,synthetic
+Eastern Europe,region,Demo Ingredient 14,non-traditional,other,2025,3718.642,synthetic,0.16307,synthetic
+Eastern Europe,region,Demo Ingredient 15,non-traditional,other,2025,6717.431,synthetic,0.29458,synthetic
+Eastern Europe,region,Demo Ingredient 16,non-traditional,other,2025,6643.99,synthetic,0.29136,synthetic
+Eastern Europe,region,Demo Ingredient 17,non-traditional,other,2025,11424.408,synthetic,0.50099,synthetic
+Eastern Europe,region,Demo Ingredient 18,non-traditional,fruit_based,2025,130341.892,synthetic,5.71585,synthetic
+Eastern Europe,region,Demo Ingredient 19,non-traditional,fruit_based,2025,156786.545,synthetic,6.87552,synthetic
+Eastern Europe,region,Demo Ingredient 20,non-traditional,fruit_based,2025,330468.442,synthetic,14.49196,synthetic
+Asia Pacific,region,Demo Ingredient 01,traditional,traditional,2020,677583.086,synthetic,2.35272,synthetic
+Asia Pacific,region,Demo Ingredient 02,traditional,traditional,2020,119088.91,synthetic,0.4135,synthetic
+Asia Pacific,region,Demo Ingredient 03,traditional,traditional,2020,149117.507,synthetic,0.51777,synthetic
+Asia Pacific,region,Demo Ingredient 04,traditional,traditional,2020,482011.685,synthetic,1.67365,synthetic
+Asia Pacific,region,Demo Ingredient 05,traditional,traditional,2020,492198.812,synthetic,1.70902,synthetic
+Asia Pacific,region,Demo Ingredient 06,non-traditional,natural_alternative,2020,162950.378,synthetic,0.5658,synthetic
+Asia Pacific,region,Demo Ingredient 07,non-traditional,natural_alternative,2020,67773.782,synthetic,0.23533,synthetic
+Asia Pacific,region,Demo Ingredient 08,non-traditional,natural_alternative,2020,421349.451,synthetic,1.46302,synthetic
+Asia Pacific,region,Demo Ingredient 09,non-traditional,natural_alternative,2020,427926.389,synthetic,1.48586,synthetic
+Asia Pacific,region,Demo Ingredient 10,non-traditional,artificial_alternative,2020,138215.414,synthetic,0.47991,synthetic
+Asia Pacific,region,Demo Ingredient 11,non-traditional,artificial_alternative,2020,194364.376,synthetic,0.67488,synthetic
+Asia Pacific,region,Demo Ingredient 12,non-traditional,artificial_alternative,2020,292644.915,synthetic,1.01613,synthetic
+Asia Pacific,region,Demo Ingredient 13,non-traditional,artificial_alternative,2020,214775.295,synthetic,0.74575,synthetic
+Asia Pacific,region,Demo Ingredient 14,non-traditional,other,2020,69814.632,synthetic,0.24241,synthetic
+Asia Pacific,region,Demo Ingredient 15,non-traditional,other,2020,99037.77,synthetic,0.34388,synthetic
+Asia Pacific,region,Demo Ingredient 16,non-traditional,other,2020,98746.047,synthetic,0.34287,synthetic
+Asia Pacific,region,Demo Ingredient 17,non-traditional,other,2020,92401.551,synthetic,0.32084,synthetic
+Asia Pacific,region,Demo Ingredient 18,non-traditional,fruit_based,2020,2015110.673,synthetic,6.99691,synthetic
+Asia Pacific,region,Demo Ingredient 19,non-traditional,fruit_based,2020,4138866.393,synthetic,14.37106,synthetic
+Asia Pacific,region,Demo Ingredient 20,non-traditional,fruit_based,2020,1646022.934,synthetic,5.71536,synthetic
+Asia Pacific,region,Demo Ingredient 01,traditional,traditional,2021,222713.495,synthetic,0.74716,synthetic
+Asia Pacific,region,Demo Ingredient 02,traditional,traditional,2021,120051.322,synthetic,0.40275,synthetic
+Asia Pacific,region,Demo Ingredient 03,traditional,traditional,2021,711282.891,synthetic,2.38621,synthetic
+Asia Pacific,region,Demo Ingredient 04,traditional,traditional,2021,241620.37,synthetic,0.81059,synthetic
+Asia Pacific,region,Demo Ingredient 05,traditional,traditional,2021,691531.922,synthetic,2.31995,synthetic
+Asia Pacific,region,Demo Ingredient 06,non-traditional,natural_alternative,2021,328874.536,synthetic,1.10331,synthetic
+Asia Pacific,region,Demo Ingredient 07,non-traditional,natural_alternative,2021,202875.405,synthetic,0.68061,synthetic
+Asia Pacific,region,Demo Ingredient 08,non-traditional,natural_alternative,2021,427140.75,synthetic,1.43297,synthetic
+Asia Pacific,region,Demo Ingredient 09,non-traditional,natural_alternative,2021,158909.309,synthetic,0.53311,synthetic
+Asia Pacific,region,Demo Ingredient 10,non-traditional,artificial_alternative,2021,278577.762,synthetic,0.93457,synthetic
+Asia Pacific,region,Demo Ingredient 11,non-traditional,artificial_alternative,2021,177249.876,synthetic,0.59464,synthetic
+Asia Pacific,region,Demo Ingredient 12,non-traditional,artificial_alternative,2021,280680.515,synthetic,0.94163,synthetic
+Asia Pacific,region,Demo Ingredient 13,non-traditional,artificial_alternative,2021,132891.847,synthetic,0.44583,synthetic
+Asia Pacific,region,Demo Ingredient 14,non-traditional,other,2021,134531.614,synthetic,0.45133,synthetic
+Asia Pacific,region,Demo Ingredient 15,non-traditional,other,2021,95889.05,synthetic,0.32169,synthetic
+Asia Pacific,region,Demo Ingredient 16,non-traditional,other,2021,24124.297,synthetic,0.08093,synthetic
+Asia Pacific,region,Demo Ingredient 17,non-traditional,other,2021,118055.039,synthetic,0.39605,synthetic
+Asia Pacific,region,Demo Ingredient 18,non-traditional,fruit_based,2021,1391687.492,synthetic,4.66884,synthetic
+Asia Pacific,region,Demo Ingredient 19,non-traditional,fruit_based,2021,3539985.463,synthetic,11.87596,synthetic
+Asia Pacific,region,Demo Ingredient 20,non-traditional,fruit_based,2021,3141327.045,synthetic,10.53854,synthetic
+Asia Pacific,region,Demo Ingredient 01,traditional,traditional,2022,386274.744,synthetic,1.25205,synthetic
+Asia Pacific,region,Demo Ingredient 02,traditional,traditional,2022,87131.02,synthetic,0.28242,synthetic
+Asia Pacific,region,Demo Ingredient 03,traditional,traditional,2022,208798.188,synthetic,0.67679,synthetic
+Asia Pacific,region,Demo Ingredient 04,traditional,traditional,2022,750823.906,synthetic,2.43369,synthetic
+Asia Pacific,region,Demo Ingredient 05,traditional,traditional,2022,623724.141,synthetic,2.02171,synthetic
+Asia Pacific,region,Demo Ingredient 06,non-traditional,natural_alternative,2022,203218.21,synthetic,0.6587,synthetic
+Asia Pacific,region,Demo Ingredient 07,non-traditional,natural_alternative,2022,183386.521,synthetic,0.59442,synthetic
+Asia Pacific,region,Demo Ingredient 08,non-traditional,natural_alternative,2022,477901.37,synthetic,1.54905,synthetic
+Asia Pacific,region,Demo Ingredient 09,non-traditional,natural_alternative,2022,292416.899,synthetic,0.94783,synthetic
+Asia Pacific,region,Demo Ingredient 10,non-traditional,artificial_alternative,2022,133578.884,synthetic,0.43298,synthetic
+Asia Pacific,region,Demo Ingredient 11,non-traditional,artificial_alternative,2022,131778.826,synthetic,0.42714,synthetic
+Asia Pacific,region,Demo Ingredient 12,non-traditional,artificial_alternative,2022,470004.604,synthetic,1.52345,synthetic
+Asia Pacific,region,Demo Ingredient 13,non-traditional,artificial_alternative,2022,164466.686,synthetic,0.5331,synthetic
+Asia Pacific,region,Demo Ingredient 14,non-traditional,other,2022,31298.249,synthetic,0.10145,synthetic
+Asia Pacific,region,Demo Ingredient 15,non-traditional,other,2022,64496.969,synthetic,0.20906,synthetic
+Asia Pacific,region,Demo Ingredient 16,non-traditional,other,2022,275466.418,synthetic,0.89288,synthetic
+Asia Pacific,region,Demo Ingredient 17,non-traditional,other,2022,14379.364,synthetic,0.04661,synthetic
+Asia Pacific,region,Demo Ingredient 18,non-traditional,fruit_based,2022,1277844.68,synthetic,4.14195,synthetic
+Asia Pacific,region,Demo Ingredient 19,non-traditional,fruit_based,2022,5101044.706,synthetic,16.5343,synthetic
+Asia Pacific,region,Demo Ingredient 20,non-traditional,fruit_based,2022,1976665.615,synthetic,6.40708,synthetic
+Asia Pacific,region,Demo Ingredient 01,traditional,traditional,2023,125221.701,synthetic,0.39216,synthetic
+Asia Pacific,region,Demo Ingredient 02,traditional,traditional,2023,122735.546,synthetic,0.38438,synthetic
+Asia Pacific,region,Demo Ingredient 03,traditional,traditional,2023,654313.631,synthetic,2.04914,synthetic
+Asia Pacific,region,Demo Ingredient 04,traditional,traditional,2023,173203.464,synthetic,0.54243,synthetic
+Asia Pacific,region,Demo Ingredient 05,traditional,traditional,2023,1053263.978,synthetic,3.29855,synthetic
+Asia Pacific,region,Demo Ingredient 06,non-traditional,natural_alternative,2023,453008.391,synthetic,1.41871,synthetic
+Asia Pacific,region,Demo Ingredient 07,non-traditional,natural_alternative,2023,62463.437,synthetic,0.19562,synthetic
+Asia Pacific,region,Demo Ingredient 08,non-traditional,natural_alternative,2023,448170.95,synthetic,1.40356,synthetic
+Asia Pacific,region,Demo Ingredient 09,non-traditional,natural_alternative,2023,233772.527,synthetic,0.73212,synthetic
+Asia Pacific,region,Demo Ingredient 10,non-traditional,artificial_alternative,2023,306644.357,synthetic,0.96033,synthetic
+Asia Pacific,region,Demo Ingredient 11,non-traditional,artificial_alternative,2023,424478.236,synthetic,1.32936,synthetic
+Asia Pacific,region,Demo Ingredient 12,non-traditional,artificial_alternative,2023,77640.321,synthetic,0.24315,synthetic
+Asia Pacific,region,Demo Ingredient 13,non-traditional,artificial_alternative,2023,122560.101,synthetic,0.38383,synthetic
+Asia Pacific,region,Demo Ingredient 14,non-traditional,other,2023,28365.84,synthetic,0.08883,synthetic
+Asia Pacific,region,Demo Ingredient 15,non-traditional,other,2023,109088.919,synthetic,0.34164,synthetic
+Asia Pacific,region,Demo Ingredient 16,non-traditional,other,2023,99259.645,synthetic,0.31086,synthetic
+Asia Pacific,region,Demo Ingredient 17,non-traditional,other,2023,162424.032,synthetic,0.50867,synthetic
+Asia Pacific,region,Demo Ingredient 18,non-traditional,fruit_based,2023,1979842.483,synthetic,6.20036,synthetic
+Asia Pacific,region,Demo Ingredient 19,non-traditional,fruit_based,2023,3420293.461,synthetic,10.71149,synthetic
+Asia Pacific,region,Demo Ingredient 20,non-traditional,fruit_based,2023,3247863.481,synthetic,10.17148,synthetic
+Asia Pacific,region,Demo Ingredient 01,traditional,traditional,2024,176545.375,synthetic,0.5342,synthetic
+Asia Pacific,region,Demo Ingredient 02,traditional,traditional,2024,73374.635,synthetic,0.22202,synthetic
+Asia Pacific,region,Demo Ingredient 03,traditional,traditional,2024,1703688.788,synthetic,5.15509,synthetic
+Asia Pacific,region,Demo Ingredient 04,traditional,traditional,2024,36582.794,synthetic,0.11069,synthetic
+Asia Pacific,region,Demo Ingredient 05,traditional,traditional,2024,213052.569,synthetic,0.64466,synthetic
+Asia Pacific,region,Demo Ingredient 06,non-traditional,natural_alternative,2024,537788.873,synthetic,1.62726,synthetic
+Asia Pacific,region,Demo Ingredient 07,non-traditional,natural_alternative,2024,93165.82,synthetic,0.2819,synthetic
+Asia Pacific,region,Demo Ingredient 08,non-traditional,natural_alternative,2024,132788.191,synthetic,0.4018,synthetic
+Asia Pacific,region,Demo Ingredient 09,non-traditional,natural_alternative,2024,475581.957,synthetic,1.43904,synthetic
+Asia Pacific,region,Demo Ingredient 10,non-traditional,artificial_alternative,2024,174955.298,synthetic,0.52939,synthetic
+Asia Pacific,region,Demo Ingredient 11,non-traditional,artificial_alternative,2024,256725.094,synthetic,0.77681,synthetic
+Asia Pacific,region,Demo Ingredient 12,non-traditional,artificial_alternative,2024,386132.473,synthetic,1.16838,synthetic
+Asia Pacific,region,Demo Ingredient 13,non-traditional,artificial_alternative,2024,146106.456,synthetic,0.44209,synthetic
+Asia Pacific,region,Demo Ingredient 14,non-traditional,other,2024,116325.26,synthetic,0.35198,synthetic
+Asia Pacific,region,Demo Ingredient 15,non-traditional,other,2024,70492.333,synthetic,0.2133,synthetic
+Asia Pacific,region,Demo Ingredient 16,non-traditional,other,2024,106628.104,synthetic,0.32264,synthetic
+Asia Pacific,region,Demo Ingredient 17,non-traditional,other,2024,119662.583,synthetic,0.36208,synthetic
+Asia Pacific,region,Demo Ingredient 18,non-traditional,fruit_based,2024,6659213.686,synthetic,20.14972,synthetic
+Asia Pacific,region,Demo Ingredient 19,non-traditional,fruit_based,2024,1583181.03,synthetic,4.79045,synthetic
+Asia Pacific,region,Demo Ingredient 20,non-traditional,fruit_based,2024,708284.689,synthetic,2.14316,synthetic
+Asia Pacific,region,Demo Ingredient 01,traditional,traditional,2025,129288.843,synthetic,0.37798,synthetic
+Asia Pacific,region,Demo Ingredient 02,traditional,traditional,2025,979651.85,synthetic,2.86403,synthetic
+Asia Pacific,region,Demo Ingredient 03,traditional,traditional,2025,445086.06,synthetic,1.30122,synthetic
+Asia Pacific,region,Demo Ingredient 04,traditional,traditional,2025,168993.134,synthetic,0.49405,synthetic
+Asia Pacific,region,Demo Ingredient 05,traditional,traditional,2025,557337.821,synthetic,1.62939,synthetic
+Asia Pacific,region,Demo Ingredient 06,non-traditional,natural_alternative,2025,192213.998,synthetic,0.56194,synthetic
+Asia Pacific,region,Demo Ingredient 07,non-traditional,natural_alternative,2025,359883.306,synthetic,1.05213,synthetic
+Asia Pacific,region,Demo Ingredient 08,non-traditional,natural_alternative,2025,361681.039,synthetic,1.05738,synthetic
+Asia Pacific,region,Demo Ingredient 09,non-traditional,natural_alternative,2025,368922.867,synthetic,1.07855,synthetic
+Asia Pacific,region,Demo Ingredient 10,non-traditional,artificial_alternative,2025,271532.885,synthetic,0.79383,synthetic
+Asia Pacific,region,Demo Ingredient 11,non-traditional,artificial_alternative,2025,192253.691,synthetic,0.56206,synthetic
+Asia Pacific,region,Demo Ingredient 12,non-traditional,artificial_alternative,2025,160713.307,synthetic,0.46985,synthetic
+Asia Pacific,region,Demo Ingredient 13,non-traditional,artificial_alternative,2025,373156.614,synthetic,1.09093,synthetic
+Asia Pacific,region,Demo Ingredient 14,non-traditional,other,2025,112671.193,synthetic,0.3294,synthetic
+Asia Pacific,region,Demo Ingredient 15,non-traditional,other,2025,223342.737,synthetic,0.65295,synthetic
+Asia Pacific,region,Demo Ingredient 16,non-traditional,other,2025,34177.753,synthetic,0.09992,synthetic
+Asia Pacific,region,Demo Ingredient 17,non-traditional,other,2025,57375.388,synthetic,0.16774,synthetic
+Asia Pacific,region,Demo Ingredient 18,non-traditional,fruit_based,2025,4146473.884,synthetic,12.12229,synthetic
+Asia Pacific,region,Demo Ingredient 19,non-traditional,fruit_based,2025,3650044.209,synthetic,10.67097,synthetic
+Asia Pacific,region,Demo Ingredient 20,non-traditional,fruit_based,2025,1467435.092,synthetic,4.29007,synthetic
+Australasia,region,Demo Ingredient 01,traditional,traditional,2020,38113.021,synthetic,3.17609,synthetic
+Australasia,region,Demo Ingredient 02,traditional,traditional,2020,14458.015,synthetic,1.20483,synthetic
+Australasia,region,Demo Ingredient 03,traditional,traditional,2020,3284.538,synthetic,0.27371,synthetic
+Australasia,region,Demo Ingredient 04,traditional,traditional,2020,6109.711,synthetic,0.50914,synthetic
+Australasia,region,Demo Ingredient 05,traditional,traditional,2020,18034.716,synthetic,1.50289,synthetic
+Australasia,region,Demo Ingredient 06,non-traditional,natural_alternative,2020,17927.327,synthetic,1.49394,synthetic
+Australasia,region,Demo Ingredient 07,non-traditional,natural_alternative,2020,5468.634,synthetic,0.45572,synthetic
+Australasia,region,Demo Ingredient 08,non-traditional,natural_alternative,2020,10027.447,synthetic,0.83562,synthetic
+Australasia,region,Demo Ingredient 09,non-traditional,natural_alternative,2020,11576.593,synthetic,0.96472,synthetic
+Australasia,region,Demo Ingredient 10,non-traditional,artificial_alternative,2020,6769.693,synthetic,0.56414,synthetic
+Australasia,region,Demo Ingredient 11,non-traditional,artificial_alternative,2020,4418.347,synthetic,0.3682,synthetic
+Australasia,region,Demo Ingredient 12,non-traditional,artificial_alternative,2020,9272.132,synthetic,0.77268,synthetic
+Australasia,region,Demo Ingredient 13,non-traditional,artificial_alternative,2020,14539.828,synthetic,1.21165,synthetic
+Australasia,region,Demo Ingredient 14,non-traditional,other,2020,7977.187,synthetic,0.66477,synthetic
+Australasia,region,Demo Ingredient 15,non-traditional,other,2020,2377.538,synthetic,0.19813,synthetic
+Australasia,region,Demo Ingredient 16,non-traditional,other,2020,386.392,synthetic,0.0322,synthetic
+Australasia,region,Demo Ingredient 17,non-traditional,other,2020,4258.884,synthetic,0.35491,synthetic
+Australasia,region,Demo Ingredient 18,non-traditional,fruit_based,2020,180918.904,synthetic,15.07658,synthetic
+Australasia,region,Demo Ingredient 19,non-traditional,fruit_based,2020,37024.601,synthetic,3.08538,synthetic
+Australasia,region,Demo Ingredient 20,non-traditional,fruit_based,2020,107056.495,synthetic,8.92137,synthetic
+Australasia,region,Demo Ingredient 01,traditional,traditional,2021,13184.961,synthetic,1.06159,synthetic
+Australasia,region,Demo Ingredient 02,traditional,traditional,2021,11493.014,synthetic,0.92536,synthetic
+Australasia,region,Demo Ingredient 03,traditional,traditional,2021,12212.747,synthetic,0.98331,synthetic
+Australasia,region,Demo Ingredient 04,traditional,traditional,2021,29853.101,synthetic,2.40363,synthetic
+Australasia,region,Demo Ingredient 05,traditional,traditional,2021,16056.177,synthetic,1.29277,synthetic
+Australasia,region,Demo Ingredient 06,non-traditional,natural_alternative,2021,18442.826,synthetic,1.48493,synthetic
+Australasia,region,Demo Ingredient 07,non-traditional,natural_alternative,2021,4155.202,synthetic,0.33456,synthetic
+Australasia,region,Demo Ingredient 08,non-traditional,natural_alternative,2021,14572.046,synthetic,1.17327,synthetic
+Australasia,region,Demo Ingredient 09,non-traditional,natural_alternative,2021,9404.926,synthetic,0.75724,synthetic
+Australasia,region,Demo Ingredient 10,non-traditional,artificial_alternative,2021,21317.613,synthetic,1.71639,synthetic
+Australasia,region,Demo Ingredient 11,non-traditional,artificial_alternative,2021,5756.263,synthetic,0.46347,synthetic
+Australasia,region,Demo Ingredient 12,non-traditional,artificial_alternative,2021,4124.597,synthetic,0.33209,synthetic
+Australasia,region,Demo Ingredient 13,non-traditional,artificial_alternative,2021,5026.527,synthetic,0.40471,synthetic
+Australasia,region,Demo Ingredient 14,non-traditional,other,2021,2976.295,synthetic,0.23964,synthetic
+Australasia,region,Demo Ingredient 15,non-traditional,other,2021,4906.081,synthetic,0.39501,synthetic
+Australasia,region,Demo Ingredient 16,non-traditional,other,2021,4410.54,synthetic,0.35512,synthetic
+Australasia,region,Demo Ingredient 17,non-traditional,other,2021,3232.083,synthetic,0.26023,synthetic
+Australasia,region,Demo Ingredient 18,non-traditional,fruit_based,2021,46105.801,synthetic,3.71222,synthetic
+Australasia,region,Demo Ingredient 19,non-traditional,fruit_based,2021,235865.504,synthetic,18.99078,synthetic
+Australasia,region,Demo Ingredient 20,non-traditional,fruit_based,2021,54403.695,synthetic,4.38033,synthetic
+Australasia,region,Demo Ingredient 01,traditional,traditional,2022,10378.959,synthetic,0.80741,synthetic
+Australasia,region,Demo Ingredient 02,traditional,traditional,2022,23772.006,synthetic,1.84929,synthetic
+Australasia,region,Demo Ingredient 03,traditional,traditional,2022,21344.003,synthetic,1.6604,synthetic
+Australasia,region,Demo Ingredient 04,traditional,traditional,2022,18875.023,synthetic,1.46834,synthetic
+Australasia,region,Demo Ingredient 05,traditional,traditional,2022,11328.008,synthetic,0.88123,synthetic
+Australasia,region,Demo Ingredient 06,non-traditional,natural_alternative,2022,15817.672,synthetic,1.2305,synthetic
+Australasia,region,Demo Ingredient 07,non-traditional,natural_alternative,2022,3828.519,synthetic,0.29783,synthetic
+Australasia,region,Demo Ingredient 08,non-traditional,natural_alternative,2022,20733.069,synthetic,1.61288,synthetic
+Australasia,region,Demo Ingredient 09,non-traditional,natural_alternative,2022,7825.865,synthetic,0.60879,synthetic
+Australasia,region,Demo Ingredient 10,non-traditional,artificial_alternative,2022,17851.99,synthetic,1.38875,synthetic
+Australasia,region,Demo Ingredient 11,non-traditional,artificial_alternative,2022,8845.0,synthetic,0.68808,synthetic
+Australasia,region,Demo Ingredient 12,non-traditional,artificial_alternative,2022,4785.411,synthetic,0.37227,synthetic
+Australasia,region,Demo Ingredient 13,non-traditional,artificial_alternative,2022,6010.474,synthetic,0.46757,synthetic
+Australasia,region,Demo Ingredient 14,non-traditional,other,2022,7889.44,synthetic,0.61374,synthetic
+Australasia,region,Demo Ingredient 15,non-traditional,other,2022,5855.709,synthetic,0.45553,synthetic
+Australasia,region,Demo Ingredient 16,non-traditional,other,2022,1355.808,synthetic,0.10547,synthetic
+Australasia,region,Demo Ingredient 17,non-traditional,other,2022,967.419,synthetic,0.07526,synthetic
+Australasia,region,Demo Ingredient 18,non-traditional,fruit_based,2022,74441.893,synthetic,5.79103,synthetic
+Australasia,region,Demo Ingredient 19,non-traditional,fruit_based,2022,148283.374,synthetic,11.53534,synthetic
+Australasia,region,Demo Ingredient 20,non-traditional,fruit_based,2022,125422.858,synthetic,9.75697,synthetic
+Australasia,region,Demo Ingredient 01,traditional,traditional,2023,7182.136,synthetic,0.53982,synthetic
+Australasia,region,Demo Ingredient 02,traditional,traditional,2023,15280.77,synthetic,1.14853,synthetic
+Australasia,region,Demo Ingredient 03,traditional,traditional,2023,15766.393,synthetic,1.18503,synthetic
+Australasia,region,Demo Ingredient 04,traditional,traditional,2023,47951.413,synthetic,3.60412,synthetic
+Australasia,region,Demo Ingredient 05,traditional,traditional,2023,2516.718,synthetic,0.18916,synthetic
+Australasia,region,Demo Ingredient 06,non-traditional,natural_alternative,2023,8631.943,synthetic,0.64879,synthetic
+Australasia,region,Demo Ingredient 07,non-traditional,natural_alternative,2023,23810.872,synthetic,1.78967,synthetic
+Australasia,region,Demo Ingredient 08,non-traditional,natural_alternative,2023,11399.206,synthetic,0.85679,synthetic
+Australasia,region,Demo Ingredient 09,non-traditional,natural_alternative,2023,6050.283,synthetic,0.45475,synthetic
+Australasia,region,Demo Ingredient 10,non-traditional,artificial_alternative,2023,9697.202,synthetic,0.72886,synthetic
+Australasia,region,Demo Ingredient 11,non-traditional,artificial_alternative,2023,9972.007,synthetic,0.74951,synthetic
+Australasia,region,Demo Ingredient 12,non-traditional,artificial_alternative,2023,3089.696,synthetic,0.23223,synthetic
+Australasia,region,Demo Ingredient 13,non-traditional,artificial_alternative,2023,16046.221,synthetic,1.20606,synthetic
+Australasia,region,Demo Ingredient 14,non-traditional,other,2023,4257.549,synthetic,0.32001,synthetic
+Australasia,region,Demo Ingredient 15,non-traditional,other,2023,3518.922,synthetic,0.26449,synthetic
+Australasia,region,Demo Ingredient 16,non-traditional,other,2023,6144.992,synthetic,0.46187,synthetic
+Australasia,region,Demo Ingredient 17,non-traditional,other,2023,2709.305,synthetic,0.20364,synthetic
+Australasia,region,Demo Ingredient 18,non-traditional,fruit_based,2023,38935.945,synthetic,2.9265,synthetic
+Australasia,region,Demo Ingredient 19,non-traditional,fruit_based,2023,232571.996,synthetic,17.48055,synthetic
+Australasia,region,Demo Ingredient 20,non-traditional,fruit_based,2023,88825.369,synthetic,6.67628,synthetic
+Australasia,region,Demo Ingredient 01,traditional,traditional,2024,22731.5,synthetic,1.65077,synthetic
+Australasia,region,Demo Ingredient 02,traditional,traditional,2024,22067.504,synthetic,1.60255,synthetic
+Australasia,region,Demo Ingredient 03,traditional,traditional,2024,10260.967,synthetic,0.74515,synthetic
+Australasia,region,Demo Ingredient 04,traditional,traditional,2024,27118.831,synthetic,1.96937,synthetic
+Australasia,region,Demo Ingredient 05,traditional,traditional,2024,9623.038,synthetic,0.69883,synthetic
+Australasia,region,Demo Ingredient 06,non-traditional,natural_alternative,2024,15723.201,synthetic,1.14182,synthetic
+Australasia,region,Demo Ingredient 07,non-traditional,natural_alternative,2024,19390.514,synthetic,1.40814,synthetic
+Australasia,region,Demo Ingredient 08,non-traditional,natural_alternative,2024,3722.413,synthetic,0.27032,synthetic
+Australasia,region,Demo Ingredient 09,non-traditional,natural_alternative,2024,12802.407,synthetic,0.92971,synthetic
+Australasia,region,Demo Ingredient 10,non-traditional,artificial_alternative,2024,15131.656,synthetic,1.09886,synthetic
+Australasia,region,Demo Ingredient 11,non-traditional,artificial_alternative,2024,9321.18,synthetic,0.67691,synthetic
+Australasia,region,Demo Ingredient 12,non-traditional,artificial_alternative,2024,1522.802,synthetic,0.11059,synthetic
+Australasia,region,Demo Ingredient 13,non-traditional,artificial_alternative,2024,14187.667,synthetic,1.03031,synthetic
+Australasia,region,Demo Ingredient 14,non-traditional,other,2024,7309.723,synthetic,0.53083,synthetic
+Australasia,region,Demo Ingredient 15,non-traditional,other,2024,1539.942,synthetic,0.11183,synthetic
+Australasia,region,Demo Ingredient 16,non-traditional,other,2024,5039.488,synthetic,0.36597,synthetic
+Australasia,region,Demo Ingredient 17,non-traditional,other,2024,3323.692,synthetic,0.24137,synthetic
+Australasia,region,Demo Ingredient 18,non-traditional,fruit_based,2024,166599.427,synthetic,12.09848,synthetic
+Australasia,region,Demo Ingredient 19,non-traditional,fruit_based,2024,109450.177,synthetic,7.94829,synthetic
+Australasia,region,Demo Ingredient 20,non-traditional,fruit_based,2024,96895.371,synthetic,7.03656,synthetic
+Australasia,region,Demo Ingredient 01,traditional,traditional,2025,25044.789,synthetic,1.75725,synthetic
+Australasia,region,Demo Ingredient 02,traditional,traditional,2025,9739.757,synthetic,0.68338,synthetic
+Australasia,region,Demo Ingredient 03,traditional,traditional,2025,35147.885,synthetic,2.46613,synthetic
+Australasia,region,Demo Ingredient 04,traditional,traditional,2025,4574.447,synthetic,0.32096,synthetic
+Australasia,region,Demo Ingredient 05,traditional,traditional,2025,20508.027,synthetic,1.43893,synthetic
+Australasia,region,Demo Ingredient 06,non-traditional,natural_alternative,2025,10693.804,synthetic,0.75032,synthetic
+Australasia,region,Demo Ingredient 07,non-traditional,natural_alternative,2025,4936.2,synthetic,0.34635,synthetic
+Australasia,region,Demo Ingredient 08,non-traditional,natural_alternative,2025,10158.84,synthetic,0.71279,synthetic
+Australasia,region,Demo Ingredient 09,non-traditional,natural_alternative,2025,27657.04,synthetic,1.94054,synthetic
+Australasia,region,Demo Ingredient 10,non-traditional,artificial_alternative,2025,5687.793,synthetic,0.39908,synthetic
+Australasia,region,Demo Ingredient 11,non-traditional,artificial_alternative,2025,8035.214,synthetic,0.56379,synthetic
+Australasia,region,Demo Ingredient 12,non-traditional,artificial_alternative,2025,21511.039,synthetic,1.50931,synthetic
+Australasia,region,Demo Ingredient 13,non-traditional,artificial_alternative,2025,6334.975,synthetic,0.44449,synthetic
+Australasia,region,Demo Ingredient 14,non-traditional,other,2025,2976.661,synthetic,0.20886,synthetic
+Australasia,region,Demo Ingredient 15,non-traditional,other,2025,6445.332,synthetic,0.45223,synthetic
+Australasia,region,Demo Ingredient 16,non-traditional,other,2025,3218.94,synthetic,0.22586,synthetic
+Australasia,region,Demo Ingredient 17,non-traditional,other,2025,5174.362,synthetic,0.36306,synthetic
+Australasia,region,Demo Ingredient 18,non-traditional,fruit_based,2025,138822.235,synthetic,9.74038,synthetic
+Australasia,region,Demo Ingredient 19,non-traditional,fruit_based,2025,68476.52,synthetic,4.80462,synthetic
+Australasia,region,Demo Ingredient 20,non-traditional,fruit_based,2025,178699.294,synthetic,12.53833,synthetic
+Middle East and Africa,region,Demo Ingredient 01,traditional,traditional,2020,77467.297,synthetic,3.2278,synthetic
+Middle East and Africa,region,Demo Ingredient 02,traditional,traditional,2020,10990.818,synthetic,0.45795,synthetic
+Middle East and Africa,region,Demo Ingredient 03,traditional,traditional,2020,23643.887,synthetic,0.98516,synthetic
+Middle East and Africa,region,Demo Ingredient 04,traditional,traditional,2020,11195.331,synthetic,0.46647,synthetic
+Middle East and Africa,region,Demo Ingredient 05,traditional,traditional,2020,36702.667,synthetic,1.52928,synthetic
+Middle East and Africa,region,Demo Ingredient 06,non-traditional,natural_alternative,2020,18221.36,synthetic,0.75922,synthetic
+Middle East and Africa,region,Demo Ingredient 07,non-traditional,natural_alternative,2020,4388.919,synthetic,0.18287,synthetic
+Middle East and Africa,region,Demo Ingredient 08,non-traditional,natural_alternative,2020,48533.235,synthetic,2.02222,synthetic
+Middle East and Africa,region,Demo Ingredient 09,non-traditional,natural_alternative,2020,18856.485,synthetic,0.78569,synthetic
+Middle East and Africa,region,Demo Ingredient 10,non-traditional,artificial_alternative,2020,25227.603,synthetic,1.05115,synthetic
+Middle East and Africa,region,Demo Ingredient 11,non-traditional,artificial_alternative,2020,25309.116,synthetic,1.05455,synthetic
+Middle East and Africa,region,Demo Ingredient 12,non-traditional,artificial_alternative,2020,16603.88,synthetic,0.69183,synthetic
+Middle East and Africa,region,Demo Ingredient 13,non-traditional,artificial_alternative,2020,2859.401,synthetic,0.11914,synthetic
+Middle East and Africa,region,Demo Ingredient 14,non-traditional,other,2020,6858.732,synthetic,0.28578,synthetic
+Middle East and Africa,region,Demo Ingredient 15,non-traditional,other,2020,11510.028,synthetic,0.47958,synthetic
+Middle East and Africa,region,Demo Ingredient 16,non-traditional,other,2020,5603.67,synthetic,0.23349,synthetic
+Middle East and Africa,region,Demo Ingredient 17,non-traditional,other,2020,6027.571,synthetic,0.25115,synthetic
+Middle East and Africa,region,Demo Ingredient 18,non-traditional,fruit_based,2020,233705.976,synthetic,9.73775,synthetic
+Middle East and Africa,region,Demo Ingredient 19,non-traditional,fruit_based,2020,352840.391,synthetic,14.70168,synthetic
+Middle East and Africa,region,Demo Ingredient 20,non-traditional,fruit_based,2020,63453.633,synthetic,2.6439,synthetic
+Middle East and Africa,region,Demo Ingredient 01,traditional,traditional,2021,13486.998,synthetic,0.54295,synthetic
+Middle East and Africa,region,Demo Ingredient 02,traditional,traditional,2021,25959.714,synthetic,1.04508,synthetic
+Middle East and Africa,region,Demo Ingredient 03,traditional,traditional,2021,84256.52,synthetic,3.39197,synthetic
+Middle East and Africa,region,Demo Ingredient 04,traditional,traditional,2021,28418.416,synthetic,1.14406,synthetic
+Middle East and Africa,region,Demo Ingredient 05,traditional,traditional,2021,13478.352,synthetic,0.54261,synthetic
+Middle East and Africa,region,Demo Ingredient 06,non-traditional,natural_alternative,2021,23064.727,synthetic,0.92853,synthetic
+Middle East and Africa,region,Demo Ingredient 07,non-traditional,natural_alternative,2021,27837.723,synthetic,1.12068,synthetic
+Middle East and Africa,region,Demo Ingredient 08,non-traditional,natural_alternative,2021,22655.28,synthetic,0.91205,synthetic
+Middle East and Africa,region,Demo Ingredient 09,non-traditional,natural_alternative,2021,19592.269,synthetic,0.78874,synthetic
+Middle East and Africa,region,Demo Ingredient 10,non-traditional,artificial_alternative,2021,8296.378,synthetic,0.33399,synthetic
+Middle East and Africa,region,Demo Ingredient 11,non-traditional,artificial_alternative,2021,14901.429,synthetic,0.5999,synthetic
+Middle East and Africa,region,Demo Ingredient 12,non-traditional,artificial_alternative,2021,15212.598,synthetic,0.61242,synthetic
+Middle East and Africa,region,Demo Ingredient 13,non-traditional,artificial_alternative,2021,34039.594,synthetic,1.37035,synthetic
+Middle East and Africa,region,Demo Ingredient 14,non-traditional,other,2021,8569.111,synthetic,0.34497,synthetic
+Middle East and Africa,region,Demo Ingredient 15,non-traditional,other,2021,3871.154,synthetic,0.15584,synthetic
+Middle East and Africa,region,Demo Ingredient 16,non-traditional,other,2021,16406.026,synthetic,0.66047,synthetic
+Middle East and Africa,region,Demo Ingredient 17,non-traditional,other,2021,2203.71,synthetic,0.08872,synthetic
+Middle East and Africa,region,Demo Ingredient 18,non-traditional,fruit_based,2021,558165.527,synthetic,22.47043,synthetic
+Middle East and Africa,region,Demo Ingredient 19,non-traditional,fruit_based,2021,71198.009,synthetic,2.86626,synthetic
+Middle East and Africa,region,Demo Ingredient 20,non-traditional,fruit_based,2021,43386.463,synthetic,1.74664,synthetic
+Middle East and Africa,region,Demo Ingredient 01,traditional,traditional,2022,11797.923,synthetic,0.4589,synthetic
+Middle East and Africa,region,Demo Ingredient 02,traditional,traditional,2022,31303.881,synthetic,1.2176,synthetic
+Middle East and Africa,region,Demo Ingredient 03,traditional,traditional,2022,44888.97,synthetic,1.74601,synthetic
+Middle East and Africa,region,Demo Ingredient 04,traditional,traditional,2022,34334.171,synthetic,1.33547,synthetic
+Middle East and Africa,region,Demo Ingredient 05,traditional,traditional,2022,49071.055,synthetic,1.90868,synthetic
+Middle East and Africa,region,Demo Ingredient 06,non-traditional,natural_alternative,2022,9298.691,synthetic,0.36168,synthetic
+Middle East and Africa,region,Demo Ingredient 07,non-traditional,natural_alternative,2022,31979.697,synthetic,1.24389,synthetic
+Middle East and Africa,region,Demo Ingredient 08,non-traditional,natural_alternative,2022,33215.931,synthetic,1.29198,synthetic
+Middle East and Africa,region,Demo Ingredient 09,non-traditional,natural_alternative,2022,21915.932,synthetic,0.85245,synthetic
+Middle East and Africa,region,Demo Ingredient 10,non-traditional,artificial_alternative,2022,3249.894,synthetic,0.12641,synthetic
+Middle East and Africa,region,Demo Ingredient 11,non-traditional,artificial_alternative,2022,50746.3,synthetic,1.97384,synthetic
+Middle East and Africa,region,Demo Ingredient 12,non-traditional,artificial_alternative,2022,18508.864,synthetic,0.71993,synthetic
+Middle East and Africa,region,Demo Ingredient 13,non-traditional,artificial_alternative,2022,2480.692,synthetic,0.09649,synthetic
+Middle East and Africa,region,Demo Ingredient 14,non-traditional,other,2022,4997.412,synthetic,0.19438,synthetic
+Middle East and Africa,region,Demo Ingredient 15,non-traditional,other,2022,7391.913,synthetic,0.28752,synthetic
+Middle East and Africa,region,Demo Ingredient 16,non-traditional,other,2022,14962.209,synthetic,0.58197,synthetic
+Middle East and Africa,region,Demo Ingredient 17,non-traditional,other,2022,4785.216,synthetic,0.18613,synthetic
+Middle East and Africa,region,Demo Ingredient 18,non-traditional,fruit_based,2022,98370.082,synthetic,3.82623,synthetic
+Middle East and Africa,region,Demo Ingredient 19,non-traditional,fruit_based,2022,76845.074,synthetic,2.98899,synthetic
+Middle East and Africa,region,Demo Ingredient 20,non-traditional,fruit_based,2022,521081.093,synthetic,20.26812,synthetic
+Middle East and Africa,region,Demo Ingredient 01,traditional,traditional,2023,41987.969,synthetic,1.57795,synthetic
+Middle East and Africa,region,Demo Ingredient 02,traditional,traditional,2023,5480.895,synthetic,0.20598,synthetic
+Middle East and Africa,region,Demo Ingredient 03,traditional,traditional,2023,35091.148,synthetic,1.31876,synthetic
+Middle East and Africa,region,Demo Ingredient 04,traditional,traditional,2023,51750.192,synthetic,1.94482,synthetic
+Middle East and Africa,region,Demo Ingredient 05,traditional,traditional,2023,43084.656,synthetic,1.61916,synthetic
+Middle East and Africa,region,Demo Ingredient 06,non-traditional,natural_alternative,2023,7376.731,synthetic,0.27722,synthetic
+Middle East and Africa,region,Demo Ingredient 07,non-traditional,natural_alternative,2023,57742.773,synthetic,2.17003,synthetic
+Middle East and Africa,region,Demo Ingredient 08,non-traditional,natural_alternative,2023,20347.281,synthetic,0.76467,synthetic
+Middle East and Africa,region,Demo Ingredient 09,non-traditional,natural_alternative,2023,14317.824,synthetic,0.53808,synthetic
+Middle East and Africa,region,Demo Ingredient 10,non-traditional,artificial_alternative,2023,23268.043,synthetic,0.87444,synthetic
+Middle East and Africa,region,Demo Ingredient 11,non-traditional,artificial_alternative,2023,5115.242,synthetic,0.19224,synthetic
+Middle East and Africa,region,Demo Ingredient 12,non-traditional,artificial_alternative,2023,15618.019,synthetic,0.58694,synthetic
+Middle East and Africa,region,Demo Ingredient 13,non-traditional,artificial_alternative,2023,33608.947,synthetic,1.26306,synthetic
+Middle East and Africa,region,Demo Ingredient 14,non-traditional,other,2023,8989.149,synthetic,0.33782,synthetic
+Middle East and Africa,region,Demo Ingredient 15,non-traditional,other,2023,7567.533,synthetic,0.2844,synthetic
+Middle East and Africa,region,Demo Ingredient 16,non-traditional,other,2023,10839.885,synthetic,0.40737,synthetic
+Middle East and Africa,region,Demo Ingredient 17,non-traditional,other,2023,5864.969,synthetic,0.22041,synthetic
+Middle East and Africa,region,Demo Ingredient 18,non-traditional,fruit_based,2023,190658.171,synthetic,7.16511,synthetic
+Middle East and Africa,region,Demo Ingredient 19,non-traditional,fruit_based,2023,338522.596,synthetic,12.722,synthetic
+Middle East and Africa,region,Demo Ingredient 20,non-traditional,fruit_based,2023,191485.852,synthetic,7.19622,synthetic
+Middle East and Africa,region,Demo Ingredient 01,traditional,traditional,2024,41662.943,synthetic,1.51279,synthetic
+Middle East and Africa,region,Demo Ingredient 02,traditional,traditional,2024,35399.853,synthetic,1.28537,synthetic
+Middle East and Africa,region,Demo Ingredient 03,traditional,traditional,2024,50996.602,synthetic,1.85169,synthetic
+Middle East and Africa,region,Demo Ingredient 04,traditional,traditional,2024,45527.194,synthetic,1.6531,synthetic
+Middle East and Africa,region,Demo Ingredient 05,traditional,traditional,2024,10017.088,synthetic,0.36372,synthetic
+Middle East and Africa,region,Demo Ingredient 06,non-traditional,natural_alternative,2024,15998.441,synthetic,0.5809,synthetic
+Middle East and Africa,region,Demo Ingredient 07,non-traditional,natural_alternative,2024,27518.267,synthetic,0.99919,synthetic
+Middle East and Africa,region,Demo Ingredient 08,non-traditional,natural_alternative,2024,48453.799,synthetic,1.75936,synthetic
+Middle East and Africa,region,Demo Ingredient 09,non-traditional,natural_alternative,2024,11306.563,synthetic,0.41054,synthetic
+Middle East and Africa,region,Demo Ingredient 10,non-traditional,artificial_alternative,2024,9799.848,synthetic,0.35583,synthetic
+Middle East and Africa,region,Demo Ingredient 11,non-traditional,artificial_alternative,2024,31066.24,synthetic,1.12802,synthetic
+Middle East and Africa,region,Demo Ingredient 12,non-traditional,artificial_alternative,2024,12507.854,synthetic,0.45416,synthetic
+Middle East and Africa,region,Demo Ingredient 13,non-traditional,artificial_alternative,2024,26952.667,synthetic,0.97865,synthetic
+Middle East and Africa,region,Demo Ingredient 14,non-traditional,other,2024,6482.654,synthetic,0.23539,synthetic
+Middle East and Africa,region,Demo Ingredient 15,non-traditional,other,2024,3799.373,synthetic,0.13796,synthetic
+Middle East and Africa,region,Demo Ingredient 16,non-traditional,other,2024,19751.839,synthetic,0.71719,synthetic
+Middle East and Africa,region,Demo Ingredient 17,non-traditional,other,2024,4391.824,synthetic,0.15947,synthetic
+Middle East and Africa,region,Demo Ingredient 18,non-traditional,fruit_based,2024,453267.636,synthetic,16.45819,synthetic
+Middle East and Africa,region,Demo Ingredient 19,non-traditional,fruit_based,2024,50207.27,synthetic,1.82303,synthetic
+Middle East and Africa,region,Demo Ingredient 20,non-traditional,fruit_based,2024,242415.044,synthetic,8.80211,synthetic
+Middle East and Africa,region,Demo Ingredient 01,traditional,traditional,2025,19921.012,synthetic,0.69887,synthetic
+Middle East and Africa,region,Demo Ingredient 02,traditional,traditional,2025,71036.002,synthetic,2.4921,synthetic
+Middle East and Africa,region,Demo Ingredient 03,traditional,traditional,2025,52652.162,synthetic,1.84715,synthetic
+Middle East and Africa,region,Demo Ingredient 04,traditional,traditional,2025,31595.22,synthetic,1.10843,synthetic
+Middle East and Africa,region,Demo Ingredient 05,traditional,traditional,2025,14825.413,synthetic,0.52011,synthetic
+Middle East and Africa,region,Demo Ingredient 06,non-traditional,natural_alternative,2025,30584.73,synthetic,1.07298,synthetic
+Middle East and Africa,region,Demo Ingredient 07,non-traditional,natural_alternative,2025,17716.602,synthetic,0.62154,synthetic
+Middle East and Africa,region,Demo Ingredient 08,non-traditional,natural_alternative,2025,17620.543,synthetic,0.61817,synthetic
+Middle East and Africa,region,Demo Ingredient 09,non-traditional,natural_alternative,2025,40969.893,synthetic,1.43731,synthetic
+Middle East and Africa,region,Demo Ingredient 10,non-traditional,artificial_alternative,2025,4716.919,synthetic,0.16548,synthetic
+Middle East and Africa,region,Demo Ingredient 11,non-traditional,artificial_alternative,2025,13959.675,synthetic,0.48974,synthetic
+Middle East and Africa,region,Demo Ingredient 12,non-traditional,artificial_alternative,2025,11040.423,synthetic,0.38732,synthetic
+Middle East and Africa,region,Demo Ingredient 13,non-traditional,artificial_alternative,2025,53421.024,synthetic,1.87413,synthetic
+Middle East and Africa,region,Demo Ingredient 14,non-traditional,other,2025,4981.906,synthetic,0.17478,synthetic
+Middle East and Africa,region,Demo Ingredient 15,non-traditional,other,2025,11623.133,synthetic,0.40777,synthetic
+Middle East and Africa,region,Demo Ingredient 16,non-traditional,other,2025,4946.149,synthetic,0.17352,synthetic
+Middle East and Africa,region,Demo Ingredient 17,non-traditional,other,2025,14079.4,synthetic,0.49394,synthetic
+Middle East and Africa,region,Demo Ingredient 18,non-traditional,fruit_based,2025,295800.66,synthetic,10.37734,synthetic
+Middle East and Africa,region,Demo Ingredient 19,non-traditional,fruit_based,2025,328800.695,synthetic,11.53506,synthetic
+Middle East and Africa,region,Demo Ingredient 20,non-traditional,fruit_based,2025,147394.744,synthetic,5.17093,synthetic
+World,world,Demo Ingredient 01,traditional,traditional,2020,1183519.1940000001,synthetic,2.162864024122807,synthetic
+World,world,Demo Ingredient 01,traditional,traditional,2021,405014.92199999996,synthetic,0.7151293225517267,synthetic
+World,world,Demo Ingredient 01,traditional,traditional,2022,556895.951,synthetic,0.9500517713276849,synthetic
+World,world,Demo Ingredient 01,traditional,traditional,2023,508270.94299999997,synthetic,0.8377764430087667,synthetic
+World,world,Demo Ingredient 01,traditional,traditional,2024,647124.599,synthetic,1.0305769411936334,synthetic
+World,world,Demo Ingredient 01,traditional,traditional,2025,656762.487,synthetic,1.0105562700037212,synthetic
+World,world,Demo Ingredient 02,traditional,traditional,2020,370095.08,synthetic,0.6763433479532164,synthetic
+World,world,Demo Ingredient 02,traditional,traditional,2021,481471.403,synthetic,0.850127488032205,synthetic
+World,world,Demo Ingredient 02,traditional,traditional,2022,746692.823,synthetic,1.2738408994624195,synthetic
+World,world,Demo Ingredient 02,traditional,traditional,2023,664257.553,synthetic,1.0948871613816558,synthetic
+World,world,Demo Ingredient 02,traditional,traditional,2024,591856.975,synthetic,0.9425606009448216,synthetic
+World,world,Demo Ingredient 02,traditional,traditional,2025,1359872.143,synthetic,2.0924266347630884,synthetic
+World,world,Demo Ingredient 03,traditional,traditional,2020,520393.67600000004,synthetic,0.9510118347953216,synthetic
+World,world,Demo Ingredient 03,traditional,traditional,2021,1430893.437,synthetic,2.5265090214269237,synthetic
+World,world,Demo Ingredient 03,traditional,traditional,2022,580721.125,synthetic,0.9906969739373378,synthetic
+World,world,Demo Ingredient 03,traditional,traditional,2023,889752.207,synthetic,1.4665670926218186,synthetic
+World,world,Demo Ingredient 03,traditional,traditional,2024,2106518.877,synthetic,3.35473227903875,synthetic
+World,world,Demo Ingredient 03,traditional,traditional,2025,964105.548,synthetic,1.4834630871308783,synthetic
+World,world,Demo Ingredient 04,traditional,traditional,2020,735130.891,synthetic,1.3434409557748537,synthetic
+World,world,Demo Ingredient 04,traditional,traditional,2021,466558.38800000004,synthetic,0.8237957808904277,synthetic
+World,world,Demo Ingredient 04,traditional,traditional,2022,1064535.6719999998,synthetic,1.8160735394269496,synthetic
+World,world,Demo Ingredient 04,traditional,traditional,2023,563770.857,synthetic,0.9292562357818359,synthetic
+World,world,Demo Ingredient 04,traditional,traditional,2024,354003.781,synthetic,0.5637679889741927,synthetic
+World,world,Demo Ingredient 04,traditional,traditional,2025,569709.485,synthetic,0.8766083683877348,synthetic
+World,world,Demo Ingredient 05,traditional,traditional,2020,838861.1599999999,synthetic,1.5330065058479532,synthetic
+World,world,Demo Ingredient 05,traditional,traditional,2021,991741.851,synthetic,1.7511050569436193,synthetic
+World,world,Demo Ingredient 05,traditional,traditional,2022,958983.2259999999,synthetic,1.6360034776672985,synthetic
+World,world,Demo Ingredient 05,traditional,traditional,2023,1418551.247,synthetic,2.338179733279206,synthetic
+World,world,Demo Ingredient 05,traditional,traditional,2024,486659.675,synthetic,0.7750288584900289,synthetic
+World,world,Demo Ingredient 05,traditional,traditional,2025,782229.9829999999,synthetic,1.2036123097048232,synthetic
+World,world,Demo Ingredient 06,non-traditional,natural_alternative,2020,519077.771,synthetic,0.9486070376461989,synthetic
+World,world,Demo Ingredient 06,non-traditional,natural_alternative,2021,544282.403,synthetic,0.9610320138629755,synthetic
+World,world,Demo Ingredient 06,non-traditional,natural_alternative,2022,408800.295,synthetic,0.6974039651152538,synthetic
+World,world,Demo Ingredient 06,non-traditional,natural_alternative,2023,630947.077,synthetic,1.0399819332104503,synthetic
+World,world,Demo Ingredient 06,non-traditional,natural_alternative,2024,818457.299,synthetic,1.3034324780798867,synthetic
+World,world,Demo Ingredient 06,non-traditional,natural_alternative,2025,412299.494,synthetic,0.6344026143823612,synthetic
+World,world,Demo Ingredient 07,non-traditional,natural_alternative,2020,246926.093,synthetic,0.4512538249269006,synthetic
+World,world,Demo Ingredient 07,non-traditional,natural_alternative,2021,336886.289,synthetic,0.5948355246761383,synthetic
+World,world,Demo Ingredient 07,non-traditional,natural_alternative,2022,533983.285,synthetic,0.9109632865217691,synthetic
+World,world,Demo Ingredient 07,non-traditional,natural_alternative,2023,312268.23,synthetic,0.5147076979256779,synthetic
+World,world,Demo Ingredient 07,non-traditional,natural_alternative,2024,346184.416,synthetic,0.5513152754222287,synthetic
+World,world,Demo Ingredient 07,non-traditional,natural_alternative,2025,757245.243,synthetic,1.1651684488553034,synthetic
+World,world,Demo Ingredient 08,non-traditional,natural_alternative,2020,647872.229,synthetic,1.1839770266812866,synthetic
+World,world,Demo Ingredient 08,non-traditional,natural_alternative,2021,680839.326,synthetic,1.2021487098911239,synthetic
+World,world,Demo Ingredient 08,non-traditional,natural_alternative,2022,811368.0519999999,synthetic,1.3841753627713,synthetic
+World,world,Demo Ingredient 08,non-traditional,natural_alternative,2023,854362.133,synthetic,1.4082340898762,synthetic
+World,world,Demo Ingredient 08,non-traditional,natural_alternative,2024,464421.357,synthetic,0.7396132711716873,synthetic
+World,world,Demo Ingredient 08,non-traditional,natural_alternative,2025,572037.861,synthetic,0.8801910257597693,synthetic
+World,world,Demo Ingredient 09,non-traditional,natural_alternative,2020,638123.9060000001,synthetic,1.1661621089181289,synthetic
+World,world,Demo Ingredient 09,non-traditional,natural_alternative,2021,561811.98,synthetic,0.9919837488329485,synthetic
+World,world,Demo Ingredient 09,non-traditional,natural_alternative,2022,444002.067,synthetic,0.7574573840392376,synthetic
+World,world,Demo Ingredient 09,non-traditional,natural_alternative,2023,477511.63800000004,synthetic,0.7870762771086245,synthetic
+World,world,Demo Ingredient 09,non-traditional,natural_alternative,2024,725654.123,synthetic,1.1556389721570275,synthetic
+World,world,Demo Ingredient 09,non-traditional,natural_alternative,2025,695549.702,synthetic,1.0702379115257228,synthetic
+World,world,Demo Ingredient 10,non-traditional,artificial_alternative,2020,349396.65199999994,synthetic,0.6385172733918127,synthetic
+World,world,Demo Ingredient 10,non-traditional,artificial_alternative,2021,493862.93399999995,synthetic,0.8720070452733297,synthetic
+World,world,Demo Ingredient 10,non-traditional,artificial_alternative,2022,306387.31,synthetic,0.5226897521074354,synthetic
+World,world,Demo Ingredient 10,non-traditional,artificial_alternative,2023,520569.71800000005,synthetic,0.8580483552924978,synthetic
+World,world,Demo Ingredient 10,non-traditional,artificial_alternative,2024,533422.818,synthetic,0.849501405118627,synthetic
+World,world,Demo Ingredient 10,non-traditional,artificial_alternative,2025,406801.763,synthetic,0.6259432905890341,synthetic
+World,world,Demo Ingredient 11,non-traditional,artificial_alternative,2020,311769.577,synthetic,0.5697543439327485,synthetic
+World,world,Demo Ingredient 11,non-traditional,artificial_alternative,2021,391286.086,synthetic,0.6908885041156501,synthetic
+World,world,Demo Ingredient 11,non-traditional,artificial_alternative,2022,370073.266,synthetic,0.6313365382761088,synthetic
+World,world,Demo Ingredient 11,non-traditional,artificial_alternative,2023,649182.9469999999,synthetic,1.0700398826450497,synthetic
+World,world,Demo Ingredient 11,non-traditional,artificial_alternative,2024,516645.23600000003,synthetic,0.8227823016184598,synthetic
+World,world,Demo Ingredient 11,non-traditional,artificial_alternative,2025,322651.94,synthetic,0.4964624920726698,synthetic
+World,world,Demo Ingredient 12,non-traditional,artificial_alternative,2020,475994.859,synthetic,0.8698736458333334,synthetic
+World,world,Demo Ingredient 12,non-traditional,artificial_alternative,2021,441248.836,synthetic,0.7791070501975677,synthetic
+World,world,Demo Ingredient 12,non-traditional,artificial_alternative,2022,656424.391,synthetic,1.119845016456668,synthetic
+World,world,Demo Ingredient 12,non-traditional,artificial_alternative,2023,200009.737,synthetic,0.3296734710860285,synthetic
+World,world,Demo Ingredient 12,non-traditional,artificial_alternative,2024,517093.531,synthetic,0.8234962328931574,synthetic
+World,world,Demo Ingredient 12,non-traditional,artificial_alternative,2025,434823.325,synthetic,0.6690598901739888,synthetic
+World,world,Demo Ingredient 13,non-traditional,artificial_alternative,2020,458838.91000000003,synthetic,0.8385213998538011,synthetic
+World,world,Demo Ingredient 13,non-traditional,artificial_alternative,2021,325462.141,synthetic,0.5746640624010504,synthetic
+World,world,Demo Ingredient 13,non-traditional,artificial_alternative,2022,376790.135,synthetic,0.6427953633578268,synthetic
+World,world,Demo Ingredient 13,non-traditional,artificial_alternative,2023,399751.326,synthetic,0.6589049572804676,synthetic
+World,world,Demo Ingredient 13,non-traditional,artificial_alternative,2024,264285.122,synthetic,0.42088672421761264,synthetic
+World,world,Demo Ingredient 13,non-traditional,artificial_alternative,2025,731270.316,synthetic,1.1252009935540097,synthetic
+World,world,Demo Ingredient 14,non-traditional,other,2020,124068.59499999999,synthetic,0.22673354349415203,synthetic
+World,world,Demo Ingredient 14,non-traditional,other,2021,220570.084,synthetic,0.38945758829620963,synthetic
+World,world,Demo Ingredient 14,non-traditional,other,2022,111078.342,synthetic,0.18949711410856063,synthetic
+World,world,Demo Ingredient 14,non-traditional,other,2023,126957.529,synthetic,0.20926245838688906,synthetic
+World,world,Demo Ingredient 14,non-traditional,other,2024,216796.403,synthetic,0.34525866303147934,synthetic
+World,world,Demo Ingredient 14,non-traditional,other,2025,167879.34100000001,synthetic,0.25831487639707834,synthetic
+World,world,Demo Ingredient 15,non-traditional,other,2020,181007.187,synthetic,0.33078798793859654,synthetic
+World,world,Demo Ingredient 15,non-traditional,other,2021,157423.918,synthetic,0.2779612644315821,synthetic
+World,world,Demo Ingredient 15,non-traditional,other,2022,161031.61299999998,synthetic,0.27471625336059274,synthetic
+World,world,Demo Ingredient 15,non-traditional,other,2023,158348.55899999998,synthetic,0.2610038884606941,synthetic
+World,world,Demo Ingredient 15,non-traditional,other,2024,108435.638,synthetic,0.1726889509363561,synthetic
+World,world,Demo Ingredient 15,non-traditional,other,2025,286143.89400000003,synthetic,0.44028779342413954,synthetic
+World,world,Demo Ingredient 16,non-traditional,other,2020,210774.374,synthetic,0.3851870869883041,synthetic
+World,world,Demo Ingredient 16,non-traditional,other,2021,141338.97,synthetic,0.24956029117924405,synthetic
+World,world,Demo Ingredient 16,non-traditional,other,2022,346507.808,synthetic,0.5911344052298082,synthetic
+World,world,Demo Ingredient 16,non-traditional,other,2023,179335.859,synthetic,0.29559698449443284,synthetic
+World,world,Demo Ingredient 16,non-traditional,other,2024,244210.575,synthetic,0.388917045928335,synthetic
+World,world,Demo Ingredient 16,non-traditional,other,2025,149475.734,synthetic,0.22999736312148472,synthetic
+World,world,Demo Ingredient 17,non-traditional,other,2020,168149.846,synthetic,0.3072913852339181,synthetic
+World,world,Demo Ingredient 17,non-traditional,other,2021,188607.028,synthetic,0.33302085635781725,synthetic
+World,world,Demo Ingredient 17,non-traditional,other,2022,114100.137,synthetic,0.19465222735221777,synthetic
+World,world,Demo Ingredient 17,non-traditional,other,2023,293721.07899999997,synthetic,0.4841366680316348,synthetic
+World,world,Demo Ingredient 17,non-traditional,other,2024,215463.117,synthetic,0.3431353411708367,synthetic
+World,world,Demo Ingredient 17,non-traditional,other,2025,208878.46399999998,synthetic,0.32139996671878507,synthetic
+World,world,Demo Ingredient 18,non-traditional,fruit_based,2020,4459713.29,synthetic,8.150060836988304,synthetic
+World,world,Demo Ingredient 18,non-traditional,fruit_based,2021,4157125.852,synthetic,7.340180405261784,synthetic
+World,world,Demo Ingredient 18,non-traditional,fruit_based,2022,4348720.221,synthetic,7.418817359958811,synthetic
+World,world,Demo Ingredient 18,non-traditional,fruit_based,2023,5727086.15,synthetic,9.439882270727747,synthetic
+World,world,Demo Ingredient 18,non-traditional,fruit_based,2024,9144937.737,synthetic,14.56375167157521,synthetic
+World,world,Demo Ingredient 18,non-traditional,fruit_based,2025,6608383.013,synthetic,10.168276995962518,synthetic
+World,world,Demo Ingredient 19,non-traditional,fruit_based,2020,5814642.973,synthetic,10.62617502375731,synthetic
+World,world,Demo Ingredient 19,non-traditional,fruit_based,2021,6836828.844,synthetic,12.071695421661092,synthetic
+World,world,Demo Ingredient 19,non-traditional,fruit_based,2022,7529886.9290000005,synthetic,12.845815096963475,synthetic
+World,world,Demo Ingredient 19,non-traditional,fruit_based,2023,5676337.538,synthetic,9.35623398779021,synthetic
+World,world,Demo Ingredient 19,non-traditional,fruit_based,2024,4714227.833,synthetic,7.5076337813933565,synthetic
+World,world,Demo Ingredient 19,non-traditional,fruit_based,2025,6887463.965,synthetic,10.597697085362672,synthetic
+World,world,Demo Ingredient 20,non-traditional,fruit_based,2020,4545643.737,synthetic,8.307097472587719,synthetic
+World,world,Demo Ingredient 20,non-traditional,fruit_based,2021,4344745.302999999,synthetic,7.6714575103832505,synthetic
+World,world,Demo Ingredient 20,non-traditional,fruit_based,2022,3996947.3510000003,synthetic,6.818700879225909,synthetic
+World,world,Demo Ingredient 20,non-traditional,fruit_based,2023,5027775.2190000005,synthetic,8.28721707827678,synthetic
+World,world,Demo Ingredient 20,non-traditional,fruit_based,2024,3147125.299,synthetic,5.011947883310983,synthetic
+World,world,Demo Ingredient 20,non-traditional,fruit_based,2025,4105664.073,synthetic,6.317359248776895,synthetic

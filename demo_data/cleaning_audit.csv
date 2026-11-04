@@ -1,0 +1,14 @@
+table,step,rows_before,rows_after,rows_removed,detail
+fact_market_size,generated seven regional market series,0,315,0,Generated synthetic demo data; no proprietary observations used.
+fact_market_size,generated illustrative country market series,0,1575,0,Generated synthetic demo data; no proprietary observations used.
+fact_market_size,assembled synthetic market table,0,1890,0,Generated synthetic demo data; no proprietary observations used.
+fact_company_share,generated anonymized company shares,0,1960,0,Generated synthetic demo data; no proprietary observations used.
+fact_company_share,added synthetic total rows,1960,2100,0,Generated synthetic demo data; no proprietary observations used.
+fact_company_share,assembled synthetic company table,0,2100,0,Generated synthetic demo data; no proprietary observations used.
+dim_ingredient,generated ingredient dimension,0,20,0,Generated synthetic demo data; no proprietary observations used.
+fact_ingredient,generated regional ingredient series,0,840,0,Generated synthetic demo data; no proprietary observations used.
+fact_ingredient,derived world rows from synthetic regions,0,120,0,Generated synthetic demo data; no proprietary observations used.
+fact_ingredient,assembled synthetic ingredient table,0,960,0,Generated synthetic demo data; no proprietary observations used.
+dim_geography,generated geography dimension,0,43,0,Generated synthetic demo data; no proprietary observations used.
+country_display_regions,generated illustrative map assignments,0,35,0,Generated synthetic demo data; no proprietary observations used.
+validation_checks,recorded synthetic data contract checks,0,20,0,Generated synthetic demo data; no proprietary observations used.

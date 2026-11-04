@@ -1,0 +1,1891 @@
+geography,geo_level,category,year,volume_million_litres,is_modelled,value_status
+North America,region,Carbonates,2011,40000.0,False,synthetic
+North America,region,Reduced Sugar Carbonates,2011,11200.0,False,synthetic
+North America,region,Regular Carbonates,2011,28800.0,False,synthetic
+United States,country,Carbonates,2011,25200.0,False,synthetic
+United States,country,Reduced Sugar Carbonates,2011,7056.0,False,synthetic
+United States,country,Regular Carbonates,2011,18144.0,False,synthetic
+Canada,country,Carbonates,2011,6400.0,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2011,1792.0,False,synthetic
+Canada,country,Regular Carbonates,2011,4608.0,False,synthetic
+Mexico,country,Carbonates,2011,5600.0,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2011,1568.0,False,synthetic
+Mexico,country,Regular Carbonates,2011,4032.0,False,synthetic
+Guatemala,country,Carbonates,2011,1600.0,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2011,448.0,False,synthetic
+Guatemala,country,Regular Carbonates,2011,1152.0,False,synthetic
+Costa Rica,country,Carbonates,2011,1200.0,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2011,336.0,False,synthetic
+Costa Rica,country,Regular Carbonates,2011,864.0,False,synthetic
+North America,region,Carbonates,2012,39699.694,False,synthetic
+North America,region,Reduced Sugar Carbonates,2012,11237.345,False,synthetic
+North America,region,Regular Carbonates,2012,28462.349,False,synthetic
+United States,country,Carbonates,2012,25010.807,False,synthetic
+United States,country,Reduced Sugar Carbonates,2012,7079.528,False,synthetic
+United States,country,Regular Carbonates,2012,17931.28,False,synthetic
+Canada,country,Carbonates,2012,6351.951,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2012,1797.975,False,synthetic
+Canada,country,Regular Carbonates,2012,4553.976,False,synthetic
+Mexico,country,Carbonates,2012,5557.957,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2012,1573.228,False,synthetic
+Mexico,country,Regular Carbonates,2012,3984.729,False,synthetic
+Guatemala,country,Carbonates,2012,1587.988,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2012,449.494,False,synthetic
+Guatemala,country,Regular Carbonates,2012,1138.494,False,synthetic
+Costa Rica,country,Carbonates,2012,1190.991,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2012,337.12,False,synthetic
+Costa Rica,country,Regular Carbonates,2012,853.87,False,synthetic
+North America,region,Carbonates,2013,39440.946,False,synthetic
+North America,region,Reduced Sugar Carbonates,2013,11286.062,False,synthetic
+North America,region,Regular Carbonates,2013,28154.884,False,synthetic
+United States,country,Carbonates,2013,24847.796,False,synthetic
+United States,country,Reduced Sugar Carbonates,2013,7110.219,False,synthetic
+United States,country,Regular Carbonates,2013,17737.577,False,synthetic
+Canada,country,Carbonates,2013,6310.551,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2013,1805.77,False,synthetic
+Canada,country,Regular Carbonates,2013,4504.781,False,synthetic
+Mexico,country,Carbonates,2013,5521.732,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2013,1580.049,False,synthetic
+Mexico,country,Regular Carbonates,2013,3941.684,False,synthetic
+Guatemala,country,Carbonates,2013,1577.638,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2013,451.442,False,synthetic
+Guatemala,country,Regular Carbonates,2013,1126.195,False,synthetic
+Costa Rica,country,Carbonates,2013,1183.228,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2013,338.582,False,synthetic
+Costa Rica,country,Regular Carbonates,2013,844.647,False,synthetic
+North America,region,Carbonates,2014,39158.026,False,synthetic
+North America,region,Reduced Sugar Carbonates,2014,11327.51,False,synthetic
+North America,region,Regular Carbonates,2014,27830.516,False,synthetic
+United States,country,Carbonates,2014,24669.556,False,synthetic
+United States,country,Reduced Sugar Carbonates,2014,7136.331,False,synthetic
+United States,country,Regular Carbonates,2014,17533.225,False,synthetic
+Canada,country,Carbonates,2014,6265.284,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2014,1812.402,False,synthetic
+Canada,country,Regular Carbonates,2014,4452.883,False,synthetic
+Mexico,country,Carbonates,2014,5482.124,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2014,1585.851,False,synthetic
+Mexico,country,Regular Carbonates,2014,3896.272,False,synthetic
+Guatemala,country,Carbonates,2014,1566.321,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2014,453.1,False,synthetic
+Guatemala,country,Regular Carbonates,2014,1113.221,False,synthetic
+Costa Rica,country,Carbonates,2014,1174.741,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2014,339.825,False,synthetic
+Costa Rica,country,Regular Carbonates,2014,834.915,False,synthetic
+North America,region,Carbonates,2015,38795.744,False,synthetic
+North America,region,Reduced Sugar Carbonates,2015,11345.308,False,synthetic
+North America,region,Regular Carbonates,2015,27450.436,False,synthetic
+United States,country,Carbonates,2015,24441.318,False,synthetic
+United States,country,Reduced Sugar Carbonates,2015,7147.544,False,synthetic
+United States,country,Regular Carbonates,2015,17293.775,False,synthetic
+Canada,country,Carbonates,2015,6207.319,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2015,1815.249,False,synthetic
+Canada,country,Regular Carbonates,2015,4392.07,False,synthetic
+Mexico,country,Carbonates,2015,5431.404,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2015,1588.343,False,synthetic
+Mexico,country,Regular Carbonates,2015,3843.061,False,synthetic
+Guatemala,country,Carbonates,2015,1551.83,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2015,453.812,False,synthetic
+Guatemala,country,Regular Carbonates,2015,1098.017,False,synthetic
+Costa Rica,country,Carbonates,2015,1163.872,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2015,340.359,False,synthetic
+Costa Rica,country,Regular Carbonates,2015,823.513,False,synthetic
+North America,region,Carbonates,2016,38333.99,False,synthetic
+North America,region,Reduced Sugar Carbonates,2016,11332.736,False,synthetic
+North America,region,Regular Carbonates,2016,27001.254,False,synthetic
+United States,country,Carbonates,2016,24150.414,False,synthetic
+United States,country,Reduced Sugar Carbonates,2016,7139.623,False,synthetic
+United States,country,Regular Carbonates,2016,17010.79,False,synthetic
+Canada,country,Carbonates,2016,6133.438,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2016,1813.238,False,synthetic
+Canada,country,Regular Carbonates,2016,4320.201,False,synthetic
+Mexico,country,Carbonates,2016,5366.759,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2016,1586.583,False,synthetic
+Mexico,country,Regular Carbonates,2016,3780.176,False,synthetic
+Guatemala,country,Carbonates,2016,1533.36,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2016,453.309,False,synthetic
+Guatemala,country,Regular Carbonates,2016,1080.05,False,synthetic
+Costa Rica,country,Carbonates,2016,1150.02,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2016,339.982,False,synthetic
+Costa Rica,country,Regular Carbonates,2016,810.038,False,synthetic
+North America,region,Carbonates,2017,37796.716,False,synthetic
+North America,region,Reduced Sugar Carbonates,2017,11295.965,False,synthetic
+North America,region,Regular Carbonates,2017,26500.751,False,synthetic
+United States,country,Carbonates,2017,23811.931,False,synthetic
+United States,country,Reduced Sugar Carbonates,2017,7116.458,False,synthetic
+United States,country,Regular Carbonates,2017,16695.473,False,synthetic
+Canada,country,Carbonates,2017,6047.475,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2017,1807.354,False,synthetic
+Canada,country,Regular Carbonates,2017,4240.12,False,synthetic
+Mexico,country,Carbonates,2017,5291.54,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2017,1581.435,False,synthetic
+Mexico,country,Regular Carbonates,2017,3710.105,False,synthetic
+Guatemala,country,Carbonates,2017,1511.869,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2017,451.839,False,synthetic
+Guatemala,country,Regular Carbonates,2017,1060.03,False,synthetic
+Costa Rica,country,Carbonates,2017,1133.901,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2017,338.879,False,synthetic
+Costa Rica,country,Regular Carbonates,2017,795.023,False,synthetic
+North America,region,Carbonates,2018,37241.725,False,synthetic
+North America,region,Reduced Sugar Carbonates,2018,11251.686,False,synthetic
+North America,region,Regular Carbonates,2018,25990.039,False,synthetic
+United States,country,Carbonates,2018,23462.287,False,synthetic
+United States,country,Reduced Sugar Carbonates,2018,7088.562,False,synthetic
+United States,country,Regular Carbonates,2018,16373.725,False,synthetic
+Canada,country,Carbonates,2018,5958.676,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2018,1800.27,False,synthetic
+Canada,country,Regular Carbonates,2018,4158.406,False,synthetic
+Mexico,country,Carbonates,2018,5213.842,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2018,1575.236,False,synthetic
+Mexico,country,Regular Carbonates,2018,3638.606,False,synthetic
+Guatemala,country,Carbonates,2018,1489.669,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2018,450.067,False,synthetic
+Guatemala,country,Regular Carbonates,2018,1039.602,False,synthetic
+Costa Rica,country,Carbonates,2018,1117.252,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2018,337.551,False,synthetic
+Costa Rica,country,Regular Carbonates,2018,779.701,False,synthetic
+North America,region,Carbonates,2019,36735.992,False,synthetic
+North America,region,Reduced Sugar Carbonates,2019,11220.136,False,synthetic
+North America,region,Regular Carbonates,2019,25515.856,False,synthetic
+United States,country,Carbonates,2019,23143.675,False,synthetic
+United States,country,Reduced Sugar Carbonates,2019,7068.686,False,synthetic
+United States,country,Regular Carbonates,2019,16074.989,False,synthetic
+Canada,country,Carbonates,2019,5877.759,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2019,1795.222,False,synthetic
+Canada,country,Regular Carbonates,2019,4082.537,False,synthetic
+Mexico,country,Carbonates,2019,5143.039,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2019,1570.819,False,synthetic
+Mexico,country,Regular Carbonates,2019,3572.22,False,synthetic
+Guatemala,country,Carbonates,2019,1469.44,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2019,448.805,False,synthetic
+Guatemala,country,Regular Carbonates,2019,1020.634,False,synthetic
+Costa Rica,country,Carbonates,2019,1102.08,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2019,336.604,False,synthetic
+Costa Rica,country,Regular Carbonates,2019,765.476,False,synthetic
+North America,region,Carbonates,2020,36327.412,False,synthetic
+North America,region,Reduced Sugar Carbonates,2020,11216.552,False,synthetic
+North America,region,Regular Carbonates,2020,25110.861,False,synthetic
+United States,country,Carbonates,2020,22886.27,False,synthetic
+United States,country,Reduced Sugar Carbonates,2020,7066.428,False,synthetic
+United States,country,Regular Carbonates,2020,15819.842,False,synthetic
+Canada,country,Carbonates,2020,5812.386,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2020,1794.648,False,synthetic
+Canada,country,Regular Carbonates,2020,4017.738,False,synthetic
+Mexico,country,Carbonates,2020,5085.838,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2020,1570.317,False,synthetic
+Mexico,country,Regular Carbonates,2020,3515.521,False,synthetic
+Guatemala,country,Carbonates,2020,1453.096,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2020,448.662,False,synthetic
+Guatemala,country,Regular Carbonates,2020,1004.434,False,synthetic
+Costa Rica,country,Carbonates,2020,1089.822,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2020,336.497,False,synthetic
+Costa Rica,country,Regular Carbonates,2020,753.326,False,synthetic
+North America,region,Carbonates,2021,36025.22,False,synthetic
+North America,region,Reduced Sugar Carbonates,2021,11244.757,False,synthetic
+North America,region,Regular Carbonates,2021,24780.463,False,synthetic
+United States,country,Carbonates,2021,22695.889,False,synthetic
+United States,country,Reduced Sugar Carbonates,2021,7084.197,False,synthetic
+United States,country,Regular Carbonates,2021,15611.692,False,synthetic
+Canada,country,Carbonates,2021,5764.035,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2021,1799.161,False,synthetic
+Canada,country,Regular Carbonates,2021,3964.874,False,synthetic
+Mexico,country,Carbonates,2021,5043.531,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2021,1574.266,False,synthetic
+Mexico,country,Regular Carbonates,2021,3469.265,False,synthetic
+Guatemala,country,Carbonates,2021,1441.009,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2021,449.79,False,synthetic
+Guatemala,country,Regular Carbonates,2021,991.219,False,synthetic
+Costa Rica,country,Carbonates,2021,1080.757,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2021,337.343,False,synthetic
+Costa Rica,country,Regular Carbonates,2021,743.414,False,synthetic
+North America,region,Carbonates,2022,35797.329,False,synthetic
+North America,region,Reduced Sugar Carbonates,2022,11295.686,False,synthetic
+North America,region,Regular Carbonates,2022,24501.643,False,synthetic
+United States,country,Carbonates,2022,22552.317,False,synthetic
+United States,country,Reduced Sugar Carbonates,2022,7116.282,False,synthetic
+United States,country,Regular Carbonates,2022,15436.035,False,synthetic
+Canada,country,Carbonates,2022,5727.573,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2022,1807.31,False,synthetic
+Canada,country,Regular Carbonates,2022,3920.263,False,synthetic
+Mexico,country,Carbonates,2022,5011.626,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2022,1581.396,False,synthetic
+Mexico,country,Regular Carbonates,2022,3430.23,False,synthetic
+Guatemala,country,Carbonates,2022,1431.893,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2022,451.827,False,synthetic
+Guatemala,country,Regular Carbonates,2022,980.066,False,synthetic
+Costa Rica,country,Carbonates,2022,1073.92,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2022,338.871,False,synthetic
+Costa Rica,country,Regular Carbonates,2022,735.049,False,synthetic
+North America,region,Carbonates,2023,35585.409,False,synthetic
+North America,region,Reduced Sugar Carbonates,2023,11351.48,False,synthetic
+North America,region,Regular Carbonates,2023,24233.929,False,synthetic
+United States,country,Carbonates,2023,22418.807,False,synthetic
+United States,country,Reduced Sugar Carbonates,2023,7151.432,False,synthetic
+United States,country,Regular Carbonates,2023,15267.375,False,synthetic
+Canada,country,Carbonates,2023,5693.665,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2023,1816.237,False,synthetic
+Canada,country,Regular Carbonates,2023,3877.429,False,synthetic
+Mexico,country,Carbonates,2023,4981.957,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2023,1589.207,False,synthetic
+Mexico,country,Regular Carbonates,2023,3392.75,False,synthetic
+Guatemala,country,Carbonates,2023,1423.416,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2023,454.059,False,synthetic
+Guatemala,country,Regular Carbonates,2023,969.357,False,synthetic
+Costa Rica,country,Carbonates,2023,1067.562,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2023,340.544,False,synthetic
+Costa Rica,country,Regular Carbonates,2023,727.018,False,synthetic
+North America,region,Carbonates,2024,35330.823,False,synthetic
+North America,region,Reduced Sugar Carbonates,2024,11393.386,False,synthetic
+North America,region,Regular Carbonates,2024,23937.437,False,synthetic
+United States,country,Carbonates,2024,22258.418,False,synthetic
+United States,country,Reduced Sugar Carbonates,2024,7177.833,False,synthetic
+United States,country,Regular Carbonates,2024,15080.585,False,synthetic
+Canada,country,Carbonates,2024,5652.932,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2024,1822.942,False,synthetic
+Canada,country,Regular Carbonates,2024,3829.99,False,synthetic
+Mexico,country,Carbonates,2024,4946.315,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2024,1595.074,False,synthetic
+Mexico,country,Regular Carbonates,2024,3351.241,False,synthetic
+Guatemala,country,Carbonates,2024,1413.233,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2024,455.735,False,synthetic
+Guatemala,country,Regular Carbonates,2024,957.497,False,synthetic
+Costa Rica,country,Carbonates,2024,1059.925,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2024,341.802,False,synthetic
+Costa Rica,country,Regular Carbonates,2024,718.123,False,synthetic
+North America,region,Carbonates,2025,35000.0,False,synthetic
+North America,region,Reduced Sugar Carbonates,2025,11410.0,False,synthetic
+North America,region,Regular Carbonates,2025,23590.0,False,synthetic
+United States,country,Carbonates,2025,22050.0,False,synthetic
+United States,country,Reduced Sugar Carbonates,2025,7188.3,False,synthetic
+United States,country,Regular Carbonates,2025,14861.7,False,synthetic
+Canada,country,Carbonates,2025,5600.0,False,synthetic
+Canada,country,Reduced Sugar Carbonates,2025,1825.6,False,synthetic
+Canada,country,Regular Carbonates,2025,3774.4,False,synthetic
+Mexico,country,Carbonates,2025,4900.0,False,synthetic
+Mexico,country,Reduced Sugar Carbonates,2025,1597.4,False,synthetic
+Mexico,country,Regular Carbonates,2025,3302.6,False,synthetic
+Guatemala,country,Carbonates,2025,1400.0,False,synthetic
+Guatemala,country,Reduced Sugar Carbonates,2025,456.4,False,synthetic
+Guatemala,country,Regular Carbonates,2025,943.6,False,synthetic
+Costa Rica,country,Carbonates,2025,1050.0,False,synthetic
+Costa Rica,country,Reduced Sugar Carbonates,2025,342.3,False,synthetic
+Costa Rica,country,Regular Carbonates,2025,707.7,False,synthetic
+Latin America,region,Carbonates,2011,38000.0,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2011,3500.0,False,synthetic
+Latin America,region,Regular Carbonates,2011,34500.0,False,synthetic
+Brazil,country,Carbonates,2011,17100.0,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2011,1575.0,False,synthetic
+Brazil,country,Regular Carbonates,2011,15525.0,False,synthetic
+Argentina,country,Carbonates,2011,7220.0,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2011,665.0,False,synthetic
+Argentina,country,Regular Carbonates,2011,6555.0,False,synthetic
+Chile,country,Carbonates,2011,4940.0,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2011,455.0,False,synthetic
+Chile,country,Regular Carbonates,2011,4485.0,False,synthetic
+Colombia,country,Carbonates,2011,4940.0,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2011,455.0,False,synthetic
+Colombia,country,Regular Carbonates,2011,4485.0,False,synthetic
+Peru,country,Carbonates,2011,3800.0,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2011,350.0,False,synthetic
+Peru,country,Regular Carbonates,2011,3450.0,False,synthetic
+Latin America,region,Carbonates,2012,37929.387,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2012,3599.557,False,synthetic
+Latin America,region,Regular Carbonates,2012,34329.83,False,synthetic
+Brazil,country,Carbonates,2012,17068.224,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2012,1619.801,False,synthetic
+Brazil,country,Regular Carbonates,2012,15448.423,False,synthetic
+Argentina,country,Carbonates,2012,7206.584,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2012,683.916,False,synthetic
+Argentina,country,Regular Carbonates,2012,6522.668,False,synthetic
+Chile,country,Carbonates,2012,4930.82,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2012,467.942,False,synthetic
+Chile,country,Regular Carbonates,2012,4462.878,False,synthetic
+Colombia,country,Carbonates,2012,4930.82,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2012,467.942,False,synthetic
+Colombia,country,Regular Carbonates,2012,4462.878,False,synthetic
+Peru,country,Carbonates,2012,3792.939,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2012,359.956,False,synthetic
+Peru,country,Regular Carbonates,2012,3432.983,False,synthetic
+Latin America,region,Carbonates,2013,37896.67,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2013,3705.639,False,synthetic
+Latin America,region,Regular Carbonates,2013,34191.031,False,synthetic
+Brazil,country,Carbonates,2013,17053.502,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2013,1667.538,False,synthetic
+Brazil,country,Regular Carbonates,2013,15385.964,False,synthetic
+Argentina,country,Carbonates,2013,7200.367,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2013,704.071,False,synthetic
+Argentina,country,Regular Carbonates,2013,6496.296,False,synthetic
+Chile,country,Carbonates,2013,4926.567,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2013,481.733,False,synthetic
+Chile,country,Regular Carbonates,2013,4444.834,False,synthetic
+Colombia,country,Carbonates,2013,4926.567,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2013,481.733,False,synthetic
+Colombia,country,Regular Carbonates,2013,4444.834,False,synthetic
+Peru,country,Carbonates,2013,3789.667,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2013,370.564,False,synthetic
+Peru,country,Regular Carbonates,2013,3419.103,False,synthetic
+Latin America,region,Carbonates,2014,37838.993,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2014,3812.33,False,synthetic
+Latin America,region,Regular Carbonates,2014,34026.663,False,synthetic
+Brazil,country,Carbonates,2014,17027.547,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2014,1715.549,False,synthetic
+Brazil,country,Regular Carbonates,2014,15311.998,False,synthetic
+Argentina,country,Carbonates,2014,7189.409,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2014,724.343,False,synthetic
+Argentina,country,Regular Carbonates,2014,6465.066,False,synthetic
+Chile,country,Carbonates,2014,4919.069,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2014,495.603,False,synthetic
+Chile,country,Regular Carbonates,2014,4423.466,False,synthetic
+Colombia,country,Carbonates,2014,4919.069,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2014,495.603,False,synthetic
+Colombia,country,Regular Carbonates,2014,4423.466,False,synthetic
+Peru,country,Carbonates,2014,3783.899,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2014,381.233,False,synthetic
+Peru,country,Regular Carbonates,2014,3402.666,False,synthetic
+Latin America,region,Carbonates,2015,37702.307,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2015,3913.882,False,synthetic
+Latin America,region,Regular Carbonates,2015,33788.426,False,synthetic
+Brazil,country,Carbonates,2015,16966.038,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2015,1761.247,False,synthetic
+Brazil,country,Regular Carbonates,2015,15204.792,False,synthetic
+Argentina,country,Carbonates,2015,7163.438,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2015,743.638,False,synthetic
+Argentina,country,Regular Carbonates,2015,6419.801,False,synthetic
+Chile,country,Carbonates,2015,4901.3,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2015,508.805,False,synthetic
+Chile,country,Regular Carbonates,2015,4392.495,False,synthetic
+Colombia,country,Carbonates,2015,4901.3,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2015,508.805,False,synthetic
+Colombia,country,Regular Carbonates,2015,4392.495,False,synthetic
+Peru,country,Carbonates,2015,3770.231,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2015,391.388,False,synthetic
+Peru,country,Regular Carbonates,2015,3378.843,False,synthetic
+Latin America,region,Carbonates,2016,37465.621,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2016,4007.389,False,synthetic
+Latin America,region,Regular Carbonates,2016,33458.232,False,synthetic
+Brazil,country,Carbonates,2016,16859.529,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2016,1803.325,False,synthetic
+Brazil,country,Regular Carbonates,2016,15056.204,False,synthetic
+Argentina,country,Carbonates,2016,7118.468,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2016,761.404,False,synthetic
+Argentina,country,Regular Carbonates,2016,6357.064,False,synthetic
+Chile,country,Carbonates,2016,4870.531,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2016,520.961,False,synthetic
+Chile,country,Regular Carbonates,2016,4349.57,False,synthetic
+Colombia,country,Carbonates,2016,4870.531,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2016,520.961,False,synthetic
+Colombia,country,Regular Carbonates,2016,4349.57,False,synthetic
+Peru,country,Carbonates,2016,3746.562,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2016,400.739,False,synthetic
+Peru,country,Regular Carbonates,2016,3345.823,False,synthetic
+Latin America,region,Carbonates,2017,37150.789,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2017,4094.355,False,synthetic
+Latin America,region,Regular Carbonates,2017,33056.434,False,synthetic
+Brazil,country,Carbonates,2017,16717.855,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2017,1842.46,False,synthetic
+Brazil,country,Regular Carbonates,2017,14875.395,False,synthetic
+Argentina,country,Carbonates,2017,7058.65,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2017,777.927,False,synthetic
+Argentina,country,Regular Carbonates,2017,6280.723,False,synthetic
+Chile,country,Carbonates,2017,4829.603,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2017,532.266,False,synthetic
+Chile,country,Regular Carbonates,2017,4297.336,False,synthetic
+Colombia,country,Carbonates,2017,4829.603,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2017,532.266,False,synthetic
+Colombia,country,Regular Carbonates,2017,4297.336,False,synthetic
+Peru,country,Carbonates,2017,3715.079,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2017,409.435,False,synthetic
+Peru,country,Regular Carbonates,2017,3305.643,False,synthetic
+Latin America,region,Carbonates,2018,36813.645,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2018,4180.373,False,synthetic
+Latin America,region,Regular Carbonates,2018,32633.272,False,synthetic
+Brazil,country,Carbonates,2018,16566.14,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2018,1881.168,False,synthetic
+Brazil,country,Regular Carbonates,2018,14684.972,False,synthetic
+Argentina,country,Carbonates,2018,6994.593,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2018,794.271,False,synthetic
+Argentina,country,Regular Carbonates,2018,6200.322,False,synthetic
+Chile,country,Carbonates,2018,4785.774,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2018,543.449,False,synthetic
+Chile,country,Regular Carbonates,2018,4242.325,False,synthetic
+Colombia,country,Carbonates,2018,4785.774,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2018,543.449,False,synthetic
+Colombia,country,Regular Carbonates,2018,4242.325,False,synthetic
+Peru,country,Carbonates,2018,3681.365,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2018,418.037,False,synthetic
+Peru,country,Regular Carbonates,2018,3263.327,False,synthetic
+Latin America,region,Carbonates,2019,36520.428,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2019,4272.981,False,synthetic
+Latin America,region,Regular Carbonates,2019,32247.448,False,synthetic
+Brazil,country,Carbonates,2019,16434.193,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2019,1922.841,False,synthetic
+Brazil,country,Regular Carbonates,2019,14511.351,False,synthetic
+Argentina,country,Carbonates,2019,6938.881,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2019,811.866,False,synthetic
+Argentina,country,Regular Carbonates,2019,6127.015,False,synthetic
+Chile,country,Carbonates,2019,4747.656,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2019,555.487,False,synthetic
+Chile,country,Regular Carbonates,2019,4192.168,False,synthetic
+Colombia,country,Carbonates,2019,4747.656,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2019,555.487,False,synthetic
+Colombia,country,Regular Carbonates,2019,4192.168,False,synthetic
+Peru,country,Carbonates,2019,3652.043,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2019,427.298,False,synthetic
+Peru,country,Regular Carbonates,2019,3224.745,False,synthetic
+Latin America,region,Carbonates,2020,36319.814,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2020,4378.522,False,synthetic
+Latin America,region,Regular Carbonates,2020,31941.292,False,synthetic
+Brazil,country,Carbonates,2020,16343.916,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2020,1970.335,False,synthetic
+Brazil,country,Regular Carbonates,2020,14373.582,False,synthetic
+Argentina,country,Carbonates,2020,6900.765,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2020,831.919,False,synthetic
+Argentina,country,Regular Carbonates,2020,6068.846,False,synthetic
+Chile,country,Carbonates,2020,4721.576,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2020,569.208,False,synthetic
+Chile,country,Regular Carbonates,2020,4152.368,False,synthetic
+Colombia,country,Carbonates,2020,4721.576,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2020,569.208,False,synthetic
+Colombia,country,Regular Carbonates,2020,4152.368,False,synthetic
+Peru,country,Carbonates,2020,3631.981,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2020,437.852,False,synthetic
+Peru,country,Regular Carbonates,2020,3194.129,False,synthetic
+Latin America,region,Carbonates,2021,36222.703,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2021,4499.389,False,synthetic
+Latin America,region,Regular Carbonates,2021,31723.314,False,synthetic
+Brazil,country,Carbonates,2021,16300.216,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2021,2024.725,False,synthetic
+Brazil,country,Regular Carbonates,2021,14275.491,False,synthetic
+Argentina,country,Carbonates,2021,6882.314,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2021,854.884,False,synthetic
+Argentina,country,Regular Carbonates,2021,6027.43,False,synthetic
+Chile,country,Carbonates,2021,4708.951,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2021,584.921,False,synthetic
+Chile,country,Regular Carbonates,2021,4124.031,False,synthetic
+Colombia,country,Carbonates,2021,4708.951,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2021,584.921,False,synthetic
+Colombia,country,Regular Carbonates,2021,4124.031,False,synthetic
+Peru,country,Carbonates,2021,3622.27,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2021,449.939,False,synthetic
+Peru,country,Regular Carbonates,2021,3172.331,False,synthetic
+Latin America,region,Carbonates,2022,36198.443,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2022,4632.884,False,synthetic
+Latin America,region,Regular Carbonates,2022,31565.559,False,synthetic
+Brazil,country,Carbonates,2022,16289.3,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2022,2084.798,False,synthetic
+Brazil,country,Regular Carbonates,2022,14204.502,False,synthetic
+Argentina,country,Carbonates,2022,6877.704,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2022,880.248,False,synthetic
+Argentina,country,Regular Carbonates,2022,5997.456,False,synthetic
+Chile,country,Carbonates,2022,4705.798,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2022,602.275,False,synthetic
+Chile,country,Regular Carbonates,2022,4103.523,False,synthetic
+Colombia,country,Carbonates,2022,4705.798,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2022,602.275,False,synthetic
+Colombia,country,Regular Carbonates,2022,4103.523,False,synthetic
+Peru,country,Carbonates,2022,3619.844,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2022,463.288,False,synthetic
+Peru,country,Regular Carbonates,2022,3156.556,False,synthetic
+Latin America,region,Carbonates,2023,36188.976,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2023,4772.288,False,synthetic
+Latin America,region,Regular Carbonates,2023,31416.688,False,synthetic
+Brazil,country,Carbonates,2023,16285.039,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2023,2147.53,False,synthetic
+Brazil,country,Regular Carbonates,2023,14137.509,False,synthetic
+Argentina,country,Carbonates,2023,6875.905,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2023,906.735,False,synthetic
+Argentina,country,Regular Carbonates,2023,5969.171,False,synthetic
+Chile,country,Carbonates,2023,4704.567,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2023,620.397,False,synthetic
+Chile,country,Regular Carbonates,2023,4084.169,False,synthetic
+Colombia,country,Carbonates,2023,4704.567,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2023,620.397,False,synthetic
+Colombia,country,Regular Carbonates,2023,4084.169,False,synthetic
+Peru,country,Carbonates,2023,3618.898,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2023,477.229,False,synthetic
+Peru,country,Regular Carbonates,2023,3141.669,False,synthetic
+Latin America,region,Carbonates,2024,36134.592,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2024,4909.784,False,synthetic
+Latin America,region,Regular Carbonates,2024,31224.808,False,synthetic
+Brazil,country,Carbonates,2024,16260.566,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2024,2209.403,False,synthetic
+Brazil,country,Regular Carbonates,2024,14051.164,False,synthetic
+Argentina,country,Carbonates,2024,6865.572,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2024,932.859,False,synthetic
+Argentina,country,Regular Carbonates,2024,5932.713,False,synthetic
+Chile,country,Carbonates,2024,4697.497,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2024,638.272,False,synthetic
+Chile,country,Regular Carbonates,2024,4059.225,False,synthetic
+Colombia,country,Carbonates,2024,4697.497,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2024,638.272,False,synthetic
+Colombia,country,Regular Carbonates,2024,4059.225,False,synthetic
+Peru,country,Carbonates,2024,3613.459,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2024,490.978,False,synthetic
+Peru,country,Regular Carbonates,2024,3122.481,False,synthetic
+Latin America,region,Carbonates,2025,36000.0,False,synthetic
+Latin America,region,Reduced Sugar Carbonates,2025,5040.0,False,synthetic
+Latin America,region,Regular Carbonates,2025,30960.0,False,synthetic
+Brazil,country,Carbonates,2025,16200.0,False,synthetic
+Brazil,country,Reduced Sugar Carbonates,2025,2268.0,False,synthetic
+Brazil,country,Regular Carbonates,2025,13932.0,False,synthetic
+Argentina,country,Carbonates,2025,6840.0,False,synthetic
+Argentina,country,Reduced Sugar Carbonates,2025,957.6,False,synthetic
+Argentina,country,Regular Carbonates,2025,5882.4,False,synthetic
+Chile,country,Carbonates,2025,4680.0,False,synthetic
+Chile,country,Reduced Sugar Carbonates,2025,655.2,False,synthetic
+Chile,country,Regular Carbonates,2025,4024.8,False,synthetic
+Colombia,country,Carbonates,2025,4680.0,False,synthetic
+Colombia,country,Reduced Sugar Carbonates,2025,655.2,False,synthetic
+Colombia,country,Regular Carbonates,2025,4024.8,False,synthetic
+Peru,country,Carbonates,2025,3600.0,False,synthetic
+Peru,country,Reduced Sugar Carbonates,2025,504.0,False,synthetic
+Peru,country,Regular Carbonates,2025,3096.0,False,synthetic
+Western Europe,region,Carbonates,2011,21000.0,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2011,6100.0,False,synthetic
+Western Europe,region,Regular Carbonates,2011,14900.0,False,synthetic
+United Kingdom,country,Carbonates,2011,4620.0,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2011,1342.0,False,synthetic
+United Kingdom,country,Regular Carbonates,2011,3278.0,False,synthetic
+France,country,Carbonates,2011,4410.0,False,synthetic
+France,country,Reduced Sugar Carbonates,2011,1281.0,False,synthetic
+France,country,Regular Carbonates,2011,3129.0,False,synthetic
+Germany,country,Carbonates,2011,5250.0,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2011,1525.0,False,synthetic
+Germany,country,Regular Carbonates,2011,3725.0,False,synthetic
+Italy,country,Carbonates,2011,3570.0,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2011,1037.0,False,synthetic
+Italy,country,Regular Carbonates,2011,2533.0,False,synthetic
+Spain,country,Carbonates,2011,3150.0,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2011,915.0,False,synthetic
+Spain,country,Regular Carbonates,2011,2235.0,False,synthetic
+Western Europe,region,Carbonates,2012,21365.548,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2012,6289.372,False,synthetic
+Western Europe,region,Regular Carbonates,2012,15076.176,False,synthetic
+United Kingdom,country,Carbonates,2012,4700.421,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2012,1383.662,False,synthetic
+United Kingdom,country,Regular Carbonates,2012,3316.759,False,synthetic
+France,country,Carbonates,2012,4486.765,False,synthetic
+France,country,Reduced Sugar Carbonates,2012,1320.768,False,synthetic
+France,country,Regular Carbonates,2012,3165.997,False,synthetic
+Germany,country,Carbonates,2012,5341.387,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2012,1572.343,False,synthetic
+Germany,country,Regular Carbonates,2012,3769.044,False,synthetic
+Italy,country,Carbonates,2012,3632.143,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2012,1069.193,False,synthetic
+Italy,country,Regular Carbonates,2012,2562.95,False,synthetic
+Spain,country,Carbonates,2012,3204.832,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2012,943.406,False,synthetic
+Spain,country,Regular Carbonates,2012,2261.426,False,synthetic
+Western Europe,region,Carbonates,2013,21759.142,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2013,6491.091,False,synthetic
+Western Europe,region,Regular Carbonates,2013,15268.052,False,synthetic
+United Kingdom,country,Carbonates,2013,4787.011,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2013,1428.04,False,synthetic
+United Kingdom,country,Regular Carbonates,2013,3358.971,False,synthetic
+France,country,Carbonates,2013,4569.42,False,synthetic
+France,country,Reduced Sugar Carbonates,2013,1363.129,False,synthetic
+France,country,Regular Carbonates,2013,3206.291,False,synthetic
+Germany,country,Carbonates,2013,5439.786,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2013,1622.773,False,synthetic
+Germany,country,Regular Carbonates,2013,3817.013,False,synthetic
+Italy,country,Carbonates,2013,3699.054,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2013,1103.485,False,synthetic
+Italy,country,Regular Carbonates,2013,2595.569,False,synthetic
+Spain,country,Carbonates,2013,3263.871,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2013,973.664,False,synthetic
+Spain,country,Regular Carbonates,2013,2290.208,False,synthetic
+Western Europe,region,Carbonates,2014,22145.363,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2014,6694.858,False,synthetic
+Western Europe,region,Regular Carbonates,2014,15450.505,False,synthetic
+United Kingdom,country,Carbonates,2014,4871.98,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2014,1472.869,False,synthetic
+United Kingdom,country,Regular Carbonates,2014,3399.111,False,synthetic
+France,country,Carbonates,2014,4650.526,False,synthetic
+France,country,Reduced Sugar Carbonates,2014,1405.92,False,synthetic
+France,country,Regular Carbonates,2014,3244.606,False,synthetic
+Germany,country,Carbonates,2014,5536.341,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2014,1673.715,False,synthetic
+Germany,country,Regular Carbonates,2014,3862.626,False,synthetic
+Italy,country,Carbonates,2014,3764.712,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2014,1138.126,False,synthetic
+Italy,country,Regular Carbonates,2014,2626.586,False,synthetic
+Spain,country,Carbonates,2014,3321.804,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2014,1004.229,False,synthetic
+Spain,country,Regular Carbonates,2014,2317.576,False,synthetic
+Western Europe,region,Carbonates,2015,22491.254,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2015,6890.566,False,synthetic
+Western Europe,region,Regular Carbonates,2015,15600.687,False,synthetic
+United Kingdom,country,Carbonates,2015,4948.076,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2015,1515.925,False,synthetic
+United Kingdom,country,Regular Carbonates,2015,3432.151,False,synthetic
+France,country,Carbonates,2015,4723.163,False,synthetic
+France,country,Reduced Sugar Carbonates,2015,1447.019,False,synthetic
+France,country,Regular Carbonates,2015,3276.144,False,synthetic
+Germany,country,Carbonates,2015,5622.813,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2015,1722.642,False,synthetic
+Germany,country,Regular Carbonates,2015,3900.172,False,synthetic
+Italy,country,Carbonates,2015,3823.513,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2015,1171.396,False,synthetic
+Italy,country,Regular Carbonates,2015,2652.117,False,synthetic
+Spain,country,Carbonates,2015,3373.688,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2015,1033.585,False,synthetic
+Spain,country,Regular Carbonates,2015,2340.103,False,synthetic
+Western Europe,region,Carbonates,2016,22781.441,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2016,7073.024,False,synthetic
+Western Europe,region,Regular Carbonates,2016,15708.417,False,synthetic
+United Kingdom,country,Carbonates,2016,5011.917,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2016,1556.065,False,synthetic
+United Kingdom,country,Regular Carbonates,2016,3455.852,False,synthetic
+France,country,Carbonates,2016,4784.103,False,synthetic
+France,country,Reduced Sugar Carbonates,2016,1485.335,False,synthetic
+France,country,Regular Carbonates,2016,3298.768,False,synthetic
+Germany,country,Carbonates,2016,5695.36,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2016,1768.256,False,synthetic
+Germany,country,Regular Carbonates,2016,3927.104,False,synthetic
+Italy,country,Carbonates,2016,3872.845,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2016,1202.414,False,synthetic
+Italy,country,Regular Carbonates,2016,2670.431,False,synthetic
+Spain,country,Carbonates,2016,3417.216,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2016,1060.954,False,synthetic
+Spain,country,Regular Carbonates,2016,2356.263,False,synthetic
+Western Europe,region,Carbonates,2017,23026.016,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2017,7244.784,False,synthetic
+Western Europe,region,Regular Carbonates,2017,15781.233,False,synthetic
+United Kingdom,country,Carbonates,2017,5065.724,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2017,1593.852,False,synthetic
+United Kingdom,country,Regular Carbonates,2017,3471.871,False,synthetic
+France,country,Carbonates,2017,4835.463,False,synthetic
+France,country,Reduced Sugar Carbonates,2017,1521.405,False,synthetic
+France,country,Regular Carbonates,2017,3314.059,False,synthetic
+Germany,country,Carbonates,2017,5756.504,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2017,1811.196,False,synthetic
+Germany,country,Regular Carbonates,2017,3945.308,False,synthetic
+Italy,country,Carbonates,2017,3914.423,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2017,1231.613,False,synthetic
+Italy,country,Regular Carbonates,2017,2682.81,False,synthetic
+Spain,country,Carbonates,2017,3453.902,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2017,1086.718,False,synthetic
+Spain,country,Regular Carbonates,2017,2367.185,False,synthetic
+Western Europe,region,Carbonates,2018,23257.45,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2018,7415.687,False,synthetic
+Western Europe,region,Regular Carbonates,2018,15841.763,False,synthetic
+United Kingdom,country,Carbonates,2018,5116.639,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2018,1631.451,False,synthetic
+United Kingdom,country,Regular Carbonates,2018,3485.188,False,synthetic
+France,country,Carbonates,2018,4884.065,False,synthetic
+France,country,Reduced Sugar Carbonates,2018,1557.294,False,synthetic
+France,country,Regular Carbonates,2018,3326.77,False,synthetic
+Germany,country,Carbonates,2018,5814.363,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2018,1853.922,False,synthetic
+Germany,country,Regular Carbonates,2018,3960.441,False,synthetic
+Italy,country,Carbonates,2018,3953.767,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2018,1260.667,False,synthetic
+Italy,country,Regular Carbonates,2018,2693.1,False,synthetic
+Spain,country,Carbonates,2018,3488.618,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2018,1112.353,False,synthetic
+Spain,country,Regular Carbonates,2018,2376.264,False,synthetic
+Western Europe,region,Carbonates,2019,23517.527,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2019,7599.125,False,synthetic
+Western Europe,region,Regular Carbonates,2019,15918.401,False,synthetic
+United Kingdom,country,Carbonates,2019,5173.856,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2019,1671.808,False,synthetic
+United Kingdom,country,Regular Carbonates,2019,3502.048,False,synthetic
+France,country,Carbonates,2019,4938.681,False,synthetic
+France,country,Reduced Sugar Carbonates,2019,1595.816,False,synthetic
+France,country,Regular Carbonates,2019,3342.864,False,synthetic
+Germany,country,Carbonates,2019,5879.382,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2019,1899.781,False,synthetic
+Germany,country,Regular Carbonates,2019,3979.6,False,synthetic
+Italy,country,Carbonates,2019,3997.98,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2019,1291.851,False,synthetic
+Italy,country,Regular Carbonates,2019,2706.128,False,synthetic
+Spain,country,Carbonates,2019,3527.629,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2019,1139.869,False,synthetic
+Spain,country,Regular Carbonates,2019,2387.76,False,synthetic
+Western Europe,region,Carbonates,2020,23839.762,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2020,7806.504,False,synthetic
+Western Europe,region,Regular Carbonates,2020,16033.258,False,synthetic
+United Kingdom,country,Carbonates,2020,5244.748,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2020,1717.431,False,synthetic
+United Kingdom,country,Regular Carbonates,2020,3527.317,False,synthetic
+France,country,Carbonates,2020,5006.35,False,synthetic
+France,country,Reduced Sugar Carbonates,2020,1639.366,False,synthetic
+France,country,Regular Carbonates,2020,3366.984,False,synthetic
+Germany,country,Carbonates,2020,5959.94,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2020,1951.626,False,synthetic
+Germany,country,Regular Carbonates,2020,4008.315,False,synthetic
+Italy,country,Carbonates,2020,4052.76,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2020,1327.106,False,synthetic
+Italy,country,Regular Carbonates,2020,2725.654,False,synthetic
+Spain,country,Carbonates,2020,3575.964,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2020,1170.976,False,synthetic
+Spain,country,Regular Carbonates,2020,2404.989,False,synthetic
+Western Europe,region,Carbonates,2021,24234.924,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2021,8042.276,False,synthetic
+Western Europe,region,Regular Carbonates,2021,16192.648,False,synthetic
+United Kingdom,country,Carbonates,2021,5331.683,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2021,1769.301,False,synthetic
+United Kingdom,country,Regular Carbonates,2021,3562.382,False,synthetic
+France,country,Carbonates,2021,5089.334,False,synthetic
+France,country,Reduced Sugar Carbonates,2021,1688.878,False,synthetic
+France,country,Regular Carbonates,2021,3400.456,False,synthetic
+Germany,country,Carbonates,2021,6058.731,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2021,2010.569,False,synthetic
+Germany,country,Regular Carbonates,2021,4048.162,False,synthetic
+Italy,country,Carbonates,2021,4119.937,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2021,1367.187,False,synthetic
+Italy,country,Regular Carbonates,2021,2752.75,False,synthetic
+Spain,country,Carbonates,2021,3635.239,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2021,1206.341,False,synthetic
+Spain,country,Regular Carbonates,2021,2428.897,False,synthetic
+Western Europe,region,Carbonates,2022,24686.141,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2022,8301.818,False,synthetic
+Western Europe,region,Regular Carbonates,2022,16384.323,False,synthetic
+United Kingdom,country,Carbonates,2022,5430.951,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2022,1826.4,False,synthetic
+United Kingdom,country,Regular Carbonates,2022,3604.551,False,synthetic
+France,country,Carbonates,2022,5184.09,False,synthetic
+France,country,Reduced Sugar Carbonates,2022,1743.382,False,synthetic
+France,country,Regular Carbonates,2022,3440.708,False,synthetic
+Germany,country,Carbonates,2022,6171.535,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2022,2075.455,False,synthetic
+Germany,country,Regular Carbonates,2022,4096.081,False,synthetic
+Italy,country,Carbonates,2022,4196.644,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2022,1411.309,False,synthetic
+Italy,country,Regular Carbonates,2022,2785.335,False,synthetic
+Spain,country,Carbonates,2022,3702.921,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2022,1245.273,False,synthetic
+Spain,country,Regular Carbonates,2022,2457.648,False,synthetic
+Western Europe,region,Carbonates,2023,25156.031,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2023,8573.237,False,synthetic
+Western Europe,region,Regular Carbonates,2023,16582.794,False,synthetic
+United Kingdom,country,Carbonates,2023,5534.327,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2023,1886.112,False,synthetic
+United Kingdom,country,Regular Carbonates,2023,3648.215,False,synthetic
+France,country,Carbonates,2023,5282.766,False,synthetic
+France,country,Reduced Sugar Carbonates,2023,1800.38,False,synthetic
+France,country,Regular Carbonates,2023,3482.387,False,synthetic
+Germany,country,Carbonates,2023,6289.008,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2023,2143.309,False,synthetic
+Germany,country,Regular Carbonates,2023,4145.699,False,synthetic
+Italy,country,Carbonates,2023,4276.525,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2023,1457.45,False,synthetic
+Italy,country,Regular Carbonates,2023,2819.075,False,synthetic
+Spain,country,Carbonates,2023,3773.405,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2023,1285.985,False,synthetic
+Spain,country,Regular Carbonates,2023,2487.419,False,synthetic
+Western Europe,region,Carbonates,2024,25603.037,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2024,8842.536,False,synthetic
+Western Europe,region,Regular Carbonates,2024,16760.501,False,synthetic
+United Kingdom,country,Carbonates,2024,5632.668,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2024,1945.358,False,synthetic
+United Kingdom,country,Regular Carbonates,2024,3687.31,False,synthetic
+France,country,Carbonates,2024,5376.638,False,synthetic
+France,country,Reduced Sugar Carbonates,2024,1856.933,False,synthetic
+France,country,Regular Carbonates,2024,3519.705,False,synthetic
+Germany,country,Carbonates,2024,6400.759,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2024,2210.634,False,synthetic
+Germany,country,Regular Carbonates,2024,4190.125,False,synthetic
+Italy,country,Carbonates,2024,4352.516,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2024,1503.231,False,synthetic
+Italy,country,Regular Carbonates,2024,2849.285,False,synthetic
+Spain,country,Carbonates,2024,3840.456,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2024,1326.38,False,synthetic
+Spain,country,Regular Carbonates,2024,2514.075,False,synthetic
+Western Europe,region,Carbonates,2025,26000.0,False,synthetic
+Western Europe,region,Reduced Sugar Carbonates,2025,9100.0,False,synthetic
+Western Europe,region,Regular Carbonates,2025,16900.0,False,synthetic
+United Kingdom,country,Carbonates,2025,5720.0,False,synthetic
+United Kingdom,country,Reduced Sugar Carbonates,2025,2002.0,False,synthetic
+United Kingdom,country,Regular Carbonates,2025,3718.0,False,synthetic
+France,country,Carbonates,2025,5460.0,False,synthetic
+France,country,Reduced Sugar Carbonates,2025,1911.0,False,synthetic
+France,country,Regular Carbonates,2025,3549.0,False,synthetic
+Germany,country,Carbonates,2025,6500.0,False,synthetic
+Germany,country,Reduced Sugar Carbonates,2025,2275.0,False,synthetic
+Germany,country,Regular Carbonates,2025,4225.0,False,synthetic
+Italy,country,Carbonates,2025,4420.0,False,synthetic
+Italy,country,Reduced Sugar Carbonates,2025,1547.0,False,synthetic
+Italy,country,Regular Carbonates,2025,2873.0,False,synthetic
+Spain,country,Carbonates,2025,3900.0,False,synthetic
+Spain,country,Reduced Sugar Carbonates,2025,1365.0,False,synthetic
+Spain,country,Regular Carbonates,2025,2535.0,False,synthetic
+Eastern Europe,region,Carbonates,2011,5000.0,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2011,600.0,False,synthetic
+Eastern Europe,region,Regular Carbonates,2011,4400.0,False,synthetic
+Poland,country,Carbonates,2011,1400.0,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2011,168.0,False,synthetic
+Poland,country,Regular Carbonates,2011,1232.0,False,synthetic
+Romania,country,Carbonates,2011,900.0,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2011,108.0,False,synthetic
+Romania,country,Regular Carbonates,2011,792.0,False,synthetic
+Czechia,country,Carbonates,2011,800.0,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2011,96.0,False,synthetic
+Czechia,country,Regular Carbonates,2011,704.0,False,synthetic
+Hungary,country,Carbonates,2011,700.0,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2011,84.0,False,synthetic
+Hungary,country,Regular Carbonates,2011,616.0,False,synthetic
+Ukraine,country,Carbonates,2011,1200.0,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2011,144.0,False,synthetic
+Ukraine,country,Regular Carbonates,2011,1056.0,False,synthetic
+Eastern Europe,region,Carbonates,2012,5224.843,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2012,645.405,False,synthetic
+Eastern Europe,region,Regular Carbonates,2012,4579.437,False,synthetic
+Poland,country,Carbonates,2012,1462.956,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2012,180.713,False,synthetic
+Poland,country,Regular Carbonates,2012,1282.242,False,synthetic
+Romania,country,Carbonates,2012,940.472,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2012,116.173,False,synthetic
+Romania,country,Regular Carbonates,2012,824.299,False,synthetic
+Czechia,country,Carbonates,2012,835.975,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2012,103.265,False,synthetic
+Czechia,country,Regular Carbonates,2012,732.71,False,synthetic
+Hungary,country,Carbonates,2012,731.478,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2012,90.357,False,synthetic
+Hungary,country,Regular Carbonates,2012,641.121,False,synthetic
+Ukraine,country,Carbonates,2012,1253.962,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2012,154.897,False,synthetic
+Ukraine,country,Regular Carbonates,2012,1099.065,False,synthetic
+Eastern Europe,region,Carbonates,2013,5465.242,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2013,694.939,False,synthetic
+Eastern Europe,region,Regular Carbonates,2013,4770.303,False,synthetic
+Poland,country,Carbonates,2013,1530.268,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2013,194.583,False,synthetic
+Poland,country,Regular Carbonates,2013,1335.685,False,synthetic
+Romania,country,Carbonates,2013,983.744,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2013,125.089,False,synthetic
+Romania,country,Regular Carbonates,2013,858.655,False,synthetic
+Czechia,country,Carbonates,2013,874.439,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2013,111.19,False,synthetic
+Czechia,country,Regular Carbonates,2013,763.249,False,synthetic
+Hungary,country,Carbonates,2013,765.134,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2013,97.291,False,synthetic
+Hungary,country,Regular Carbonates,2013,667.842,False,synthetic
+Ukraine,country,Carbonates,2013,1311.658,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2013,166.785,False,synthetic
+Ukraine,country,Regular Carbonates,2013,1144.873,False,synthetic
+Eastern Europe,region,Carbonates,2014,5712.93,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2014,747.78,False,synthetic
+Eastern Europe,region,Regular Carbonates,2014,4965.15,False,synthetic
+Poland,country,Carbonates,2014,1599.62,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2014,209.378,False,synthetic
+Poland,country,Regular Carbonates,2014,1390.242,False,synthetic
+Romania,country,Carbonates,2014,1028.327,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2014,134.6,False,synthetic
+Romania,country,Regular Carbonates,2014,893.727,False,synthetic
+Czechia,country,Carbonates,2014,914.069,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2014,119.645,False,synthetic
+Czechia,country,Regular Carbonates,2014,794.424,False,synthetic
+Hungary,country,Carbonates,2014,799.81,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2014,104.689,False,synthetic
+Hungary,country,Regular Carbonates,2014,695.121,False,synthetic
+Ukraine,country,Carbonates,2014,1371.103,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2014,179.467,False,synthetic
+Ukraine,country,Regular Carbonates,2014,1191.636,False,synthetic
+Eastern Europe,region,Carbonates,2015,5959.341,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2015,802.955,False,synthetic
+Eastern Europe,region,Regular Carbonates,2015,5156.386,False,synthetic
+Poland,country,Carbonates,2015,1668.615,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2015,224.827,False,synthetic
+Poland,country,Regular Carbonates,2015,1443.788,False,synthetic
+Romania,country,Carbonates,2015,1072.681,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2015,144.532,False,synthetic
+Romania,country,Regular Carbonates,2015,928.149,False,synthetic
+Czechia,country,Carbonates,2015,953.495,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2015,128.473,False,synthetic
+Czechia,country,Regular Carbonates,2015,825.022,False,synthetic
+Hungary,country,Carbonates,2015,834.308,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2015,112.414,False,synthetic
+Hungary,country,Regular Carbonates,2015,721.894,False,synthetic
+Ukraine,country,Carbonates,2015,1430.242,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2015,192.709,False,synthetic
+Ukraine,country,Regular Carbonates,2015,1237.533,False,synthetic
+Eastern Europe,region,Carbonates,2016,6199.75,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2016,859.895,False,synthetic
+Eastern Europe,region,Regular Carbonates,2016,5339.856,False,synthetic
+Poland,country,Carbonates,2016,1735.93,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2016,240.77,False,synthetic
+Poland,country,Regular Carbonates,2016,1495.16,False,synthetic
+Romania,country,Carbonates,2016,1115.955,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2016,154.781,False,synthetic
+Romania,country,Regular Carbonates,2016,961.174,False,synthetic
+Czechia,country,Carbonates,2016,991.96,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2016,137.583,False,synthetic
+Czechia,country,Regular Carbonates,2016,854.377,False,synthetic
+Hungary,country,Carbonates,2016,867.965,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2016,120.385,False,synthetic
+Hungary,country,Regular Carbonates,2016,747.58,False,synthetic
+Ukraine,country,Carbonates,2016,1487.94,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2016,206.375,False,synthetic
+Ukraine,country,Regular Carbonates,2016,1281.565,False,synthetic
+Eastern Europe,region,Carbonates,2017,6436.063,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2017,918.902,False,synthetic
+Eastern Europe,region,Regular Carbonates,2017,5517.161,False,synthetic
+Poland,country,Carbonates,2017,1802.098,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2017,257.293,False,synthetic
+Poland,country,Regular Carbonates,2017,1544.805,False,synthetic
+Romania,country,Carbonates,2017,1158.491,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2017,165.402,False,synthetic
+Romania,country,Regular Carbonates,2017,993.089,False,synthetic
+Czechia,country,Carbonates,2017,1029.77,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2017,147.024,False,synthetic
+Czechia,country,Regular Carbonates,2017,882.746,False,synthetic
+Hungary,country,Carbonates,2017,901.049,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2017,128.646,False,synthetic
+Hungary,country,Regular Carbonates,2017,772.403,False,synthetic
+Ukraine,country,Carbonates,2017,1544.655,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2017,220.536,False,synthetic
+Ukraine,country,Regular Carbonates,2017,1324.119,False,synthetic
+Eastern Europe,region,Carbonates,2018,6676.856,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2018,981.293,False,synthetic
+Eastern Europe,region,Regular Carbonates,2018,5695.563,False,synthetic
+Poland,country,Carbonates,2018,1869.52,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2018,274.762,False,synthetic
+Poland,country,Regular Carbonates,2018,1594.758,False,synthetic
+Romania,country,Carbonates,2018,1201.834,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2018,176.633,False,synthetic
+Romania,country,Regular Carbonates,2018,1025.201,False,synthetic
+Czechia,country,Carbonates,2018,1068.297,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2018,157.007,False,synthetic
+Czechia,country,Regular Carbonates,2018,911.29,False,synthetic
+Hungary,country,Carbonates,2018,934.76,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2018,137.381,False,synthetic
+Hungary,country,Regular Carbonates,2018,797.379,False,synthetic
+Ukraine,country,Carbonates,2018,1602.446,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2018,235.51,False,synthetic
+Ukraine,country,Regular Carbonates,2018,1366.935,False,synthetic
+Eastern Europe,region,Carbonates,2019,6934.418,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2019,1049.095,False,synthetic
+Eastern Europe,region,Regular Carbonates,2019,5885.323,False,synthetic
+Poland,country,Carbonates,2019,1941.637,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2019,293.747,False,synthetic
+Poland,country,Regular Carbonates,2019,1647.891,False,synthetic
+Romania,country,Carbonates,2019,1248.195,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2019,188.837,False,synthetic
+Romania,country,Regular Carbonates,2019,1059.358,False,synthetic
+Czechia,country,Carbonates,2019,1109.507,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2019,167.855,False,synthetic
+Czechia,country,Regular Carbonates,2019,941.652,False,synthetic
+Hungary,country,Carbonates,2019,970.819,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2019,146.873,False,synthetic
+Hungary,country,Regular Carbonates,2019,823.945,False,synthetic
+Ukraine,country,Carbonates,2019,1664.26,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2019,251.783,False,synthetic
+Ukraine,country,Regular Carbonates,2019,1412.478,False,synthetic
+Eastern Europe,region,Carbonates,2020,7219.86,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2020,1124.376,False,synthetic
+Eastern Europe,region,Regular Carbonates,2020,6095.484,False,synthetic
+Poland,country,Carbonates,2020,2021.561,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2020,314.825,False,synthetic
+Poland,country,Regular Carbonates,2020,1706.736,False,synthetic
+Romania,country,Carbonates,2020,1299.575,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2020,202.388,False,synthetic
+Romania,country,Regular Carbonates,2020,1097.187,False,synthetic
+Czechia,country,Carbonates,2020,1155.178,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2020,179.9,False,synthetic
+Czechia,country,Regular Carbonates,2020,975.277,False,synthetic
+Hungary,country,Carbonates,2020,1010.78,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2020,157.413,False,synthetic
+Hungary,country,Regular Carbonates,2020,853.368,False,synthetic
+Ukraine,country,Carbonates,2020,1732.766,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2020,269.85,False,synthetic
+Ukraine,country,Regular Carbonates,2020,1462.916,False,synthetic
+Eastern Europe,region,Carbonates,2021,7538.362,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2021,1208.475,False,synthetic
+Eastern Europe,region,Regular Carbonates,2021,6329.887,False,synthetic
+Poland,country,Carbonates,2021,2110.741,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2021,338.373,False,synthetic
+Poland,country,Regular Carbonates,2021,1772.368,False,synthetic
+Romania,country,Carbonates,2021,1356.905,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2021,217.526,False,synthetic
+Romania,country,Regular Carbonates,2021,1139.38,False,synthetic
+Czechia,country,Carbonates,2021,1206.138,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2021,193.356,False,synthetic
+Czechia,country,Regular Carbonates,2021,1012.782,False,synthetic
+Hungary,country,Carbonates,2021,1055.371,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2021,169.187,False,synthetic
+Hungary,country,Regular Carbonates,2021,886.184,False,synthetic
+Ukraine,country,Carbonates,2021,1809.207,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2021,290.034,False,synthetic
+Ukraine,country,Regular Carbonates,2021,1519.173,False,synthetic
+Eastern Europe,region,Carbonates,2022,7886.73,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2022,1301.474,False,synthetic
+Eastern Europe,region,Regular Carbonates,2022,6585.256,False,synthetic
+Poland,country,Carbonates,2022,2208.284,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2022,364.413,False,synthetic
+Poland,country,Regular Carbonates,2022,1843.872,False,synthetic
+Romania,country,Carbonates,2022,1419.611,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2022,234.265,False,synthetic
+Romania,country,Regular Carbonates,2022,1185.346,False,synthetic
+Czechia,country,Carbonates,2022,1261.877,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2022,208.236,False,synthetic
+Czechia,country,Regular Carbonates,2022,1053.641,False,synthetic
+Hungary,country,Carbonates,2022,1104.142,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2022,182.206,False,synthetic
+Hungary,country,Regular Carbonates,2022,921.936,False,synthetic
+Ukraine,country,Carbonates,2022,1892.815,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2022,312.354,False,synthetic
+Ukraine,country,Regular Carbonates,2022,1580.461,False,synthetic
+Eastern Europe,region,Carbonates,2023,8254.568,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2023,1402.203,False,synthetic
+Eastern Europe,region,Regular Carbonates,2023,6852.365,False,synthetic
+Poland,country,Carbonates,2023,2311.279,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2023,392.617,False,synthetic
+Poland,country,Regular Carbonates,2023,1918.662,False,synthetic
+Romania,country,Carbonates,2023,1485.822,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2023,252.397,False,synthetic
+Romania,country,Regular Carbonates,2023,1233.426,False,synthetic
+Czechia,country,Carbonates,2023,1320.731,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2023,224.353,False,synthetic
+Czechia,country,Regular Carbonates,2023,1096.378,False,synthetic
+Hungary,country,Carbonates,2023,1155.64,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2023,196.308,False,synthetic
+Hungary,country,Regular Carbonates,2023,959.331,False,synthetic
+Ukraine,country,Carbonates,2023,1981.096,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2023,336.529,False,synthetic
+Ukraine,country,Regular Carbonates,2023,1644.568,False,synthetic
+Eastern Europe,region,Carbonates,2024,8628.835,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2024,1508.852,False,synthetic
+Eastern Europe,region,Regular Carbonates,2024,7119.983,False,synthetic
+Poland,country,Carbonates,2024,2416.074,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2024,422.479,False,synthetic
+Poland,country,Regular Carbonates,2024,1993.595,False,synthetic
+Romania,country,Carbonates,2024,1553.19,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2024,271.593,False,synthetic
+Romania,country,Regular Carbonates,2024,1281.597,False,synthetic
+Czechia,country,Carbonates,2024,1380.614,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2024,241.416,False,synthetic
+Czechia,country,Regular Carbonates,2024,1139.197,False,synthetic
+Hungary,country,Carbonates,2024,1208.037,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2024,211.239,False,synthetic
+Hungary,country,Regular Carbonates,2024,996.798,False,synthetic
+Ukraine,country,Carbonates,2024,2070.921,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2024,362.125,False,synthetic
+Ukraine,country,Regular Carbonates,2024,1708.796,False,synthetic
+Eastern Europe,region,Carbonates,2025,9000.0,False,synthetic
+Eastern Europe,region,Reduced Sugar Carbonates,2025,1620.0,False,synthetic
+Eastern Europe,region,Regular Carbonates,2025,7380.0,False,synthetic
+Poland,country,Carbonates,2025,2520.0,False,synthetic
+Poland,country,Reduced Sugar Carbonates,2025,453.6,False,synthetic
+Poland,country,Regular Carbonates,2025,2066.4,False,synthetic
+Romania,country,Carbonates,2025,1620.0,False,synthetic
+Romania,country,Reduced Sugar Carbonates,2025,291.6,False,synthetic
+Romania,country,Regular Carbonates,2025,1328.4,False,synthetic
+Czechia,country,Carbonates,2025,1440.0,False,synthetic
+Czechia,country,Reduced Sugar Carbonates,2025,259.2,False,synthetic
+Czechia,country,Regular Carbonates,2025,1180.8,False,synthetic
+Hungary,country,Carbonates,2025,1260.0,False,synthetic
+Hungary,country,Reduced Sugar Carbonates,2025,226.8,False,synthetic
+Hungary,country,Regular Carbonates,2025,1033.2,False,synthetic
+Ukraine,country,Carbonates,2025,2160.0,False,synthetic
+Ukraine,country,Reduced Sugar Carbonates,2025,388.8,False,synthetic
+Ukraine,country,Regular Carbonates,2025,1771.2,False,synthetic
+Asia Pacific,region,Carbonates,2011,24000.0,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2011,1200.0,False,synthetic
+Asia Pacific,region,Regular Carbonates,2011,22800.0,False,synthetic
+China,country,Carbonates,2011,9120.0,False,synthetic
+China,country,Reduced Sugar Carbonates,2011,456.0,False,synthetic
+China,country,Regular Carbonates,2011,8664.0,False,synthetic
+India,country,Carbonates,2011,5760.0,False,synthetic
+India,country,Reduced Sugar Carbonates,2011,288.0,False,synthetic
+India,country,Regular Carbonates,2011,5472.0,False,synthetic
+Japan,country,Carbonates,2011,3840.0,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2011,192.0,False,synthetic
+Japan,country,Regular Carbonates,2011,3648.0,False,synthetic
+South Korea,country,Carbonates,2011,2400.0,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2011,120.0,False,synthetic
+South Korea,country,Regular Carbonates,2011,2280.0,False,synthetic
+Indonesia,country,Carbonates,2011,2880.0,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2011,144.0,False,synthetic
+Indonesia,country,Regular Carbonates,2011,2736.0,False,synthetic
+Asia Pacific,region,Carbonates,2012,25028.83,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2012,1295.297,False,synthetic
+Asia Pacific,region,Regular Carbonates,2012,23733.534,False,synthetic
+China,country,Carbonates,2012,9510.955,False,synthetic
+China,country,Reduced Sugar Carbonates,2012,492.213,False,synthetic
+China,country,Regular Carbonates,2012,9018.743,False,synthetic
+India,country,Carbonates,2012,6006.919,False,synthetic
+India,country,Reduced Sugar Carbonates,2012,310.871,False,synthetic
+India,country,Regular Carbonates,2012,5696.048,False,synthetic
+Japan,country,Carbonates,2012,4004.613,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2012,207.247,False,synthetic
+Japan,country,Regular Carbonates,2012,3797.365,False,synthetic
+South Korea,country,Carbonates,2012,2502.883,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2012,129.53,False,synthetic
+South Korea,country,Regular Carbonates,2012,2373.353,False,synthetic
+Indonesia,country,Carbonates,2012,3003.46,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2012,155.436,False,synthetic
+Indonesia,country,Regular Carbonates,2012,2848.024,False,synthetic
+Asia Pacific,region,Carbonates,2013,26127.801,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2013,1398.433,False,synthetic
+Asia Pacific,region,Regular Carbonates,2013,24729.368,False,synthetic
+China,country,Carbonates,2013,9928.564,False,synthetic
+China,country,Reduced Sugar Carbonates,2013,531.405,False,synthetic
+China,country,Regular Carbonates,2013,9397.16,False,synthetic
+India,country,Carbonates,2013,6270.672,False,synthetic
+India,country,Reduced Sugar Carbonates,2013,335.624,False,synthetic
+India,country,Regular Carbonates,2013,5935.048,False,synthetic
+Japan,country,Carbonates,2013,4180.448,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2013,223.749,False,synthetic
+Japan,country,Regular Carbonates,2013,3956.699,False,synthetic
+South Korea,country,Carbonates,2013,2612.78,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2013,139.843,False,synthetic
+South Korea,country,Regular Carbonates,2013,2472.937,False,synthetic
+Indonesia,country,Carbonates,2013,3135.336,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2013,167.812,False,synthetic
+Indonesia,country,Regular Carbonates,2013,2967.524,False,synthetic
+Asia Pacific,region,Carbonates,2014,27257.026,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2014,1502.123,False,synthetic
+Asia Pacific,region,Regular Carbonates,2014,25754.903,False,synthetic
+China,country,Carbonates,2014,10357.67,False,synthetic
+China,country,Reduced Sugar Carbonates,2014,570.807,False,synthetic
+China,country,Regular Carbonates,2014,9786.863,False,synthetic
+India,country,Carbonates,2014,6541.686,False,synthetic
+India,country,Reduced Sugar Carbonates,2014,360.51,False,synthetic
+India,country,Regular Carbonates,2014,6181.177,False,synthetic
+Japan,country,Carbonates,2014,4361.124,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2014,240.34,False,synthetic
+Japan,country,Regular Carbonates,2014,4120.784,False,synthetic
+South Korea,country,Carbonates,2014,2725.703,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2014,150.212,False,synthetic
+South Korea,country,Regular Carbonates,2014,2575.49,False,synthetic
+Indonesia,country,Carbonates,2014,3270.843,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2014,180.255,False,synthetic
+Indonesia,country,Regular Carbonates,2014,3090.588,False,synthetic
+Asia Pacific,region,Carbonates,2015,28375.525,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2015,1604.483,False,synthetic
+Asia Pacific,region,Regular Carbonates,2015,26771.041,False,synthetic
+China,country,Carbonates,2015,10782.699,False,synthetic
+China,country,Reduced Sugar Carbonates,2015,609.704,False,synthetic
+China,country,Regular Carbonates,2015,10172.996,False,synthetic
+India,country,Carbonates,2015,6810.126,False,synthetic
+India,country,Reduced Sugar Carbonates,2015,385.076,False,synthetic
+India,country,Regular Carbonates,2015,6425.05,False,synthetic
+Japan,country,Carbonates,2015,4540.084,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2015,256.717,False,synthetic
+Japan,country,Regular Carbonates,2015,4283.367,False,synthetic
+South Korea,country,Carbonates,2015,2837.552,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2015,160.448,False,synthetic
+South Korea,country,Regular Carbonates,2015,2677.104,False,synthetic
+Indonesia,country,Carbonates,2015,3405.063,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2015,192.538,False,synthetic
+Indonesia,country,Regular Carbonates,2015,3212.525,False,synthetic
+Asia Pacific,region,Carbonates,2016,29460.898,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2016,1712.74,False,synthetic
+Asia Pacific,region,Regular Carbonates,2016,27748.159,False,synthetic
+China,country,Carbonates,2016,11195.141,False,synthetic
+China,country,Reduced Sugar Carbonates,2016,650.841,False,synthetic
+China,country,Regular Carbonates,2016,10544.3,False,synthetic
+India,country,Carbonates,2016,7070.616,False,synthetic
+India,country,Reduced Sugar Carbonates,2016,411.058,False,synthetic
+India,country,Regular Carbonates,2016,6659.558,False,synthetic
+Japan,country,Carbonates,2016,4713.744,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2016,274.038,False,synthetic
+Japan,country,Regular Carbonates,2016,4439.705,False,synthetic
+South Korea,country,Carbonates,2016,2946.09,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2016,171.274,False,synthetic
+South Korea,country,Regular Carbonates,2016,2774.816,False,synthetic
+Indonesia,country,Carbonates,2016,3535.308,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2016,205.529,False,synthetic
+Indonesia,country,Regular Carbonates,2016,3329.779,False,synthetic
+Asia Pacific,region,Carbonates,2017,30522.365,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2017,1837.816,False,synthetic
+Asia Pacific,region,Regular Carbonates,2017,28684.548,False,synthetic
+China,country,Carbonates,2017,11598.499,False,synthetic
+China,country,Reduced Sugar Carbonates,2017,698.37,False,synthetic
+China,country,Regular Carbonates,2017,10900.128,False,synthetic
+India,country,Carbonates,2017,7325.368,False,synthetic
+India,country,Reduced Sugar Carbonates,2017,441.076,False,synthetic
+India,country,Regular Carbonates,2017,6884.292,False,synthetic
+Japan,country,Carbonates,2017,4883.578,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2017,294.051,False,synthetic
+Japan,country,Regular Carbonates,2017,4589.528,False,synthetic
+South Korea,country,Carbonates,2017,3052.236,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2017,183.782,False,synthetic
+South Korea,country,Regular Carbonates,2017,2868.455,False,synthetic
+Indonesia,country,Carbonates,2017,3662.684,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2017,220.538,False,synthetic
+Indonesia,country,Regular Carbonates,2017,3442.146,False,synthetic
+Asia Pacific,region,Carbonates,2018,31600.652,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2018,1984.206,False,synthetic
+Asia Pacific,region,Regular Carbonates,2018,29616.446,False,synthetic
+China,country,Carbonates,2018,12008.248,False,synthetic
+China,country,Reduced Sugar Carbonates,2018,753.998,False,synthetic
+China,country,Regular Carbonates,2018,11254.249,False,synthetic
+India,country,Carbonates,2018,7584.156,False,synthetic
+India,country,Reduced Sugar Carbonates,2018,476.21,False,synthetic
+India,country,Regular Carbonates,2018,7107.947,False,synthetic
+Japan,country,Carbonates,2018,5056.104,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2018,317.473,False,synthetic
+Japan,country,Regular Carbonates,2018,4738.631,False,synthetic
+South Korea,country,Carbonates,2018,3160.065,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2018,198.421,False,synthetic
+South Korea,country,Regular Carbonates,2018,2961.645,False,synthetic
+Indonesia,country,Carbonates,2018,3792.078,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2018,238.105,False,synthetic
+Indonesia,country,Regular Carbonates,2018,3553.973,False,synthetic
+Asia Pacific,region,Carbonates,2019,32753.684,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2019,2145.3,False,synthetic
+Asia Pacific,region,Regular Carbonates,2019,30608.385,False,synthetic
+China,country,Carbonates,2019,12446.4,False,synthetic
+China,country,Reduced Sugar Carbonates,2019,815.214,False,synthetic
+China,country,Regular Carbonates,2019,11631.186,False,synthetic
+India,country,Carbonates,2019,7860.884,False,synthetic
+India,country,Reduced Sugar Carbonates,2019,514.872,False,synthetic
+India,country,Regular Carbonates,2019,7346.012,False,synthetic
+Japan,country,Carbonates,2019,5240.59,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2019,343.248,False,synthetic
+Japan,country,Regular Carbonates,2019,4897.342,False,synthetic
+South Korea,country,Carbonates,2019,3275.368,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2019,214.53,False,synthetic
+South Korea,country,Regular Carbonates,2019,3060.838,False,synthetic
+Indonesia,country,Carbonates,2019,3930.442,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2019,257.436,False,synthetic
+Indonesia,country,Regular Carbonates,2019,3673.006,False,synthetic
+Asia Pacific,region,Carbonates,2020,34033.373,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2020,2310.02,False,synthetic
+Asia Pacific,region,Regular Carbonates,2020,31723.353,False,synthetic
+China,country,Carbonates,2020,12932.682,False,synthetic
+China,country,Reduced Sugar Carbonates,2020,877.808,False,synthetic
+China,country,Regular Carbonates,2020,12054.874,False,synthetic
+India,country,Carbonates,2020,8168.01,False,synthetic
+India,country,Reduced Sugar Carbonates,2020,554.405,False,synthetic
+India,country,Regular Carbonates,2020,7613.605,False,synthetic
+Japan,country,Carbonates,2020,5445.34,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2020,369.603,False,synthetic
+Japan,country,Regular Carbonates,2020,5075.737,False,synthetic
+South Korea,country,Carbonates,2020,3403.337,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2020,231.002,False,synthetic
+South Korea,country,Regular Carbonates,2020,3172.335,False,synthetic
+Indonesia,country,Carbonates,2020,4084.005,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2020,277.202,False,synthetic
+Indonesia,country,Regular Carbonates,2020,3806.802,False,synthetic
+Asia Pacific,region,Carbonates,2021,35463.314,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2021,2695.793,False,synthetic
+Asia Pacific,region,Regular Carbonates,2021,32767.521,False,synthetic
+China,country,Carbonates,2021,13476.059,False,synthetic
+China,country,Reduced Sugar Carbonates,2021,1024.401,False,synthetic
+China,country,Regular Carbonates,2021,12451.658,False,synthetic
+India,country,Carbonates,2021,8511.195,False,synthetic
+India,country,Reduced Sugar Carbonates,2021,646.99,False,synthetic
+India,country,Regular Carbonates,2021,7864.205,False,synthetic
+Japan,country,Carbonates,2021,5674.13,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2021,431.327,False,synthetic
+Japan,country,Regular Carbonates,2021,5242.803,False,synthetic
+South Korea,country,Carbonates,2021,3546.331,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2021,269.579,False,synthetic
+South Korea,country,Regular Carbonates,2021,3276.752,False,synthetic
+Indonesia,country,Carbonates,2021,4255.598,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2021,323.495,False,synthetic
+Indonesia,country,Regular Carbonates,2021,3932.103,False,synthetic
+Asia Pacific,region,Carbonates,2022,37027.589,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2022,3145.991,False,synthetic
+Asia Pacific,region,Regular Carbonates,2022,33881.599,False,synthetic
+China,country,Carbonates,2022,14070.484,False,synthetic
+China,country,Reduced Sugar Carbonates,2022,1195.476,False,synthetic
+China,country,Regular Carbonates,2022,12875.008,False,synthetic
+India,country,Carbonates,2022,8886.621,False,synthetic
+India,country,Reduced Sugar Carbonates,2022,755.038,False,synthetic
+India,country,Regular Carbonates,2022,8131.584,False,synthetic
+Japan,country,Carbonates,2022,5924.414,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2022,503.359,False,synthetic
+Japan,country,Regular Carbonates,2022,5421.056,False,synthetic
+South Korea,country,Carbonates,2022,3702.759,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2022,314.599,False,synthetic
+South Korea,country,Regular Carbonates,2022,3388.16,False,synthetic
+Indonesia,country,Carbonates,2022,4443.311,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2022,377.519,False,synthetic
+Indonesia,country,Regular Carbonates,2022,4065.792,False,synthetic
+Asia Pacific,region,Carbonates,2023,38676.656,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2023,3671.371,False,synthetic
+Asia Pacific,region,Regular Carbonates,2023,35005.285,False,synthetic
+China,country,Carbonates,2023,14697.129,False,synthetic
+China,country,Reduced Sugar Carbonates,2023,1395.121,False,synthetic
+China,country,Regular Carbonates,2023,13302.008,False,synthetic
+India,country,Carbonates,2023,9282.397,False,synthetic
+India,country,Reduced Sugar Carbonates,2023,881.129,False,synthetic
+India,country,Regular Carbonates,2023,8401.268,False,synthetic
+Japan,country,Carbonates,2023,6188.265,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2023,587.419,False,synthetic
+Japan,country,Regular Carbonates,2023,5600.846,False,synthetic
+South Korea,country,Carbonates,2023,3867.666,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2023,367.137,False,synthetic
+South Korea,country,Regular Carbonates,2023,3500.528,False,synthetic
+Indonesia,country,Carbonates,2023,4641.199,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2023,440.565,False,synthetic
+Indonesia,country,Regular Carbonates,2023,4200.634,False,synthetic
+Asia Pacific,region,Carbonates,2024,40349.008,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2024,4284.49,False,synthetic
+Asia Pacific,region,Regular Carbonates,2024,36064.517,False,synthetic
+China,country,Carbonates,2024,15332.623,False,synthetic
+China,country,Reduced Sugar Carbonates,2024,1628.106,False,synthetic
+China,country,Regular Carbonates,2024,13704.517,False,synthetic
+India,country,Carbonates,2024,9683.762,False,synthetic
+India,country,Reduced Sugar Carbonates,2024,1028.278,False,synthetic
+India,country,Regular Carbonates,2024,8655.484,False,synthetic
+Japan,country,Carbonates,2024,6455.841,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2024,685.518,False,synthetic
+Japan,country,Regular Carbonates,2024,5770.323,False,synthetic
+South Korea,country,Carbonates,2024,4034.901,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2024,428.449,False,synthetic
+South Korea,country,Regular Carbonates,2024,3606.452,False,synthetic
+Indonesia,country,Carbonates,2024,4841.881,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2024,514.139,False,synthetic
+Indonesia,country,Regular Carbonates,2024,4327.742,False,synthetic
+Asia Pacific,region,Carbonates,2025,42000.0,False,synthetic
+Asia Pacific,region,Reduced Sugar Carbonates,2025,5000.0,False,synthetic
+Asia Pacific,region,Regular Carbonates,2025,37000.0,False,synthetic
+China,country,Carbonates,2025,15960.0,False,synthetic
+China,country,Reduced Sugar Carbonates,2025,1900.0,False,synthetic
+China,country,Regular Carbonates,2025,14060.0,False,synthetic
+India,country,Carbonates,2025,10080.0,False,synthetic
+India,country,Reduced Sugar Carbonates,2025,1200.0,False,synthetic
+India,country,Regular Carbonates,2025,8880.0,False,synthetic
+Japan,country,Carbonates,2025,6720.0,False,synthetic
+Japan,country,Reduced Sugar Carbonates,2025,800.0,False,synthetic
+Japan,country,Regular Carbonates,2025,5920.0,False,synthetic
+South Korea,country,Carbonates,2025,4200.0,False,synthetic
+South Korea,country,Reduced Sugar Carbonates,2025,500.0,False,synthetic
+South Korea,country,Regular Carbonates,2025,3700.0,False,synthetic
+Indonesia,country,Carbonates,2025,5040.0,False,synthetic
+Indonesia,country,Reduced Sugar Carbonates,2025,600.0,False,synthetic
+Indonesia,country,Regular Carbonates,2025,4440.0,False,synthetic
+Australasia,region,Carbonates,2011,3800.0,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2011,570.0,False,synthetic
+Australasia,region,Regular Carbonates,2011,3230.0,False,synthetic
+Australia,country,Carbonates,2011,2166.0,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2011,324.9,False,synthetic
+Australia,country,Regular Carbonates,2011,1841.1,False,synthetic
+New Zealand,country,Carbonates,2011,836.0,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2011,125.4,False,synthetic
+New Zealand,country,Regular Carbonates,2011,710.6,False,synthetic
+Fiji,country,Carbonates,2011,228.0,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2011,34.2,False,synthetic
+Fiji,country,Regular Carbonates,2011,193.8,False,synthetic
+Papua New Guinea,country,Carbonates,2011,380.0,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2011,57.0,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2011,323.0,False,synthetic
+Samoa,country,Carbonates,2011,190.0,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2011,28.5,False,synthetic
+Samoa,country,Regular Carbonates,2011,161.5,False,synthetic
+Australasia,region,Carbonates,2012,3792.939,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2012,584.614,False,synthetic
+Australasia,region,Regular Carbonates,2012,3208.324,False,synthetic
+Australia,country,Carbonates,2012,2161.975,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2012,333.23,False,synthetic
+Australia,country,Regular Carbonates,2012,1828.745,False,synthetic
+New Zealand,country,Carbonates,2012,834.447,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2012,128.615,False,synthetic
+New Zealand,country,Regular Carbonates,2012,705.831,False,synthetic
+Fiji,country,Carbonates,2012,227.576,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2012,35.077,False,synthetic
+Fiji,country,Regular Carbonates,2012,192.499,False,synthetic
+Papua New Guinea,country,Carbonates,2012,379.294,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2012,58.461,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2012,320.832,False,synthetic
+Samoa,country,Carbonates,2012,189.647,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2012,29.231,False,synthetic
+Samoa,country,Regular Carbonates,2012,160.416,False,synthetic
+Australasia,region,Carbonates,2013,3789.667,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2013,600.201,False,synthetic
+Australasia,region,Regular Carbonates,2013,3189.466,False,synthetic
+Australia,country,Carbonates,2013,2160.11,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2013,342.115,False,synthetic
+Australia,country,Regular Carbonates,2013,1817.995,False,synthetic
+New Zealand,country,Carbonates,2013,833.727,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2013,132.044,False,synthetic
+New Zealand,country,Regular Carbonates,2013,701.682,False,synthetic
+Fiji,country,Carbonates,2013,227.38,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2013,36.012,False,synthetic
+Fiji,country,Regular Carbonates,2013,191.368,False,synthetic
+Papua New Guinea,country,Carbonates,2013,378.967,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2013,60.02,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2013,318.947,False,synthetic
+Samoa,country,Carbonates,2013,189.483,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2013,30.01,False,synthetic
+Samoa,country,Regular Carbonates,2013,159.473,False,synthetic
+Australasia,region,Carbonates,2014,3783.899,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2014,615.798,False,synthetic
+Australasia,region,Regular Carbonates,2014,3168.102,False,synthetic
+Australia,country,Carbonates,2014,2156.823,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2014,351.005,False,synthetic
+Australia,country,Regular Carbonates,2014,1805.818,False,synthetic
+New Zealand,country,Carbonates,2014,832.458,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2014,135.475,False,synthetic
+New Zealand,country,Regular Carbonates,2014,696.982,False,synthetic
+Fiji,country,Carbonates,2014,227.034,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2014,36.948,False,synthetic
+Fiji,country,Regular Carbonates,2014,190.086,False,synthetic
+Papua New Guinea,country,Carbonates,2014,378.39,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2014,61.58,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2014,316.81,False,synthetic
+Samoa,country,Carbonates,2014,189.195,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2014,30.79,False,synthetic
+Samoa,country,Regular Carbonates,2014,158.405,False,synthetic
+Australasia,region,Carbonates,2015,3770.231,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2015,630.476,False,synthetic
+Australasia,region,Regular Carbonates,2015,3139.755,False,synthetic
+Australia,country,Carbonates,2015,2149.032,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2015,359.371,False,synthetic
+Australia,country,Regular Carbonates,2015,1789.66,False,synthetic
+New Zealand,country,Carbonates,2015,829.451,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2015,138.705,False,synthetic
+New Zealand,country,Regular Carbonates,2015,690.746,False,synthetic
+Fiji,country,Carbonates,2015,226.214,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2015,37.829,False,synthetic
+Fiji,country,Regular Carbonates,2015,188.385,False,synthetic
+Papua New Guinea,country,Carbonates,2015,377.023,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2015,63.048,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2015,313.975,False,synthetic
+Samoa,country,Carbonates,2015,188.512,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2015,31.524,False,synthetic
+Samoa,country,Regular Carbonates,2015,156.988,False,synthetic
+Australasia,region,Carbonates,2016,3746.562,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2016,643.778,False,synthetic
+Australasia,region,Regular Carbonates,2016,3102.784,False,synthetic
+Australia,country,Carbonates,2016,2135.54,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2016,366.953,False,synthetic
+Australia,country,Regular Carbonates,2016,1768.587,False,synthetic
+New Zealand,country,Carbonates,2016,824.244,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2016,141.631,False,synthetic
+New Zealand,country,Regular Carbonates,2016,682.613,False,synthetic
+Fiji,country,Carbonates,2016,224.794,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2016,38.627,False,synthetic
+Fiji,country,Regular Carbonates,2016,186.167,False,synthetic
+Papua New Guinea,country,Carbonates,2016,374.656,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2016,64.378,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2016,310.278,False,synthetic
+Samoa,country,Carbonates,2016,187.328,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2016,32.189,False,synthetic
+Samoa,country,Regular Carbonates,2016,155.139,False,synthetic
+Australasia,region,Carbonates,2017,3715.079,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2017,655.954,False,synthetic
+Australasia,region,Regular Carbonates,2017,3059.125,False,synthetic
+Australia,country,Carbonates,2017,2117.595,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2017,373.894,False,synthetic
+Australia,country,Regular Carbonates,2017,1743.701,False,synthetic
+New Zealand,country,Carbonates,2017,817.317,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2017,144.31,False,synthetic
+New Zealand,country,Regular Carbonates,2017,673.007,False,synthetic
+Fiji,country,Carbonates,2017,222.905,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2017,39.357,False,synthetic
+Fiji,country,Regular Carbonates,2017,183.547,False,synthetic
+Papua New Guinea,country,Carbonates,2017,371.508,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2017,65.595,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2017,305.912,False,synthetic
+Samoa,country,Carbonates,2017,185.754,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2017,32.798,False,synthetic
+Samoa,country,Regular Carbonates,2017,152.956,False,synthetic
+Australasia,region,Carbonates,2018,3681.365,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2018,667.908,False,synthetic
+Australasia,region,Regular Carbonates,2018,3013.456,False,synthetic
+Australia,country,Carbonates,2018,2098.378,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2018,380.708,False,synthetic
+Australia,country,Regular Carbonates,2018,1717.67,False,synthetic
+New Zealand,country,Carbonates,2018,809.9,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2018,146.94,False,synthetic
+New Zealand,country,Regular Carbonates,2018,662.96,False,synthetic
+Fiji,country,Carbonates,2018,220.882,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2018,40.074,False,synthetic
+Fiji,country,Regular Carbonates,2018,180.807,False,synthetic
+Papua New Guinea,country,Carbonates,2018,368.136,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2018,66.791,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2018,301.346,False,synthetic
+Samoa,country,Carbonates,2018,184.068,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2018,33.395,False,synthetic
+Samoa,country,Regular Carbonates,2018,150.673,False,synthetic
+Australasia,region,Carbonates,2019,3652.043,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2019,680.842,False,synthetic
+Australasia,region,Regular Carbonates,2019,2971.201,False,synthetic
+Australia,country,Carbonates,2019,2081.664,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2019,388.08,False,synthetic
+Australia,country,Regular Carbonates,2019,1693.585,False,synthetic
+New Zealand,country,Carbonates,2019,803.449,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2019,149.785,False,synthetic
+New Zealand,country,Regular Carbonates,2019,653.664,False,synthetic
+Fiji,country,Carbonates,2019,219.123,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2019,40.851,False,synthetic
+Fiji,country,Regular Carbonates,2019,178.272,False,synthetic
+Papua New Guinea,country,Carbonates,2019,365.204,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2019,68.084,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2019,297.12,False,synthetic
+Samoa,country,Carbonates,2019,182.602,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2019,34.042,False,synthetic
+Samoa,country,Regular Carbonates,2019,148.56,False,synthetic
+Australasia,region,Carbonates,2020,3631.981,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2020,695.755,False,synthetic
+Australasia,region,Regular Carbonates,2020,2936.226,False,synthetic
+Australia,country,Carbonates,2020,2070.229,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2020,396.58,False,synthetic
+Australia,country,Regular Carbonates,2020,1673.649,False,synthetic
+New Zealand,country,Carbonates,2020,799.036,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2020,153.066,False,synthetic
+New Zealand,country,Regular Carbonates,2020,645.97,False,synthetic
+Fiji,country,Carbonates,2020,217.919,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2020,41.745,False,synthetic
+Fiji,country,Regular Carbonates,2020,176.174,False,synthetic
+Papua New Guinea,country,Carbonates,2020,363.198,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2020,69.575,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2020,293.623,False,synthetic
+Samoa,country,Carbonates,2020,181.599,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2020,34.788,False,synthetic
+Samoa,country,Regular Carbonates,2020,146.811,False,synthetic
+Australasia,region,Carbonates,2021,3622.27,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2021,713.01,False,synthetic
+Australasia,region,Regular Carbonates,2021,2909.26,False,synthetic
+Australia,country,Carbonates,2021,2064.694,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2021,406.416,False,synthetic
+Australia,country,Regular Carbonates,2021,1658.278,False,synthetic
+New Zealand,country,Carbonates,2021,796.899,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2021,156.862,False,synthetic
+New Zealand,country,Regular Carbonates,2021,640.037,False,synthetic
+Fiji,country,Carbonates,2021,217.336,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2021,42.781,False,synthetic
+Fiji,country,Regular Carbonates,2021,174.556,False,synthetic
+Papua New Guinea,country,Carbonates,2021,362.227,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2021,71.301,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2021,290.926,False,synthetic
+Samoa,country,Carbonates,2021,181.114,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2021,35.651,False,synthetic
+Samoa,country,Regular Carbonates,2021,145.463,False,synthetic
+Australasia,region,Carbonates,2022,3619.844,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2022,732.162,False,synthetic
+Australasia,region,Regular Carbonates,2022,2887.682,False,synthetic
+Australia,country,Carbonates,2022,2063.311,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2022,417.332,False,synthetic
+Australia,country,Regular Carbonates,2022,1645.979,False,synthetic
+New Zealand,country,Carbonates,2022,796.366,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2022,161.076,False,synthetic
+New Zealand,country,Regular Carbonates,2022,635.29,False,synthetic
+Fiji,country,Carbonates,2022,217.191,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2022,43.93,False,synthetic
+Fiji,country,Regular Carbonates,2022,173.261,False,synthetic
+Papua New Guinea,country,Carbonates,2022,361.984,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2022,73.216,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2022,288.768,False,synthetic
+Samoa,country,Carbonates,2022,180.992,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2022,36.608,False,synthetic
+Samoa,country,Regular Carbonates,2022,144.384,False,synthetic
+Australasia,region,Carbonates,2023,3618.898,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2023,752.136,False,synthetic
+Australasia,region,Regular Carbonates,2023,2866.762,False,synthetic
+Australia,country,Carbonates,2023,2062.772,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2023,428.717,False,synthetic
+Australia,country,Regular Carbonates,2023,1634.054,False,synthetic
+New Zealand,country,Carbonates,2023,796.157,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2023,165.47,False,synthetic
+New Zealand,country,Regular Carbonates,2023,630.688,False,synthetic
+Fiji,country,Carbonates,2023,217.134,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2023,45.128,False,synthetic
+Fiji,country,Regular Carbonates,2023,172.006,False,synthetic
+Papua New Guinea,country,Carbonates,2023,361.89,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2023,75.214,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2023,286.676,False,synthetic
+Samoa,country,Carbonates,2023,180.945,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2023,37.607,False,synthetic
+Samoa,country,Regular Carbonates,2023,143.338,False,synthetic
+Australasia,region,Carbonates,2024,3613.459,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2024,771.694,False,synthetic
+Australasia,region,Regular Carbonates,2024,2841.765,False,synthetic
+Australia,country,Carbonates,2024,2059.672,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2024,439.866,False,synthetic
+Australia,country,Regular Carbonates,2024,1619.806,False,synthetic
+New Zealand,country,Carbonates,2024,794.961,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2024,169.773,False,synthetic
+New Zealand,country,Regular Carbonates,2024,625.188,False,synthetic
+Fiji,country,Carbonates,2024,216.808,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2024,46.302,False,synthetic
+Fiji,country,Regular Carbonates,2024,170.506,False,synthetic
+Papua New Guinea,country,Carbonates,2024,361.346,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2024,77.169,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2024,284.176,False,synthetic
+Samoa,country,Carbonates,2024,180.673,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2024,38.585,False,synthetic
+Samoa,country,Regular Carbonates,2024,142.088,False,synthetic
+Australasia,region,Carbonates,2025,3600.0,False,synthetic
+Australasia,region,Reduced Sugar Carbonates,2025,790.0,False,synthetic
+Australasia,region,Regular Carbonates,2025,2810.0,False,synthetic
+Australia,country,Carbonates,2025,2052.0,False,synthetic
+Australia,country,Reduced Sugar Carbonates,2025,450.3,False,synthetic
+Australia,country,Regular Carbonates,2025,1601.7,False,synthetic
+New Zealand,country,Carbonates,2025,792.0,False,synthetic
+New Zealand,country,Reduced Sugar Carbonates,2025,173.8,False,synthetic
+New Zealand,country,Regular Carbonates,2025,618.2,False,synthetic
+Fiji,country,Carbonates,2025,216.0,False,synthetic
+Fiji,country,Reduced Sugar Carbonates,2025,47.4,False,synthetic
+Fiji,country,Regular Carbonates,2025,168.6,False,synthetic
+Papua New Guinea,country,Carbonates,2025,360.0,False,synthetic
+Papua New Guinea,country,Reduced Sugar Carbonates,2025,79.0,False,synthetic
+Papua New Guinea,country,Regular Carbonates,2025,281.0,False,synthetic
+Samoa,country,Carbonates,2025,180.0,False,synthetic
+Samoa,country,Reduced Sugar Carbonates,2025,39.5,False,synthetic
+Samoa,country,Regular Carbonates,2025,140.5,False,synthetic
+Middle East and Africa,region,Carbonates,2011,13000.0,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2011,1430.0,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2011,11570.0,False,synthetic
+South Africa,country,Carbonates,2011,3510.0,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2011,386.1,False,synthetic
+South Africa,country,Regular Carbonates,2011,3123.9,False,synthetic
+Nigeria,country,Carbonates,2011,2860.0,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2011,314.6,False,synthetic
+Nigeria,country,Regular Carbonates,2011,2545.4,False,synthetic
+Kenya,country,Carbonates,2011,1820.0,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2011,200.2,False,synthetic
+Kenya,country,Regular Carbonates,2011,1619.8,False,synthetic
+Egypt,country,Carbonates,2011,2600.0,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2011,286.0,False,synthetic
+Egypt,country,Regular Carbonates,2011,2314.0,False,synthetic
+Saudi Arabia,country,Carbonates,2011,2210.0,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2011,243.1,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2011,1966.9,False,synthetic
+Middle East and Africa,region,Carbonates,2012,13332.382,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2012,1492.044,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2012,11840.338,False,synthetic
+South Africa,country,Carbonates,2012,3599.743,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2012,402.852,False,synthetic
+South Africa,country,Regular Carbonates,2012,3196.891,False,synthetic
+Nigeria,country,Carbonates,2012,2933.124,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2012,328.25,False,synthetic
+Nigeria,country,Regular Carbonates,2012,2604.874,False,synthetic
+Kenya,country,Carbonates,2012,1866.533,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2012,208.886,False,synthetic
+Kenya,country,Regular Carbonates,2012,1657.647,False,synthetic
+Egypt,country,Carbonates,2012,2666.476,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2012,298.409,False,synthetic
+Egypt,country,Regular Carbonates,2012,2368.068,False,synthetic
+Saudi Arabia,country,Carbonates,2012,2266.505,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2012,253.647,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2012,2012.857,False,synthetic
+Middle East and Africa,region,Carbonates,2013,13686.901,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2013,1558.332,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2013,12128.569,False,synthetic
+South Africa,country,Carbonates,2013,3695.463,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2013,420.75,False,synthetic
+South Africa,country,Regular Carbonates,2013,3274.714,False,synthetic
+Nigeria,country,Carbonates,2013,3011.118,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2013,342.833,False,synthetic
+Nigeria,country,Regular Carbonates,2013,2668.285,False,synthetic
+Kenya,country,Carbonates,2013,1916.166,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2013,218.166,False,synthetic
+Kenya,country,Regular Carbonates,2013,1698.0,False,synthetic
+Egypt,country,Carbonates,2013,2737.38,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2013,311.666,False,synthetic
+Egypt,country,Regular Carbonates,2013,2425.714,False,synthetic
+Saudi Arabia,country,Carbonates,2013,2326.773,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2013,264.916,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2013,2061.857,False,synthetic
+Middle East and Africa,region,Carbonates,2014,14041.575,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2014,1626.491,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2014,12415.083,False,synthetic
+South Africa,country,Carbonates,2014,3791.225,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2014,439.153,False,synthetic
+South Africa,country,Regular Carbonates,2014,3352.072,False,synthetic
+Nigeria,country,Carbonates,2014,3089.146,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2014,357.828,False,synthetic
+Nigeria,country,Regular Carbonates,2014,2731.318,False,synthetic
+Kenya,country,Carbonates,2014,1965.82,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2014,227.709,False,synthetic
+Kenya,country,Regular Carbonates,2014,1738.112,False,synthetic
+Egypt,country,Carbonates,2014,2808.315,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2014,325.298,False,synthetic
+Egypt,country,Regular Carbonates,2014,2483.017,False,synthetic
+Saudi Arabia,country,Carbonates,2014,2387.068,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2014,276.504,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2014,2110.564,False,synthetic
+Middle East and Africa,region,Carbonates,2015,14375.28,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2015,1694.078,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2015,12681.202,False,synthetic
+South Africa,country,Carbonates,2015,3881.326,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2015,457.401,False,synthetic
+South Africa,country,Regular Carbonates,2015,3423.925,False,synthetic
+Nigeria,country,Carbonates,2015,3162.562,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2015,372.697,False,synthetic
+Nigeria,country,Regular Carbonates,2015,2789.865,False,synthetic
+Kenya,country,Carbonates,2015,2012.539,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2015,237.171,False,synthetic
+Kenya,country,Regular Carbonates,2015,1775.368,False,synthetic
+Egypt,country,Carbonates,2015,2875.056,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2015,338.816,False,synthetic
+Egypt,country,Regular Carbonates,2015,2536.24,False,synthetic
+Saudi Arabia,country,Carbonates,2015,2443.798,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2015,287.993,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2015,2155.804,False,synthetic
+Middle East and Africa,region,Carbonates,2016,14677.547,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2016,1759.753,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2016,12917.795,False,synthetic
+South Africa,country,Carbonates,2016,3962.938,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2016,475.133,False,synthetic
+South Africa,country,Regular Carbonates,2016,3487.805,False,synthetic
+Nigeria,country,Carbonates,2016,3229.06,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2016,387.146,False,synthetic
+Nigeria,country,Regular Carbonates,2016,2841.915,False,synthetic
+Kenya,country,Carbonates,2016,2054.857,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2016,246.365,False,synthetic
+Kenya,country,Regular Carbonates,2016,1808.491,False,synthetic
+Egypt,country,Carbonates,2016,2935.509,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2016,351.951,False,synthetic
+Egypt,country,Regular Carbonates,2016,2583.559,False,synthetic
+Saudi Arabia,country,Carbonates,2016,2495.183,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2016,299.158,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2016,2196.025,False,synthetic
+Middle East and Africa,region,Carbonates,2017,14954.117,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2017,1824.064,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2017,13130.053,False,synthetic
+South Africa,country,Carbonates,2017,4037.611,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2017,492.497,False,synthetic
+South Africa,country,Regular Carbonates,2017,3545.114,False,synthetic
+Nigeria,country,Carbonates,2017,3289.906,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2017,401.294,False,synthetic
+Nigeria,country,Regular Carbonates,2017,2888.612,False,synthetic
+Kenya,country,Carbonates,2017,2093.576,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2017,255.369,False,synthetic
+Kenya,country,Regular Carbonates,2017,1838.207,False,synthetic
+Egypt,country,Carbonates,2017,2990.823,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2017,364.813,False,synthetic
+Egypt,country,Regular Carbonates,2017,2626.011,False,synthetic
+Saudi Arabia,country,Carbonates,2017,2542.2,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2017,310.091,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2017,2232.109,False,synthetic
+Middle East and Africa,region,Carbonates,2018,15225.575,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2018,1889.444,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2018,13336.131,False,synthetic
+South Africa,country,Carbonates,2018,4110.905,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2018,510.15,False,synthetic
+South Africa,country,Regular Carbonates,2018,3600.755,False,synthetic
+Nigeria,country,Carbonates,2018,3349.627,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2018,415.678,False,synthetic
+Nigeria,country,Regular Carbonates,2018,2933.949,False,synthetic
+Kenya,country,Carbonates,2018,2131.581,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2018,264.522,False,synthetic
+Kenya,country,Regular Carbonates,2018,1867.058,False,synthetic
+Egypt,country,Carbonates,2018,3045.115,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2018,377.889,False,synthetic
+Egypt,country,Regular Carbonates,2018,2667.226,False,synthetic
+Saudi Arabia,country,Carbonates,2018,2588.348,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2018,321.206,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2018,2267.142,False,synthetic
+Middle East and Africa,region,Carbonates,2019,15519.328,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2019,1959.361,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2019,13559.967,False,synthetic
+South Africa,country,Carbonates,2019,4190.218,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2019,529.027,False,synthetic
+South Africa,country,Regular Carbonates,2019,3661.191,False,synthetic
+Nigeria,country,Carbonates,2019,3414.252,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2019,431.059,False,synthetic
+Nigeria,country,Regular Carbonates,2019,2983.193,False,synthetic
+Kenya,country,Carbonates,2019,2172.706,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2019,274.31,False,synthetic
+Kenya,country,Regular Carbonates,2019,1898.395,False,synthetic
+Egypt,country,Carbonates,2019,3103.866,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2019,391.872,False,synthetic
+Egypt,country,Regular Carbonates,2019,2711.993,False,synthetic
+Saudi Arabia,country,Carbonates,2019,2638.286,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2019,333.091,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2019,2305.194,False,synthetic
+Middle East and Africa,region,Carbonates,2020,15858.161,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2020,2036.927,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2020,13821.234,False,synthetic
+South Africa,country,Carbonates,2020,4281.703,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2020,549.97,False,synthetic
+South Africa,country,Regular Carbonates,2020,3731.733,False,synthetic
+Nigeria,country,Carbonates,2020,3488.795,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2020,448.124,False,synthetic
+Nigeria,country,Regular Carbonates,2020,3040.672,False,synthetic
+Kenya,country,Carbonates,2020,2220.143,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2020,285.17,False,synthetic
+Kenya,country,Regular Carbonates,2020,1934.973,False,synthetic
+Egypt,country,Carbonates,2020,3171.632,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2020,407.385,False,synthetic
+Egypt,country,Regular Carbonates,2020,2764.247,False,synthetic
+Saudi Arabia,country,Carbonates,2020,2695.887,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2020,346.278,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2020,2349.61,False,synthetic
+Middle East and Africa,region,Carbonates,2021,16250.331,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2021,2123.567,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2021,14126.765,False,synthetic
+South Africa,country,Carbonates,2021,4387.589,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2021,573.363,False,synthetic
+South Africa,country,Regular Carbonates,2021,3814.226,False,synthetic
+Nigeria,country,Carbonates,2021,3575.073,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2021,467.185,False,synthetic
+Nigeria,country,Regular Carbonates,2021,3107.888,False,synthetic
+Kenya,country,Carbonates,2021,2275.046,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2021,297.299,False,synthetic
+Kenya,country,Regular Carbonates,2021,1977.747,False,synthetic
+Egypt,country,Carbonates,2021,3250.066,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2021,424.713,False,synthetic
+Egypt,country,Regular Carbonates,2021,2825.353,False,synthetic
+Saudi Arabia,country,Carbonates,2021,2762.556,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2021,361.006,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2021,2401.55,False,synthetic
+Middle East and Africa,region,Carbonates,2022,16685.661,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2022,2218.34,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2022,14467.321,False,synthetic
+South Africa,country,Carbonates,2022,4505.128,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2022,598.952,False,synthetic
+South Africa,country,Regular Carbonates,2022,3906.177,False,synthetic
+Nigeria,country,Carbonates,2022,3670.845,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2022,488.035,False,synthetic
+Nigeria,country,Regular Carbonates,2022,3182.811,False,synthetic
+Kenya,country,Carbonates,2022,2335.993,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2022,310.568,False,synthetic
+Kenya,country,Regular Carbonates,2022,2025.425,False,synthetic
+Egypt,country,Carbonates,2022,3337.132,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2022,443.668,False,synthetic
+Egypt,country,Regular Carbonates,2022,2893.464,False,synthetic
+Saudi Arabia,country,Carbonates,2022,2836.562,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2022,377.118,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2022,2459.445,False,synthetic
+Middle East and Africa,region,Carbonates,2023,17139.651,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2023,2318.29,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2023,14821.361,False,synthetic
+South Africa,country,Carbonates,2023,4627.706,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2023,625.938,False,synthetic
+South Africa,country,Regular Carbonates,2023,4001.767,False,synthetic
+Nigeria,country,Carbonates,2023,3770.723,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2023,510.024,False,synthetic
+Nigeria,country,Regular Carbonates,2023,3260.699,False,synthetic
+Kenya,country,Carbonates,2023,2399.551,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2023,324.561,False,synthetic
+Kenya,country,Regular Carbonates,2023,2074.991,False,synthetic
+Egypt,country,Carbonates,2023,3427.93,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2023,463.658,False,synthetic
+Egypt,country,Regular Carbonates,2023,2964.272,False,synthetic
+Saudi Arabia,country,Carbonates,2023,2913.741,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2023,394.109,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2023,2519.631,False,synthetic
+Middle East and Africa,region,Carbonates,2024,17584.134,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2024,2419.736,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2024,15164.399,False,synthetic
+South Africa,country,Carbonates,2024,4747.716,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2024,653.329,False,synthetic
+South Africa,country,Regular Carbonates,2024,4094.388,False,synthetic
+Nigeria,country,Carbonates,2024,3868.51,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2024,532.342,False,synthetic
+Nigeria,country,Regular Carbonates,2024,3336.168,False,synthetic
+Kenya,country,Carbonates,2024,2461.779,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2024,338.763,False,synthetic
+Kenya,country,Regular Carbonates,2024,2123.016,False,synthetic
+Egypt,country,Carbonates,2024,3516.827,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2024,483.947,False,synthetic
+Egypt,country,Regular Carbonates,2024,3032.88,False,synthetic
+Saudi Arabia,country,Carbonates,2024,2989.303,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2024,411.355,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2024,2577.948,False,synthetic
+Middle East and Africa,region,Carbonates,2025,18000.0,False,synthetic
+Middle East and Africa,region,Reduced Sugar Carbonates,2025,2520.0,False,synthetic
+Middle East and Africa,region,Regular Carbonates,2025,15480.0,False,synthetic
+South Africa,country,Carbonates,2025,4860.0,False,synthetic
+South Africa,country,Reduced Sugar Carbonates,2025,680.4,False,synthetic
+South Africa,country,Regular Carbonates,2025,4179.6,False,synthetic
+Nigeria,country,Carbonates,2025,3960.0,False,synthetic
+Nigeria,country,Reduced Sugar Carbonates,2025,554.4,False,synthetic
+Nigeria,country,Regular Carbonates,2025,3405.6,False,synthetic
+Kenya,country,Carbonates,2025,2520.0,False,synthetic
+Kenya,country,Reduced Sugar Carbonates,2025,352.8,False,synthetic
+Kenya,country,Regular Carbonates,2025,2167.2,False,synthetic
+Egypt,country,Carbonates,2025,3600.0,False,synthetic
+Egypt,country,Reduced Sugar Carbonates,2025,504.0,False,synthetic
+Egypt,country,Regular Carbonates,2025,3096.0,False,synthetic
+Saudi Arabia,country,Carbonates,2025,3060.0,False,synthetic
+Saudi Arabia,country,Reduced Sugar Carbonates,2025,428.4,False,synthetic
+Saudi Arabia,country,Regular Carbonates,2025,2631.6,False,synthetic

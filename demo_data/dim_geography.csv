@@ -1,0 +1,44 @@
+geography,geo_level,is_passport_region,in_market_size,in_company_share,in_ingredient
+North America,region,True,True,True,True
+United States,country,False,True,False,False
+Canada,country,False,True,False,False
+Mexico,country,False,True,False,False
+Guatemala,country,False,True,False,False
+Costa Rica,country,False,True,False,False
+Latin America,region,True,True,True,True
+Brazil,country,False,True,False,False
+Argentina,country,False,True,False,False
+Chile,country,False,True,False,False
+Colombia,country,False,True,False,False
+Peru,country,False,True,False,False
+Western Europe,region,True,True,True,True
+United Kingdom,country,False,True,False,False
+France,country,False,True,False,False
+Germany,country,False,True,False,False
+Italy,country,False,True,False,False
+Spain,country,False,True,False,False
+Eastern Europe,region,True,True,True,True
+Poland,country,False,True,False,False
+Romania,country,False,True,False,False
+Czechia,country,False,True,False,False
+Hungary,country,False,True,False,False
+Ukraine,country,False,True,False,False
+Asia Pacific,region,True,True,True,True
+China,country,False,True,False,False
+India,country,False,True,False,False
+Japan,country,False,True,False,False
+South Korea,country,False,True,False,False
+Indonesia,country,False,True,False,False
+Australasia,region,True,True,True,True
+Australia,country,False,True,False,False
+New Zealand,country,False,True,False,False
+Fiji,country,False,True,False,False
+Papua New Guinea,country,False,True,False,False
+Samoa,country,False,True,False,False
+Middle East and Africa,region,True,True,True,True
+South Africa,country,False,True,False,False
+Nigeria,country,False,True,False,False
+Kenya,country,False,True,False,False
+Egypt,country,False,True,False,False
+Saudi Arabia,country,False,True,False,False
+World,world,False,False,False,True

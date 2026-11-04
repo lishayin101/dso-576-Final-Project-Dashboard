@@ -1,0 +1,36 @@
+geography,iso3,display_region
+United States,USA,North America
+Canada,CAN,North America
+Mexico,MEX,North America
+Guatemala,GTM,North America
+Costa Rica,CRI,North America
+Brazil,BRA,Latin America
+Argentina,ARG,Latin America
+Chile,CHL,Latin America
+Colombia,COL,Latin America
+Peru,PER,Latin America
+United Kingdom,GBR,Western Europe
+France,FRA,Western Europe
+Germany,DEU,Western Europe
+Italy,ITA,Western Europe
+Spain,ESP,Western Europe
+Poland,POL,Eastern Europe
+Romania,ROU,Eastern Europe
+Czechia,CZE,Eastern Europe
+Hungary,HUN,Eastern Europe
+Ukraine,UKR,Eastern Europe
+China,CHN,Asia Pacific
+India,IND,Asia Pacific
+Japan,JPN,Asia Pacific
+South Korea,KOR,Asia Pacific
+Indonesia,IDN,Asia Pacific
+Australia,AUS,Australasia
+New Zealand,NZL,Australasia
+Fiji,FJI,Australasia
+Papua New Guinea,PNG,Australasia
+Samoa,WSM,Australasia
+South Africa,ZAF,Middle East and Africa
+Nigeria,NGA,Middle East and Africa
+Kenya,KEN,Middle East and Africa
+Egypt,EGY,Middle East and Africa
+Saudi Arabia,SAU,Middle East and Africa
