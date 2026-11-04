@@ -1,0 +1,106 @@
+:root {
+  --citrus-bg: #f7f5e9;
+  --citrus-paper: #fffef8;
+  --citrus-ink: #24392a;
+  --citrus-muted: #5d6a58;
+  --citrus-line: #d9dfcb;
+  --citrus-lime: #c8ee60;
+  --citrus-green: #446b31;
+  --citrus-orange: #d45a32;
+}
+.stApp, [data-testid="stAppViewContainer"] {
+  background: var(--citrus-bg);
+  color: var(--citrus-ink);
+  font-family: Arial, Helvetica, sans-serif;
+}
+[data-testid="stHeader"] { background: var(--citrus-bg); }
+.block-container { max-width: 1440px; padding-top: 4.8rem; padding-bottom: 3rem; }
+h1, h2, h3 { color: var(--citrus-ink); letter-spacing: -.035em; }
+h1, h2 { font-family: "Arial Black", Arial, sans-serif; font-weight: 900; }
+[data-testid="stCaptionContainer"], .small { color: var(--citrus-muted); }
+[data-testid="stCaptionContainer"] p { color: var(--citrus-muted); }
+.stApp .citrus-hero h1, .stApp .citrus-section h2 {
+  font-family: "Arial Black", Arial, sans-serif;
+  font-weight: 900;
+  display: block;
+}
+.citrus-hero [data-testid="stHeaderActionElements"],
+.citrus-section [data-testid="stHeaderActionElements"] { display: none; }
+.small { font-size: .84rem; }
+.citrus-brandbar {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 20px; padding: 0 0 21px; margin-bottom: 25px;
+  border-bottom: 1px solid var(--citrus-line);
+}
+.citrus-wordmark {
+  display: flex; align-items: center; gap: 12px; white-space: nowrap;
+  font-size: 26px; font-weight: 900; letter-spacing: -1.3px;
+}
+.citrus-bubble {
+  position: relative; width: 27px; height: 27px; flex-shrink: 0;
+  border: 7px solid var(--citrus-green); border-radius: 50%;
+}
+.citrus-bubble::after {
+  content: ""; position: absolute; width: 7px; height: 7px;
+  right: -12px; top: -10px; background: var(--citrus-orange); border-radius: 50%;
+}
+.citrus-tagline { font-size: 10px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; }
+.citrus-hero {
+  display: flex; justify-content: space-between; align-items: center; gap: 25px;
+  padding: 34px 38px; margin-bottom: 20px; background: #e6efc9;
+  border-radius: 22px; overflow: hidden;
+}
+.citrus-hero-copy { max-width: 710px; }
+.citrus-eyebrow { font-size: 10px; font-weight: 800; letter-spacing: 2px; text-transform: uppercase; }
+.citrus-eyebrow::before { content: "●"; margin-right: 9px; color: var(--citrus-green); }
+.citrus-hero h1 { font-size: clamp(32px, 4vw, 51px); line-height: 1.07; margin: 16px 0; padding: 0; }
+.citrus-hero h1 em { color: var(--citrus-orange); font-style: normal; }
+.citrus-hero p { max-width: 590px; margin: 0; font-size: 14px; color: var(--citrus-muted); }
+.citrus-can-scene { position: relative; display: grid; place-items: center; width: 150px; min-width: 150px; height: 175px; }
+.citrus-can-scene::before { content: ""; position: absolute; width: 140px; height: 140px; border: 1px solid #446b3133; border-radius: 50%; }
+.citrus-spark { position: absolute; right: 0; top: 0; color: var(--citrus-orange); font-size: 32px; }
+.citrus-can {
+  display: flex; flex-direction: column; justify-content: center; text-align: center;
+  position: relative; width: 88px; height: 150px; border-radius: 19px 19px 22px 22px;
+  background: var(--citrus-green); color: var(--citrus-paper);
+  transform: rotate(12deg); box-shadow: 10px 14px 0 #24392a0d;
+}
+.citrus-can::before { content: ""; position: absolute; top: 3px; left: 7px; right: 7px; border-top: 5px solid #ffffff70; border-radius: 50%; }
+.citrus-can b { font-size: 24px; line-height: .95; letter-spacing: -1px; }
+.citrus-can small { font-size: 7px; text-transform: uppercase; letter-spacing: 1px; margin-top: 13px; }
+.citrus-orb { position: absolute; bottom: 12px; right: 9px; border: 2px solid var(--citrus-lime); width: 15px; height: 15px; border-radius: 50%; }
+.control-card { background: #edf1e3; border: 1px solid var(--citrus-line); border-radius: 14px; padding: 12px 17px; margin: 4px 0 16px; }
+.control-card b { color: var(--citrus-ink); }
+.formula { background: #edf1e3; border-left: 4px solid var(--citrus-green); padding: 10px 14px; border-radius: 5px; color: var(--citrus-muted); font-size: .85rem; }
+[data-testid="stMetric"] { background: var(--citrus-paper); border: 1px solid var(--citrus-line); border-radius: 22px; padding: 18px 22px; }
+[data-testid="stPlotlyChart"] { background: var(--citrus-paper); border: 1px solid var(--citrus-line); border-radius: 22px; padding: 12px 8px; overflow: hidden; }
+[data-testid="stDataFrame"] { border: 1px solid var(--citrus-line); border-radius: 16px; overflow: hidden; }
+[data-baseweb="select"] > div { background: var(--citrus-paper); border-color: var(--citrus-line); border-radius: 9px; }
+[data-testid="stExpander"] { border-color: var(--citrus-line); border-radius: 14px; }
+[data-testid="stAlert"] { border-radius: 12px; }
+.citrus-section { margin: 31px 0 13px; display: flex; align-items: center; gap: 13px; scroll-margin-top: 80px; }
+.citrus-section .citrus-number { display: grid; place-items: center; width: 29px; height: 29px; border: 1px solid var(--citrus-line); border-radius: 50%; color: var(--citrus-muted); font-size: 10px; flex-shrink: 0; }
+.citrus-section h2 { margin: 0 0 4px; padding: 0; font-size: 25px; line-height: 1.2; }
+.citrus-section p { margin: 0; font-size: 12px; color: var(--citrus-muted); }
+[data-testid="stSidebar"] { background: var(--citrus-bg); border-right: 1px solid var(--citrus-line); }
+.citrus-nav-label { font-size: 10px; font-weight: 800; letter-spacing: 2px; color: var(--citrus-muted); margin: 25px 0 18px; }
+.citrus-nav { display: grid; gap: 7px; }
+.citrus-nav a { display: flex; gap: 13px; padding: 12px 13px; color: var(--citrus-ink); text-decoration: none; font-size: 13px; border-radius: 9px; }
+.citrus-nav a:first-child { background: var(--citrus-lime); }
+.citrus-nav a:hover, .citrus-nav a:focus-visible { background: #e6efc9; }
+.citrus-nav a span { color: var(--citrus-muted); font-size: 11px; }
+.citrus-sidebar-note { margin-top: 70px; color: var(--citrus-muted); font-size: 11px; line-height: 1.8; }
+.citrus-sidebar-note strong { color: var(--citrus-ink); font-size: 14px; }
+.citrus-footer { margin-top: 35px; border-top: 1px solid var(--citrus-line); padding-top: 17px; display: flex; justify-content: space-between; gap: 18px; color: var(--citrus-muted); font-size: 11px; }
+@media(max-width:760px) {
+  .block-container { padding-left: 1rem; padding-right: 1rem; }
+  .citrus-brandbar { gap: 10px; }
+  .citrus-wordmark { font-size: 23px; }
+  .citrus-tagline { display: none; }
+  .citrus-hero { padding: 26px; }
+  .citrus-hero h1 { font-size: 36px; }
+  .citrus-can-scene { display: none; }
+  .citrus-section h2 { font-size: 22px; }
+  .citrus-footer { flex-direction: column; }
+}
+@media(prefers-reduced-motion:reduce) { * { scroll-behavior: auto !important; } }
