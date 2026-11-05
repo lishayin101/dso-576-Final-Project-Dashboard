@@ -33,12 +33,27 @@ years = sorted(region_market.year.dropna().astype(int).unique())
 
 brand_header()
 st.caption("Executive market scan · Synthetic demo data · Off-trade volume (million litres)")
-st.markdown('<div class="control-card"><b>Dashboard-wide filters</b><br><span class="small">Year updates every view. Region updates the demand-trend focus and the left sweetener pie. Controls that apply to only one analysis are placed directly above that analysis.</span></div>', unsafe_allow_html=True)
-f1, f2, _ = st.columns([1, 1, 2])
-with f1:
-    year = st.slider("Year · applies dashboard-wide", min(years), max(years), max(years))
-with f2:
-    region = st.selectbox("Region · trend and regional sweetener focus", REGIONS, index=REGIONS.index("North America"))
+with st.sidebar:
+    st.markdown("### Dashboard filters")
+    st.caption(
+        "Year updates the growth map, region comparison, demand-trend markers, "
+        "company-share pies, and both sweetener pies. Company pies use the latest "
+        "available year at or before the selection, falling back to the earliest "
+        "available year; sweetener data covers 2020–2025."
+    )
+    year = st.slider("Year", min(years), max(years), max(years), key="dashboard_year")
+    st.caption(
+        "Region updates the demand-trend focus, company-share pies and movement, "
+        "and the regional sweetener pie. It does not change the global sweetener pie."
+    )
+    region = st.selectbox(
+        "Region", REGIONS, index=REGIONS.index("North America"), key="dashboard_region"
+    )
+    st.markdown(
+        '<div class="citrus-sidebar-note"><strong>A fresh perspective<br>on the next market.</strong>'
+        '<br><br>Off-trade volume<br>2011–2025<br><br>Synthetic demo data</div>',
+        unsafe_allow_html=True,
+    )
 
 # V1 — the display grouping is illustrative; analytical values come from region rows.
 region_red = region_market[region_market.category == "Reduced Sugar Carbonates"].pivot(
@@ -121,13 +136,16 @@ with c2:
 section_header(4, 'competition', "Who's in the cooler?", 'Company share: regular vs reduced sugar')
 share_years=sorted(companies.year.dropna().astype(int).unique())
 share_year=max([y for y in share_years if y<=year],default=min(share_years))
-if share_year != year: st.info(f"Company-share data has no {year} row; showing the latest available year not after it: {share_year}.")
+if share_year != year:
+    if year < min(share_years):
+        st.info(f"Company-share data starts in {min(share_years)}; showing its earliest available year: {share_year}.")
+    else:
+        st.info(f"Company-share data has no {year} row; showing the latest available year before it: {share_year}.")
 
-def company_panel(container, title, category, key):
+def company_panel(container, title, category):
     with container:
-        st.subheader(title)
-        geo=st.selectbox("Region · this pie only",REGIONS,index=REGIONS.index(region),key=key)
-        result=company_share_pie_data(companies,geo,category,share_year)
+        st.subheader(f"{title} in {region}")
+        result=company_share_pie_data(companies,region,category,share_year)
         if result.data.empty:
             st.info("No company data for this selection in the current dataset")
             return
@@ -136,23 +154,22 @@ def company_panel(container, title, category, key):
         f.update_layout(height=390,margin=dict(t=10,b=10,l=5,r=5),legend=dict(orientation="h"))
         render_chart(f,use_container_width=True)
         formula("Company share (%) = company retail volume ÷ category retail volume × 100 (synthetic demo estimate); Total row excluded")
-        top=top_company(companies,geo,category,share_year).data
+        top=top_company(companies,region,category,share_year).data
         st.caption(f"n = {result.n} reported companies · Top non-aggregate company: {top.iloc[0].company if not top.empty else 'N/A'} · {result.note}")
 
 left,right=st.columns(2)
-company_panel(left,"Regular carbonates","Regular Carbonates","regular_geo")
-company_panel(right,"Reduced-sugar carbonates","Reduced Sugar Carbonates","reduced_geo")
+company_panel(left,"Regular Carbonates","Regular Carbonates")
+company_panel(right,"Reduced-sugar Carbonates","Reduced Sugar Carbonates")
 
-st.subheader("Company-share movement")
-m1,m2,m3,m4=st.columns(4)
-with m1: move_geo=st.selectbox("Region · movement only",REGIONS,index=REGIONS.index(region),key="move_geo")
-with m2: move_cat=st.selectbox("Category · movement only",["Regular Carbonates","Reduced Sugar Carbonates"],index=1)
-move_years=sorted(companies[(companies.geography==move_geo)&(companies.category==move_cat)].year.dropna().astype(int).unique())
-with m3: move_start=st.selectbox("Start year",move_years[:-1],index=0)
-with m4:
+st.subheader(f"Company Share Movement in {region}")
+m1,m2,m3=st.columns(3)
+with m1: move_cat=st.selectbox("Category · movement only",["Regular Carbonates","Reduced Sugar Carbonates"],index=1)
+move_years=sorted(companies[(companies.geography==region)&(companies.category==move_cat)].year.dropna().astype(int).unique())
+with m2: move_start=st.selectbox("Start year",move_years[:-1],index=0)
+with m3:
     end_options=[y for y in move_years if y>move_start]
     move_end=st.selectbox("End year",end_options,index=(end_options.index(2025) if 2025 in end_options else len(end_options)-1))
-change=company_share_change_pp(companies,move_geo,move_cat,move_start,move_end)
+change=company_share_change_pp(companies,region,move_cat,move_start,move_end)
 if change.data.empty: st.info("No companies are reported in both selected years.")
 else:
     f=px.bar(change.data,x="share_change_pp",y="company",orientation="h",color="share_change_pp",

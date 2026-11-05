@@ -69,8 +69,6 @@ h1, h2 { font-family: "Arial Black", Arial, sans-serif; font-weight: 900; }
 .citrus-can b { font-size: 24px; line-height: .95; letter-spacing: -1px; }
 .citrus-can small { font-size: 7px; text-transform: uppercase; letter-spacing: 1px; margin-top: 13px; }
 .citrus-orb { position: absolute; bottom: 12px; right: 9px; border: 2px solid var(--citrus-lime); width: 15px; height: 15px; border-radius: 50%; }
-.control-card { background: #edf1e3; border: 1px solid var(--citrus-line); border-radius: 14px; padding: 12px 17px; margin: 4px 0 16px; }
-.control-card b { color: var(--citrus-ink); }
 .formula { background: #edf1e3; border-left: 4px solid var(--citrus-green); padding: 10px 14px; border-radius: 5px; color: var(--citrus-muted); font-size: .85rem; }
 [data-testid="stMetric"] { background: var(--citrus-paper); border: 1px solid var(--citrus-line); border-radius: 22px; padding: 18px 22px; }
 [data-testid="stPlotlyChart"] { background: var(--citrus-paper); border: 1px solid var(--citrus-line); border-radius: 22px; padding: 12px 8px; overflow: hidden; }

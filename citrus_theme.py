@@ -34,8 +34,7 @@ def apply_theme():
 <a href="#compare" target="_self"><span>02</span>Region comparison</a>
 <a href="#demand" target="_self"><span>03</span>Demand trends</a>
 <a href="#competition" target="_self"><span>04</span>Competition</a>
-<a href="#sweeteners" target="_self"><span>05</span>Sweetener mix</a></nav>
-<div class="citrus-sidebar-note"><strong>A fresh perspective<br>on the next market.</strong><br><br>Off-trade volume<br>2011–2025<br><br>Synthetic demo data</div>''', unsafe_allow_html=True)
+<a href="#sweeteners" target="_self"><span>05</span>Sweetener mix</a></nav>''', unsafe_allow_html=True)
 
 
 def brand_header():
